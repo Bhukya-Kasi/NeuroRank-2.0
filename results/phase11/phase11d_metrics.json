@@ -1,0 +1,45 @@
+{
+  "evaluation": "validation_judged_retrieved_candidates",
+  "validation_queries": 97,
+  "train_ranking_groups": 389,
+  "baseline_full_model_ndcg10": 0.7708,
+  "experiments": [
+    {
+      "experiment": "full_model",
+      "ndcg10": 0.7708,
+      "feature_count": 8,
+      "removed_features": "none",
+      "delta_vs_full": 0.0
+    },
+    {
+      "experiment": "without_lexical",
+      "ndcg10": 0.7768,
+      "feature_count": 6,
+      "removed_features": "bm25, bm25_rank",
+      "delta_vs_full": 0.006
+    },
+    {
+      "experiment": "without_semantic",
+      "ndcg10": 0.7652,
+      "feature_count": 6,
+      "removed_features": "semantic, semantic_rank",
+      "delta_vs_full": -0.0056
+    },
+    {
+      "experiment": "without_text_matching",
+      "ndcg10": 0.7693,
+      "feature_count": 6,
+      "removed_features": "title_overlap, exact_phrase",
+      "delta_vs_full": -0.0015
+    },
+    {
+      "experiment": "without_length",
+      "ndcg10": 0.7781,
+      "feature_count": 6,
+      "removed_features": "title_length, query_length",
+      "delta_vs_full": 0.0073
+    }
+  ],
+  "final_test_used": false,
+  "note": "Ablations are development experiments. Unjudged retrieval results are excluded. This is not end-to-end NDCG."
+}

@@ -1,0 +1,2079 @@
+example_id,query,query_id,product_id,product_locale,label,small_version,large_version,split,research_split
+9772,.17 cleaning rod,332,B07SQ86Y4K,us,S,1,1,train,validation
+9773,.17 cleaning rod,332,B07RFHF398,us,S,1,1,train,validation
+9774,.17 cleaning rod,332,B07QLY9VH6,us,S,1,1,train,validation
+9775,.17 cleaning rod,332,B07B3RX9FF,us,I,1,1,train,validation
+9776,.17 cleaning rod,332,B07KN1JWQ6,us,S,1,1,train,validation
+9777,.17 cleaning rod,332,B07Y6BTV6T,us,C,1,1,train,validation
+9778,.17 cleaning rod,332,B078HFRQT4,us,E,1,1,train,validation
+9779,.17 cleaning rod,332,B07NGX7R64,us,E,1,1,train,validation
+9780,.17 cleaning rod,332,B07ZZDQ9LX,us,I,1,1,train,validation
+9781,.17 cleaning rod,332,B08LCZBMCD,us,S,1,1,train,validation
+9782,.17 cleaning rod,332,B08929B1NT,us,E,1,1,train,validation
+9783,.17 cleaning rod,332,B08HGDV49L,us,S,1,1,train,validation
+9784,.17 cleaning rod,332,B08MWDVWQ2,us,S,1,1,train,validation
+9785,.17 cleaning rod,332,B08R6GQK8H,us,E,1,1,train,validation
+9786,.17 cleaning rod,332,B08TH8VZ57,us,S,1,1,train,validation
+9787,.17 cleaning rod,332,B08XW81F2W,us,E,1,1,train,validation
+9788,.17 cleaning rod,332,B0926XRCLQ,us,E,1,1,train,validation
+9789,.17 cleaning rod,332,B0728B18XW,us,I,1,1,train,validation
+9790,.17 cleaning rod,332,B088KMGQ2W,us,E,1,1,train,validation
+9791,.17 cleaning rod,332,B01DL96ZEQ,us,S,1,1,train,validation
+9792,.17 cleaning rod,332,B01B496H70,us,I,1,1,train,validation
+9793,.17 cleaning rod,332,B000VYOKOW,us,E,1,1,train,validation
+9794,.17 cleaning rod,332,B01B496H8E,us,E,1,1,train,validation
+9795,.17 cleaning rod,332,B0000C1COV,us,I,1,1,train,validation
+9796,.17 cleaning rod,332,B0000C517G,us,I,1,1,train,validation
+9797,.17 cleaning rod,332,B000AU2VY8,us,S,1,1,train,validation
+9798,.17 cleaning rod,332,B000PW84I8,us,E,1,1,train,validation
+9799,.17 cleaning rod,332,B000S5SH8O,us,E,1,1,train,validation
+9800,.17 cleaning rod,332,B00117AHM2,us,E,1,1,train,validation
+9801,.17 cleaning rod,332,B0013R6A2G,us,E,1,1,train,validation
+9802,.17 cleaning rod,332,B00162KSCQ,us,S,1,1,train,validation
+9803,.17 cleaning rod,332,B0048KBGXS,us,E,1,1,train,validation
+9804,.17 cleaning rod,332,B0048KI37K,us,E,1,1,train,validation
+9805,.17 cleaning rod,332,B004UC1G8O,us,S,1,1,train,validation
+9806,.17 cleaning rod,332,B0052G62Q8,us,I,1,1,train,validation
+9807,.17 cleaning rod,332,B005BSOQ7Y,us,S,1,1,train,validation
+9808,.17 cleaning rod,332,B00OCO9HG8,us,E,1,1,train,validation
+9809,.17 cleaning rod,332,B00RPADGY0,us,E,1,1,train,validation
+9810,.17 cleaning rod,332,B00XRLXAP6,us,E,1,1,train,validation
+9811,.17 cleaning rod,332,B001ASZMNG,us,E,1,1,train,validation
+11459,/were not kidding album,392,B07Z7HZKC6,us,I,1,1,train,validation
+11460,/were not kidding album,392,B07J4FKM52,us,I,1,1,train,validation
+11461,/were not kidding album,392,B07MY45M72,us,I,1,1,train,validation
+11462,/were not kidding album,392,B07PCRGP8P,us,I,1,1,train,validation
+11463,/were not kidding album,392,B07TZVYZ27,us,I,1,1,train,validation
+11464,/were not kidding album,392,B07V1TWBS6,us,I,1,1,train,validation
+11465,/were not kidding album,392,B07VRLGQ3Z,us,I,1,1,train,validation
+11466,/were not kidding album,392,B07HGW2P7X,us,I,1,1,train,validation
+11467,/were not kidding album,392,B07ZVH5JDN,us,I,1,1,train,validation
+11468,/were not kidding album,392,B08BXZHF1Y,us,I,1,1,train,validation
+11469,/were not kidding album,392,B081K2BYS7,us,I,1,1,train,validation
+11470,/were not kidding album,392,B085K85LWP,us,I,1,1,train,validation
+11471,/were not kidding album,392,B089W8CTSM,us,S,1,1,train,validation
+11472,/were not kidding album,392,B08F21W5KH,us,I,1,1,train,validation
+11473,/were not kidding album,392,B08GYBHM9Y,us,E,1,1,train,validation
+11474,/were not kidding album,392,B08L71NRVC,us,I,1,1,train,validation
+11475,/were not kidding album,392,B08SQJBV8T,us,I,1,1,train,validation
+11476,/were not kidding album,392,B07H494HH3,us,I,1,1,train,validation
+11477,/were not kidding album,392,B08Y5TDNY7,us,I,1,1,train,validation
+11478,/were not kidding album,392,B07H3NKLBP,us,I,1,1,train,validation
+11479,/were not kidding album,392,B004W8OXIG,us,I,1,1,train,validation
+11480,/were not kidding album,392,B0793KLZQ7,us,I,1,1,train,validation
+11481,/were not kidding album,392,0938663542,us,E,1,1,train,validation
+11482,/were not kidding album,392,B00068WRPM,us,S,1,1,train,validation
+11483,/were not kidding album,392,B000B7C3DY,us,I,1,1,train,validation
+11484,/were not kidding album,392,B001FYSB0Q,us,I,1,1,train,validation
+11485,/were not kidding album,392,B0794MWW5Q,us,I,1,1,train,validation
+11486,/were not kidding album,392,B004I1ZU52,us,I,1,1,train,validation
+11487,/were not kidding album,392,B004O9SCOO,us,I,1,1,train,validation
+11488,/were not kidding album,392,B004OBA1BY,us,S,1,1,train,validation
+11489,/were not kidding album,392,B003OFD2BM,us,I,1,1,train,validation
+11490,/were not kidding album,392,B00MW09LME,us,I,1,1,train,validation
+11491,/were not kidding album,392,B011B9GHFU,us,I,1,1,train,validation
+11492,/were not kidding album,392,B01B1Z8YXM,us,I,1,1,train,validation
+11493,/were not kidding album,392,B01CXONWI2,us,I,1,1,train,validation
+11494,/were not kidding album,392,B01M6C6Z6N,us,I,1,1,train,validation
+11495,/were not kidding album,392,B06XT8W1V3,us,I,1,1,train,validation
+11496,/were not kidding album,392,B0745DTWMW,us,I,1,1,train,validation
+11497,/were not kidding album,392,B075R3RGPP,us,I,1,1,train,validation
+11498,/were not kidding album,392,B005P0XNVI,us,I,1,1,train,validation
+25663,1 way adjustable air diffuser 10 x 6,904,B07JXSLJ32,us,E,1,1,train,validation
+25664,1 way adjustable air diffuser 10 x 6,904,B010CUZO7G,us,S,1,1,train,validation
+25665,1 way adjustable air diffuser 10 x 6,904,B07JMT9588,us,S,1,1,train,validation
+25666,1 way adjustable air diffuser 10 x 6,904,B076WGB4RQ,us,S,1,1,train,validation
+25667,1 way adjustable air diffuser 10 x 6,904,B01HYC8W0Q,us,S,1,1,train,validation
+25668,1 way adjustable air diffuser 10 x 6,904,B01HYC7OJ6,us,I,1,1,train,validation
+25669,1 way adjustable air diffuser 10 x 6,904,B010CV1DGQ,us,I,1,1,train,validation
+25670,1 way adjustable air diffuser 10 x 6,904,B010CUYGHU,us,S,1,1,train,validation
+25671,1 way adjustable air diffuser 10 x 6,904,B006J2VAMK,us,E,1,1,train,validation
+25672,1 way adjustable air diffuser 10 x 6,904,B00L83OKRM,us,E,1,1,train,validation
+25673,1 way adjustable air diffuser 10 x 6,904,B006J2VE1C,us,I,1,1,train,validation
+25674,1 way adjustable air diffuser 10 x 6,904,B006J2VDPY,us,S,1,1,train,validation
+25675,1 way adjustable air diffuser 10 x 6,904,B006J2VD2W,us,S,1,1,train,validation
+25676,1 way adjustable air diffuser 10 x 6,904,B006J2VCVO,us,S,1,1,train,validation
+25677,1 way adjustable air diffuser 10 x 6,904,B0060ABOZY,us,S,1,1,train,validation
+25678,1 way adjustable air diffuser 10 x 6,904,B010CUX5GS,us,E,1,1,train,validation
+27920,1.5 cu ft mini fridge without freezer,984,B07S2RBCT5,us,S,1,1,train,validation
+27921,1.5 cu ft mini fridge without freezer,984,B08SBWXTMK,us,E,1,1,train,validation
+27922,1.5 cu ft mini fridge without freezer,984,B08DJ2W7SC,us,S,1,1,train,validation
+27923,1.5 cu ft mini fridge without freezer,984,B08D3VJQTZ,us,S,1,1,train,validation
+27924,1.5 cu ft mini fridge without freezer,984,B08D3THHG8,us,S,1,1,train,validation
+27925,1.5 cu ft mini fridge without freezer,984,B088STX6HK,us,I,1,1,train,validation
+27926,1.5 cu ft mini fridge without freezer,984,B07XJRZR8P,us,I,1,1,train,validation
+27927,1.5 cu ft mini fridge without freezer,984,B07K9G8QZ3,us,S,1,1,train,validation
+27928,1.5 cu ft mini fridge without freezer,984,B00M7GMEYK,us,S,1,1,train,validation
+27929,1.5 cu ft mini fridge without freezer,984,B01DZQI6XI,us,S,1,1,train,validation
+27930,1.5 cu ft mini fridge without freezer,984,B019RF0FV2,us,S,1,1,train,validation
+27931,1.5 cu ft mini fridge without freezer,984,B00MWXSFM8,us,I,1,1,train,validation
+27932,1.5 cu ft mini fridge without freezer,984,B00MVVIF2G,us,S,1,1,train,validation
+27933,1.5 cu ft mini fridge without freezer,984,B00MVVI1FC,us,S,1,1,train,validation
+27934,1.5 cu ft mini fridge without freezer,984,B00IR8H55A,us,I,1,1,train,validation
+27935,1.5 cu ft mini fridge without freezer,984,B01DZQI7B4,us,S,1,1,train,validation
+28531,1.50 reading glasses women's without blue light blocking,1006,B08T7PNC9J,us,I,1,1,train,validation
+28532,1.50 reading glasses women's without blue light blocking,1006,B08T7R2624,us,I,1,1,train,validation
+28533,1.50 reading glasses women's without blue light blocking,1006,B08TTPD4LN,us,I,1,1,train,validation
+28534,1.50 reading glasses women's without blue light blocking,1006,B08TZMGYB5,us,I,1,1,train,validation
+28535,1.50 reading glasses women's without blue light blocking,1006,B08V85KFQX,us,S,1,1,train,validation
+28536,1.50 reading glasses women's without blue light blocking,1006,B08ZS6D12C,us,E,1,1,train,validation
+28537,1.50 reading glasses women's without blue light blocking,1006,B09137W4N7,us,S,1,1,train,validation
+28538,1.50 reading glasses women's without blue light blocking,1006,B091HZJKT6,us,S,1,1,train,validation
+28539,1.50 reading glasses women's without blue light blocking,1006,B091Q1LL88,us,E,1,1,train,validation
+28540,1.50 reading glasses women's without blue light blocking,1006,B091Y4895T,us,S,1,1,train,validation
+28541,1.50 reading glasses women's without blue light blocking,1006,B093D1KDRH,us,I,1,1,train,validation
+28542,1.50 reading glasses women's without blue light blocking,1006,B093RNV4TP,us,I,1,1,train,validation
+28543,1.50 reading glasses women's without blue light blocking,1006,B093W8FKVJ,us,E,1,1,train,validation
+28544,1.50 reading glasses women's without blue light blocking,1006,B094QRK1D7,us,I,1,1,train,validation
+28545,1.50 reading glasses women's without blue light blocking,1006,B096ZH3XDK,us,S,1,1,train,validation
+28546,1.50 reading glasses women's without blue light blocking,1006,B097BS8LMC,us,S,1,1,train,validation
+28547,1.50 reading glasses women's without blue light blocking,1006,B097PS5TNL,us,I,1,1,train,validation
+28548,1.50 reading glasses women's without blue light blocking,1006,B08RYM7LG7,us,E,1,1,train,validation
+28549,1.50 reading glasses women's without blue light blocking,1006,B08QMXP3P1,us,S,1,1,train,validation
+28550,1.50 reading glasses women's without blue light blocking,1006,B08VGJS6L2,us,I,1,1,train,validation
+28551,1.50 reading glasses women's without blue light blocking,1006,B08MVZL963,us,S,1,1,train,validation
+28552,1.50 reading glasses women's without blue light blocking,1006,B08N4LMSL9,us,I,1,1,train,validation
+28553,1.50 reading glasses women's without blue light blocking,1006,B06WGQMZ1Q,us,E,1,1,train,validation
+28554,1.50 reading glasses women's without blue light blocking,1006,B07FDX6DR8,us,I,1,1,train,validation
+28555,1.50 reading glasses women's without blue light blocking,1006,B07FDXR8JC,us,I,1,1,train,validation
+28556,1.50 reading glasses women's without blue light blocking,1006,B07FNLT7L5,us,I,1,1,train,validation
+28557,1.50 reading glasses women's without blue light blocking,1006,B07SSYQ8CL,us,I,1,1,train,validation
+28558,1.50 reading glasses women's without blue light blocking,1006,B07VF3L845,us,S,1,1,train,validation
+28559,1.50 reading glasses women's without blue light blocking,1006,B07W781XWF,us,S,1,1,train,validation
+28560,1.50 reading glasses women's without blue light blocking,1006,B07YBHGT31,us,S,1,1,train,validation
+28561,1.50 reading glasses women's without blue light blocking,1006,B08V58TGTP,us,S,1,1,train,validation
+28562,1.50 reading glasses women's without blue light blocking,1006,B088P28BZN,us,E,1,1,train,validation
+28563,1.50 reading glasses women's without blue light blocking,1006,B085RFBQ7W,us,I,1,1,train,validation
+28564,1.50 reading glasses women's without blue light blocking,1006,B08KXSVCBM,us,S,1,1,train,validation
+28565,1.50 reading glasses women's without blue light blocking,1006,B08K8QZNKW,us,S,1,1,train,validation
+28566,1.50 reading glasses women's without blue light blocking,1006,B08HQZHS2G,us,E,1,1,train,validation
+28567,1.50 reading glasses women's without blue light blocking,1006,B08LCWCJ6L,us,S,1,1,train,validation
+28568,1.50 reading glasses women's without blue light blocking,1006,B08GWTR65Z,us,S,1,1,train,validation
+28569,1.50 reading glasses women's without blue light blocking,1006,B08G4XGP1J,us,I,1,1,train,validation
+28570,1.50 reading glasses women's without blue light blocking,1006,B08BXFQMRD,us,E,1,1,train,validation
+35753,10 oz nuk learner sippy cup without handles,1277,B07L2RD2L4,us,S,1,1,train,validation
+35754,10 oz nuk learner sippy cup without handles,1277,B07F3N8GRB,us,I,1,1,train,validation
+35755,10 oz nuk learner sippy cup without handles,1277,B01M12UZVR,us,S,1,1,train,validation
+35756,10 oz nuk learner sippy cup without handles,1277,B079H93J5N,us,E,1,1,train,validation
+35757,10 oz nuk learner sippy cup without handles,1277,B079H92SHL,us,E,1,1,train,validation
+35758,10 oz nuk learner sippy cup without handles,1277,B07L4S22N6,us,S,1,1,train,validation
+35759,10 oz nuk learner sippy cup without handles,1277,B079NJM2BK,us,E,1,1,train,validation
+35760,10 oz nuk learner sippy cup without handles,1277,B07Q2DX6GY,us,S,1,1,train,validation
+35761,10 oz nuk learner sippy cup without handles,1277,B08FCQ5T4B,us,E,1,1,train,validation
+35762,10 oz nuk learner sippy cup without handles,1277,B0835XVR86,us,S,1,1,train,validation
+35763,10 oz nuk learner sippy cup without handles,1277,B08362ZFPN,us,E,1,1,train,validation
+35764,10 oz nuk learner sippy cup without handles,1277,B0849L3ZXF,us,E,1,1,train,validation
+35765,10 oz nuk learner sippy cup without handles,1277,B08J8G5SHP,us,S,1,1,train,validation
+35766,10 oz nuk learner sippy cup without handles,1277,B0914RS61Z,us,E,1,1,train,validation
+35767,10 oz nuk learner sippy cup without handles,1277,B092LRZDVW,us,E,1,1,train,validation
+35768,10 oz nuk learner sippy cup without handles,1277,B094LCP4JG,us,S,1,1,train,validation
+35769,10 oz nuk learner sippy cup without handles,1277,B01J62C3WA,us,E,1,1,train,validation
+35770,10 oz nuk learner sippy cup without handles,1277,B0835TJRQB,us,E,1,1,train,validation
+35771,10 oz nuk learner sippy cup without handles,1277,B094PCDZ56,us,E,1,1,train,validation
+35772,10 oz nuk learner sippy cup without handles,1277,B01DDKJCCK,us,S,1,1,train,validation
+35773,10 oz nuk learner sippy cup without handles,1277,B019F5AU0U,us,S,1,1,train,validation
+35774,10 oz nuk learner sippy cup without handles,1277,B01DDKJAHW,us,S,1,1,train,validation
+35775,10 oz nuk learner sippy cup without handles,1277,B002QCPQ0E,us,S,1,1,train,validation
+35776,10 oz nuk learner sippy cup without handles,1277,B002UXQRM0,us,E,1,1,train,validation
+35777,10 oz nuk learner sippy cup without handles,1277,B004FPYG7O,us,C,1,1,train,validation
+35778,10 oz nuk learner sippy cup without handles,1277,B004MWJP4E,us,E,1,1,train,validation
+35779,10 oz nuk learner sippy cup without handles,1277,B004THDZ9I,us,E,1,1,train,validation
+35780,10 oz nuk learner sippy cup without handles,1277,B00739Q2B2,us,S,1,1,train,validation
+35781,10 oz nuk learner sippy cup without handles,1277,B00BEVSSWG,us,S,1,1,train,validation
+35782,10 oz nuk learner sippy cup without handles,1277,B004MWJP62,us,E,1,1,train,validation
+35783,10 oz nuk learner sippy cup without handles,1277,B00J3AXP46,us,I,1,1,train,validation
+35784,10 oz nuk learner sippy cup without handles,1277,B00JKQEDOO,us,E,1,1,train,validation
+35785,10 oz nuk learner sippy cup without handles,1277,B00KX3EW8U,us,E,1,1,train,validation
+35786,10 oz nuk learner sippy cup without handles,1277,B00L3SB354,us,I,1,1,train,validation
+35787,10 oz nuk learner sippy cup without handles,1277,B016Q7W7NI,us,E,1,1,train,validation
+35788,10 oz nuk learner sippy cup without handles,1277,B016Q7W9BI,us,S,1,1,train,validation
+35789,10 oz nuk learner sippy cup without handles,1277,B0193RWAEO,us,E,1,1,train,validation
+35790,10 oz nuk learner sippy cup without handles,1277,B00GEF7LHK,us,E,1,1,train,validation
+36551,10 step korean skin care set,1305,B07J28S93V,us,S,1,1,train,validation
+36552,10 step korean skin care set,1305,B07JZHFSPW,us,S,1,1,train,validation
+36553,10 step korean skin care set,1305,B07KGMWBHM,us,S,1,1,train,validation
+36554,10 step korean skin care set,1305,B07MH6CV9H,us,S,1,1,train,validation
+36555,10 step korean skin care set,1305,B07N1C7GJL,us,S,1,1,train,validation
+36556,10 step korean skin care set,1305,B07NRXKRHF,us,I,1,1,train,validation
+36557,10 step korean skin care set,1305,B07NTTSQWW,us,S,1,1,train,validation
+36558,10 step korean skin care set,1305,B07VRPS41L,us,S,1,1,train,validation
+36559,10 step korean skin care set,1305,B07ZVXK5K9,us,S,1,1,train,validation
+36560,10 step korean skin care set,1305,B07ZHMJDG8,us,S,1,1,train,validation
+36561,10 step korean skin care set,1305,B07GRCJ9Y8,us,I,1,1,train,validation
+36562,10 step korean skin care set,1305,B0853BJTDM,us,S,1,1,train,validation
+36563,10 step korean skin care set,1305,B086DX9LPW,us,S,1,1,train,validation
+36564,10 step korean skin care set,1305,B08GNXQFRQ,us,E,1,1,train,validation
+36565,10 step korean skin care set,1305,B08Q7QTJDR,us,E,1,1,train,validation
+36566,10 step korean skin care set,1305,B08QHYPWKP,us,E,1,1,train,validation
+36567,10 step korean skin care set,1305,B08QM7NFWS,us,S,1,1,train,validation
+36568,10 step korean skin care set,1305,B07YM1CDST,us,S,1,1,train,validation
+36569,10 step korean skin care set,1305,B07DXRYC8K,us,E,1,1,train,validation
+36570,10 step korean skin care set,1305,B07LB6MZQK,us,E,1,1,train,validation
+36571,10 step korean skin care set,1305,B07B6WZZ65,us,I,1,1,train,validation
+36572,10 step korean skin care set,1305,B07CXTLTKF,us,S,1,1,train,validation
+36573,10 step korean skin care set,1305,B00A9OT9WW,us,E,1,1,train,validation
+36574,10 step korean skin care set,1305,B00ATIG9A8,us,S,1,1,train,validation
+36575,10 step korean skin care set,1305,B00BEUAZTG,us,S,1,1,train,validation
+36576,10 step korean skin care set,1305,B00JGX9C6A,us,S,1,1,train,validation
+36577,10 step korean skin care set,1305,B00SH46VR2,us,E,1,1,train,validation
+36578,10 step korean skin care set,1305,B0133YZ22U,us,S,1,1,train,validation
+36579,10 step korean skin care set,1305,B0153M5Y6E,us,S,1,1,train,validation
+36580,10 step korean skin care set,1305,B0165NH6KW,us,E,1,1,train,validation
+36581,10 step korean skin care set,1305,B00SUZWGHM,us,C,1,1,train,validation
+36582,10 step korean skin care set,1305,B019RWHLZ8,us,S,1,1,train,validation
+36583,10 step korean skin care set,1305,B017J0HMSQ,us,S,1,1,train,validation
+36584,10 step korean skin care set,1305,B072K1LNNY,us,S,1,1,train,validation
+36585,10 step korean skin care set,1305,B01NBTYQKF,us,E,1,1,train,validation
+36586,10 step korean skin care set,1305,B01MA36CLT,us,E,1,1,train,validation
+36587,10 step korean skin care set,1305,B075ZJZLRK,us,E,1,1,train,validation
+36588,10 step korean skin care set,1305,B01LMND8N4,us,I,1,1,train,validation
+36589,10 step korean skin care set,1305,B01B5G45R6,us,C,1,1,train,validation
+36590,10 step korean skin care set,1305,B01M4MCUAF,us,C,1,1,train,validation
+42361,100” cutain rod without center support,1515,B07D5BH91T,us,E,1,1,train,validation
+42362,100” cutain rod without center support,1515,B074M5B687,us,E,1,1,train,validation
+42363,100” cutain rod without center support,1515,B076CG9ZRK,us,I,1,1,train,validation
+42364,100” cutain rod without center support,1515,B0792MXSQT,us,E,1,1,train,validation
+42365,100” cutain rod without center support,1515,B079JQDJFF,us,E,1,1,train,validation
+42366,100” cutain rod without center support,1515,B07C2GTLV5,us,E,1,1,train,validation
+42367,100” cutain rod without center support,1515,B07C2H5SPZ,us,E,1,1,train,validation
+42368,100” cutain rod without center support,1515,B07D5B3J3K,us,E,1,1,train,validation
+42369,100” cutain rod without center support,1515,B07D5CMLF7,us,E,1,1,train,validation
+42370,100” cutain rod without center support,1515,B073V44H23,us,E,1,1,train,validation
+42371,100” cutain rod without center support,1515,B07HGT78JG,us,I,1,1,train,validation
+42372,100” cutain rod without center support,1515,B07PDR9XQW,us,E,1,1,train,validation
+42373,100” cutain rod without center support,1515,B07PZB93L9,us,I,1,1,train,validation
+42374,100” cutain rod without center support,1515,B07SM8MSXM,us,E,1,1,train,validation
+42375,100” cutain rod without center support,1515,B07V239R96,us,E,1,1,train,validation
+42376,100” cutain rod without center support,1515,B0847G3CCM,us,E,1,1,train,validation
+42377,100” cutain rod without center support,1515,B084GDNQT8,us,S,1,1,train,validation
+42378,100” cutain rod without center support,1515,B08RHRKQ1G,us,S,1,1,train,validation
+42379,100” cutain rod without center support,1515,B07DSGHB44,us,E,1,1,train,validation
+42380,100” cutain rod without center support,1515,B073H746Q2,us,E,1,1,train,validation
+42381,100” cutain rod without center support,1515,B06XHLRLTH,us,S,1,1,train,validation
+42382,100” cutain rod without center support,1515,B06XHQWMM3,us,E,1,1,train,validation
+42383,100” cutain rod without center support,1515,B00DB1GR70,us,E,1,1,train,validation
+42384,100” cutain rod without center support,1515,B00DB1HMR4,us,E,1,1,train,validation
+42385,100” cutain rod without center support,1515,B00E4OJE2S,us,E,1,1,train,validation
+42386,100” cutain rod without center support,1515,B00FB6MG4Q,us,E,1,1,train,validation
+42387,100” cutain rod without center support,1515,B00FB6MHHW,us,E,1,1,train,validation
+42388,100” cutain rod without center support,1515,B00NLFCV94,us,E,1,1,train,validation
+42389,100” cutain rod without center support,1515,B010RYA5JE,us,I,1,1,train,validation
+42390,100” cutain rod without center support,1515,B010WAKH00,us,E,1,1,train,validation
+42391,100” cutain rod without center support,1515,B00DB1GN2Y,us,E,1,1,train,validation
+42392,100” cutain rod without center support,1515,B01GOTKKX2,us,E,1,1,train,validation
+42393,100” cutain rod without center support,1515,B01GOTKKD2,us,E,1,1,train,validation
+42394,100” cutain rod without center support,1515,B06X9QCX9N,us,E,1,1,train,validation
+42395,100” cutain rod without center support,1515,B06X9PHLSL,us,E,1,1,train,validation
+42396,100” cutain rod without center support,1515,B06Y2HJ142,us,E,1,1,train,validation
+42397,100” cutain rod without center support,1515,B01N0MJI9O,us,S,1,1,train,validation
+42398,100” cutain rod without center support,1515,B01MTWBWJ1,us,S,1,1,train,validation
+42399,100” cutain rod without center support,1515,B01MRT5A03,us,E,1,1,train,validation
+42400,100” cutain rod without center support,1515,B06WWGYF5P,us,E,1,1,train,validation
+46200,10’ ratchet straps without hooks,1661,B07PGHPYSP,us,E,1,1,train,validation
+46201,10’ ratchet straps without hooks,1661,B07PK3QBB7,us,S,1,1,train,validation
+46202,10’ ratchet straps without hooks,1661,B07QW8BCHN,us,S,1,1,train,validation
+46203,10’ ratchet straps without hooks,1661,B07SB3NDQP,us,S,1,1,train,validation
+46204,10’ ratchet straps without hooks,1661,B07SLWYV1Z,us,E,1,1,train,validation
+46205,10’ ratchet straps without hooks,1661,B07ST9V2YX,us,S,1,1,train,validation
+46206,10’ ratchet straps without hooks,1661,B08TTJFJ71,us,S,1,1,train,validation
+46207,10’ ratchet straps without hooks,1661,B07XXL4HN2,us,E,1,1,train,validation
+46208,10’ ratchet straps without hooks,1661,B07Z1X34DV,us,S,1,1,train,validation
+46209,10’ ratchet straps without hooks,1661,B0832H9PTG,us,S,1,1,train,validation
+46210,10’ ratchet straps without hooks,1661,B082YS61HB,us,E,1,1,train,validation
+46211,10’ ratchet straps without hooks,1661,B07JRG7LJV,us,S,1,1,train,validation
+46212,10’ ratchet straps without hooks,1661,B08BFY1PF1,us,E,1,1,train,validation
+46213,10’ ratchet straps without hooks,1661,B08CDD599L,us,S,1,1,train,validation
+46214,10’ ratchet straps without hooks,1661,B08CZMNQJX,us,S,1,1,train,validation
+46215,10’ ratchet straps without hooks,1661,B08D96T67N,us,I,1,1,train,validation
+46216,10’ ratchet straps without hooks,1661,B08GCRPY1Y,us,E,1,1,train,validation
+46217,10’ ratchet straps without hooks,1661,B08RW67ZH4,us,E,1,1,train,validation
+46218,10’ ratchet straps without hooks,1661,B0825L6GMQ,us,E,1,1,train,validation
+46219,10’ ratchet straps without hooks,1661,B07H27CLTW,us,E,1,1,train,validation
+46220,10’ ratchet straps without hooks,1661,B01N7P7EOX,us,E,1,1,train,validation
+46221,10’ ratchet straps without hooks,1661,B07GG6715T,us,S,1,1,train,validation
+46222,10’ ratchet straps without hooks,1661,B07GGRY6JV,us,S,1,1,train,validation
+46223,10’ ratchet straps without hooks,1661,B000X1YUZC,us,I,1,1,train,validation
+46224,10’ ratchet straps without hooks,1661,B002HJUZTI,us,I,1,1,train,validation
+46225,10’ ratchet straps without hooks,1661,B009FGA1HM,us,S,1,1,train,validation
+46226,10’ ratchet straps without hooks,1661,B0184LZQ9Q,us,S,1,1,train,validation
+46227,10’ ratchet straps without hooks,1661,B01ICG015C,us,S,1,1,train,validation
+46228,10’ ratchet straps without hooks,1661,B01IRRY4RM,us,S,1,1,train,validation
+46229,10’ ratchet straps without hooks,1661,B01L9U3I4O,us,I,1,1,train,validation
+46230,10’ ratchet straps without hooks,1661,B01F7KSAGI,us,I,1,1,train,validation
+46231,10’ ratchet straps without hooks,1661,B01MSE90ZM,us,I,1,1,train,validation
+46232,10’ ratchet straps without hooks,1661,B01MY4VG66,us,I,1,1,train,validation
+46233,10’ ratchet straps without hooks,1661,B073RGWGHW,us,S,1,1,train,validation
+46234,10’ ratchet straps without hooks,1661,B07475BGBT,us,E,1,1,train,validation
+46235,10’ ratchet straps without hooks,1661,B077TYSLSM,us,E,1,1,train,validation
+46236,10’ ratchet straps without hooks,1661,B078C5BQZX,us,S,1,1,train,validation
+46237,10’ ratchet straps without hooks,1661,B07BWWXD11,us,S,1,1,train,validation
+46238,10’ ratchet straps without hooks,1661,B01M07K9YW,us,S,1,1,train,validation
+46239,10’ ratchet straps without hooks,1661,B07DYPKZ8X,us,S,1,1,train,validation
+47330,11 mm allen wrench,1700,B075FV3QFV,us,S,1,1,train,validation
+47331,11 mm allen wrench,1700,B014SZEWZQ,us,S,1,1,train,validation
+47332,11 mm allen wrench,1700,B01LYUOUG9,us,E,1,1,train,validation
+47333,11 mm allen wrench,1700,B072JNK72R,us,S,1,1,train,validation
+47334,11 mm allen wrench,1700,B074PXK2BN,us,S,1,1,train,validation
+47335,11 mm allen wrench,1700,B074Q3SMFC,us,S,1,1,train,validation
+47336,11 mm allen wrench,1700,B075BZGJJK,us,S,1,1,train,validation
+47337,11 mm allen wrench,1700,B0782S4Y4J,us,I,1,1,train,validation
+47338,11 mm allen wrench,1700,B08QVSL5X7,us,I,1,1,train,validation
+47339,11 mm allen wrench,1700,B07FT54Y7M,us,E,1,1,train,validation
+47340,11 mm allen wrench,1700,B07GNW332G,us,S,1,1,train,validation
+47341,11 mm allen wrench,1700,B07RYR3BR7,us,E,1,1,train,validation
+47342,11 mm allen wrench,1700,B07S6BLTK2,us,S,1,1,train,validation
+47343,11 mm allen wrench,1700,B08FZX3SMY,us,E,1,1,train,validation
+47344,11 mm allen wrench,1700,B08MVKQKYL,us,S,1,1,train,validation
+47345,11 mm allen wrench,1700,B08SQGMLMV,us,S,1,1,train,validation
+47346,11 mm allen wrench,1700,B00I5TH074,us,S,1,1,train,validation
+47347,11 mm allen wrench,1700,B07DQN87J2,us,E,1,1,train,validation
+47348,11 mm allen wrench,1700,B00C3IQ3IA,us,E,1,1,train,validation
+47349,11 mm allen wrench,1700,B07NQX1Y96,us,S,1,1,train,validation
+47350,11 mm allen wrench,1700,B00C3I4GBG,us,E,1,1,train,validation
+47351,11 mm allen wrench,1700,B00012Y38W,us,S,1,1,train,validation
+47352,11 mm allen wrench,1700,B000189PRU,us,S,1,1,train,validation
+47353,11 mm allen wrench,1700,B000189Q7O,us,S,1,1,train,validation
+47354,11 mm allen wrench,1700,B000189RFU,us,S,1,1,train,validation
+47355,11 mm allen wrench,1700,B000189RGO,us,S,1,1,train,validation
+47356,11 mm allen wrench,1700,B00C3IB3DA,us,C,1,1,train,validation
+47357,11 mm allen wrench,1700,B000GAOAFK,us,I,1,1,train,validation
+47358,11 mm allen wrench,1700,B000GAQA4O,us,I,1,1,train,validation
+47359,11 mm allen wrench,1700,B000GAUR7U,us,S,1,1,train,validation
+47360,11 mm allen wrench,1700,B0000CBJE2,us,S,1,1,train,validation
+47361,11 mm allen wrench,1700,B000NOO4SW,us,E,1,1,train,validation
+47362,11 mm allen wrench,1700,B000NPUJMG,us,S,1,1,train,validation
+47363,11 mm allen wrench,1700,B000NU0SK4,us,S,1,1,train,validation
+47364,11 mm allen wrench,1700,B000PIBS3U,us,I,1,1,train,validation
+47365,11 mm allen wrench,1700,B001HW8ZBG,us,E,1,1,train,validation
+47366,11 mm allen wrench,1700,B002YNQP32,us,E,1,1,train,validation
+47367,11 mm allen wrench,1700,B003FPONCI,us,S,1,1,train,validation
+47368,11 mm allen wrench,1700,B003JMT4XA,us,E,1,1,train,validation
+47369,11 mm allen wrench,1700,B000N4P8QO,us,E,1,1,train,validation
+110852,5 dollar items for kids,4505,B086V3PL96,us,I,1,1,train,validation
+110853,5 dollar items for kids,4505,B07Z8L2KJL,us,I,1,1,train,validation
+110854,5 dollar items for kids,4505,B07RDRVHGN,us,I,1,1,train,validation
+110855,5 dollar items for kids,4505,B07KT6Q969,us,S,1,1,train,validation
+110856,5 dollar items for kids,4505,B07G6R358N,us,I,1,1,train,validation
+110857,5 dollar items for kids,4505,B07FN52KMG,us,E,1,1,train,validation
+110858,5 dollar items for kids,4505,B075PPMVCT,us,I,1,1,train,validation
+110859,5 dollar items for kids,4505,B074KMFN7P,us,I,1,1,train,validation
+110860,5 dollar items for kids,4505,B06XRK92KC,us,I,1,1,train,validation
+110861,5 dollar items for kids,4505,B01GQ5GQEG,us,I,1,1,train,validation
+110862,5 dollar items for kids,4505,B01G96KG98,us,E,1,1,train,validation
+110863,5 dollar items for kids,4505,B015X8U12U,us,I,1,1,train,validation
+110864,5 dollar items for kids,4505,B00TF7ZZM2,us,I,1,1,train,validation
+110865,5 dollar items for kids,4505,B007W10V0Y,us,I,1,1,train,validation
+110866,5 dollar items for kids,4505,B005F72Z24,us,S,1,1,train,validation
+110867,5 dollar items for kids,4505,B002PNV6YE,us,I,1,1,train,validation
+131565,90s phone,5513,B086MJLPZH,us,E,1,1,train,validation
+131566,90s phone,5513,B07Y64CCSJ,us,S,1,1,train,validation
+131567,90s phone,5513,B07W4Z5FP7,us,S,1,1,train,validation
+131568,90s phone,5513,B07VRCGJHG,us,S,1,1,train,validation
+131569,90s phone,5513,B07PNL65K2,us,S,1,1,train,validation
+131570,90s phone,5513,B07PFNVMK9,us,E,1,1,train,validation
+131571,90s phone,5513,B07LGT7K7X,us,E,1,1,train,validation
+131572,90s phone,5513,B07KVT3Q4S,us,S,1,1,train,validation
+131573,90s phone,5513,B00XAF4J04,us,E,1,1,train,validation
+131574,90s phone,5513,B00CSUILBA,us,E,1,1,train,validation
+131575,90s phone,5513,B00AZGK7T8,us,S,1,1,train,validation
+131576,90s phone,5513,B0016CVUR8,us,E,1,1,train,validation
+131577,90s phone,5513,B0000DHVMG,us,E,1,1,train,validation
+131578,90s phone,5513,B000050FZP,us,E,1,1,train,validation
+131579,90s phone,5513,B00004T8R2,us,I,1,1,train,validation
+131580,90s phone,5513,B01AMF6TCU,us,S,1,1,train,validation
+139315,a man without a country vonnegut,5857,B000Z7FH9M,us,E,1,1,train,validation
+139316,a man without a country vonnegut,5857,B08KH1J644,us,S,1,1,train,validation
+139317,a man without a country vonnegut,5857,B00COF30TW,us,I,1,1,train,validation
+139318,a man without a country vonnegut,5857,B0074SRX88,us,E,1,1,train,validation
+139319,a man without a country vonnegut,5857,B0071T9YA0,us,S,1,1,train,validation
+139320,a man without a country vonnegut,5857,B004TQNNIW,us,I,1,1,train,validation
+139321,a man without a country vonnegut,5857,8954603475,us,E,1,1,train,validation
+139322,a man without a country vonnegut,5857,B0722P5HFG,us,E,1,1,train,validation
+139323,a man without a country vonnegut,5857,1598535099,us,S,1,1,train,validation
+139324,a man without a country vonnegut,5857,1494225379,us,S,1,1,train,validation
+139325,a man without a country vonnegut,5857,081297736X,us,E,1,1,train,validation
+139326,a man without a country vonnegut,5857,0385334206,us,S,1,1,train,validation
+139327,a man without a country vonnegut,5857,0385333846,us,S,1,1,train,validation
+139328,a man without a country vonnegut,5857,0385333781,us,S,1,1,train,validation
+139329,a man without a country vonnegut,5857,0385333498,us,I,1,1,train,validation
+139330,a man without a country vonnegut,5857,8484531694,us,E,1,1,train,validation
+181799,all black xbox one controller,8061,B083W1JV84,us,E,1,1,train,validation
+181800,all black xbox one controller,8061,B091DN19K9,us,E,1,1,train,validation
+181801,all black xbox one controller,8061,B08TR9FT6B,us,S,1,1,train,validation
+181802,all black xbox one controller,8061,B07XQXQMR9,us,E,1,1,train,validation
+181803,all black xbox one controller,8061,B07T949F7X,us,E,1,1,train,validation
+181804,all black xbox one controller,8061,B07GJ5W7HV,us,E,1,1,train,validation
+181805,all black xbox one controller,8061,B07GCWJM78,us,E,1,1,train,validation
+181806,all black xbox one controller,8061,B075MJKMWZ,us,E,1,1,train,validation
+181807,all black xbox one controller,8061,B07DK8T8XF,us,E,1,1,train,validation
+181808,all black xbox one controller,8061,B01BQ0VP0G,us,E,1,1,train,validation
+181809,all black xbox one controller,8061,B017KIHHH8,us,I,1,1,train,validation
+181810,all black xbox one controller,8061,B0166J65HU,us,S,1,1,train,validation
+181811,all black xbox one controller,8061,B00XWCREPM,us,S,1,1,train,validation
+181812,all black xbox one controller,8061,B00VZNTE4Y,us,S,1,1,train,validation
+181813,all black xbox one controller,8061,B00Q3FLOP6,us,E,1,1,train,validation
+181814,all black xbox one controller,8061,B08DF248LD,us,E,1,1,train,validation
+181815,all black xbox one controller,8061,B01LPZM7VI,us,E,1,1,train,validation
+281015,barbie red carpet dolls,13180,B01MQY92JW,us,E,1,1,train,validation
+281016,barbie red carpet dolls,13180,B01N2RLKLG,us,E,1,1,train,validation
+281017,barbie red carpet dolls,13180,B074MQ94PC,us,E,1,1,train,validation
+281018,barbie red carpet dolls,13180,B07VF93BN6,us,E,1,1,train,validation
+281019,barbie red carpet dolls,13180,B079JCZMMK,us,E,1,1,train,validation
+281020,barbie red carpet dolls,13180,B01L02J0G6,us,E,1,1,train,validation
+281021,barbie red carpet dolls,13180,B0751RGXLR,us,E,1,1,train,validation
+281022,barbie red carpet dolls,13180,B014DEHDZI,us,E,1,1,train,validation
+281023,barbie red carpet dolls,13180,B000GYWXT6,us,E,1,1,train,validation
+281024,barbie red carpet dolls,13180,B00PKRTRES,us,E,1,1,train,validation
+281025,barbie red carpet dolls,13180,B00FB7XKYK,us,I,1,1,train,validation
+281026,barbie red carpet dolls,13180,B004VYYA2K,us,E,1,1,train,validation
+281027,barbie red carpet dolls,13180,B0012YMJAW,us,I,1,1,train,validation
+281028,barbie red carpet dolls,13180,B000W2FE8O,us,I,1,1,train,validation
+281029,barbie red carpet dolls,13180,B00005QTVG,us,I,1,1,train,validation
+281030,barbie red carpet dolls,13180,B00T03U6AC,us,E,1,1,train,validation
+300929,beach sweaters for women,14183,B07RWL2N45,us,E,1,1,train,validation
+300930,beach sweaters for women,14183,B07Z8R7SL8,us,E,1,1,train,validation
+300931,beach sweaters for women,14183,B07WHPH9PP,us,E,1,1,train,validation
+300932,beach sweaters for women,14183,B07W5PCXGZ,us,E,1,1,train,validation
+300933,beach sweaters for women,14183,B07TJP7ZS7,us,E,1,1,train,validation
+300934,beach sweaters for women,14183,B07TFBT8JT,us,E,1,1,train,validation
+300935,beach sweaters for women,14183,B07NF55W26,us,E,1,1,train,validation
+300936,beach sweaters for women,14183,B075PLBBDZ,us,E,1,1,train,validation
+300937,beach sweaters for women,14183,B07GZRB7Y3,us,S,1,1,train,validation
+300938,beach sweaters for women,14183,B07GYWRL6T,us,E,1,1,train,validation
+300939,beach sweaters for women,14183,B07CG8YYMJ,us,E,1,1,train,validation
+300940,beach sweaters for women,14183,B07J111T4W,us,S,1,1,train,validation
+300941,beach sweaters for women,14183,B075L9S51F,us,E,1,1,train,validation
+300942,beach sweaters for women,14183,B07428BKFQ,us,S,1,1,train,validation
+300943,beach sweaters for women,14183,B00OA004HU,us,I,1,1,train,validation
+315591,beosound a1 2nd gen,14963,B094T6NYV9,us,S,1,1,train,validation
+315592,beosound a1 2nd gen,14963,B08GKWLLGT,us,S,1,1,train,validation
+315593,beosound a1 2nd gen,14963,B085R7TSN6,us,E,1,1,train,validation
+315594,beosound a1 2nd gen,14963,B084LJ5GGN,us,S,1,1,train,validation
+315595,beosound a1 2nd gen,14963,B07YLG6CGD,us,S,1,1,train,validation
+315596,beosound a1 2nd gen,14963,B07WSNJ2WF,us,S,1,1,train,validation
+315597,beosound a1 2nd gen,14963,B07WJHFD3V,us,C,1,1,train,validation
+315598,beosound a1 2nd gen,14963,B07W95RBZM,us,S,1,1,train,validation
+315599,beosound a1 2nd gen,14963,B079ZZRH4Q,us,E,1,1,train,validation
+315600,beosound a1 2nd gen,14963,B076PX6QD9,us,C,1,1,train,validation
+315601,beosound a1 2nd gen,14963,B0748N1BZD,us,S,1,1,train,validation
+315602,beosound a1 2nd gen,14963,B06XCW4VFS,us,S,1,1,train,validation
+315603,beosound a1 2nd gen,14963,B01HETFQKS,us,S,1,1,train,validation
+315604,beosound a1 2nd gen,14963,B01DO9KW38,us,S,1,1,train,validation
+315605,beosound a1 2nd gen,14963,B010OYASRG,us,S,1,1,train,validation
+315606,beosound a1 2nd gen,14963,B07QZDH8DF,us,I,1,1,train,validation
+334512,billy goat aerator tines,15890,B07FQTJY7H,us,E,1,1,train,validation
+334513,billy goat aerator tines,15890,B08MVF7HKD,us,E,1,1,train,validation
+334514,billy goat aerator tines,15890,B08LL9N16Q,us,E,1,1,train,validation
+334515,billy goat aerator tines,15890,B07ZJRBWQ4,us,I,1,1,train,validation
+334516,billy goat aerator tines,15890,B094XGYMY7,us,E,1,1,train,validation
+334517,billy goat aerator tines,15890,B07Y45YL24,us,I,1,1,train,validation
+334518,billy goat aerator tines,15890,B07KQ19JL1,us,I,1,1,train,validation
+334519,billy goat aerator tines,15890,B07FQWGM3Z,us,E,1,1,train,validation
+334520,billy goat aerator tines,15890,B07772R3GQ,us,I,1,1,train,validation
+334521,billy goat aerator tines,15890,B000K6DZDI,us,I,1,1,train,validation
+334522,billy goat aerator tines,15890,B00M5PVNA4,us,I,1,1,train,validation
+334523,billy goat aerator tines,15890,B00CSC14C6,us,C,1,1,train,validation
+334524,billy goat aerator tines,15890,B002MAPZYC,us,E,1,1,train,validation
+334525,billy goat aerator tines,15890,B0026T4716,us,I,1,1,train,validation
+334526,billy goat aerator tines,15890,B0007VTQRK,us,S,1,1,train,validation
+334527,billy goat aerator tines,15890,B08BX5STCQ,us,S,1,1,train,validation
+334528,billy goat aerator tines,15890,B00362J6K4,us,E,1,1,train,validation
+334529,billy goat aerator tines,15890,B01M056JYT,us,E,1,1,train,validation
+337841,birds are not real,16068,B097PZZP8K,us,I,1,1,train,validation
+337842,birds are not real,16068,B08X65NLPP,us,E,1,1,train,validation
+337843,birds are not real,16068,B098N47R6M,us,E,1,1,train,validation
+337844,birds are not real,16068,B08QL9B813,us,E,1,1,train,validation
+337845,birds are not real,16068,B08PP8TY6S,us,E,1,1,train,validation
+337846,birds are not real,16068,B08MVVQK96,us,I,1,1,train,validation
+337847,birds are not real,16068,B08MGR7W1S,us,E,1,1,train,validation
+337848,birds are not real,16068,B08SS9WLYR,us,E,1,1,train,validation
+337849,birds are not real,16068,B08FY5YMD5,us,E,1,1,train,validation
+337850,birds are not real,16068,B08FR11281,us,E,1,1,train,validation
+337851,birds are not real,16068,B08FP54PZQ,us,E,1,1,train,validation
+337852,birds are not real,16068,B0853C64CW,us,S,1,1,train,validation
+337853,birds are not real,16068,B08469CPN2,us,E,1,1,train,validation
+337854,birds are not real,16068,1999005821,us,I,1,1,train,validation
+337855,birds are not real,16068,0062972340,us,I,1,1,train,validation
+337856,birds are not real,16068,B08JGJXTW5,us,E,1,1,train,validation
+338042,birkenstock islay,16079,B01HFJYQO4,us,S,1,1,train,validation
+338043,birkenstock islay,16079,B07JLH1WTQ,us,I,1,1,train,validation
+338044,birkenstock islay,16079,B07FKG2BZJ,us,I,1,1,train,validation
+338045,birkenstock islay,16079,B01N4OQB3B,us,E,1,1,train,validation
+338046,birkenstock islay,16079,B01LA8RUPS,us,E,1,1,train,validation
+338047,birkenstock islay,16079,B01JH8EOHK,us,E,1,1,train,validation
+338048,birkenstock islay,16079,B00LFCEGRA,us,I,1,1,train,validation
+338049,birkenstock islay,16079,B00LFCAPQ6,us,E,1,1,train,validation
+338050,birkenstock islay,16079,B00478A1TG,us,I,1,1,train,validation
+338051,birkenstock islay,16079,B003JBHDEI,us,I,1,1,train,validation
+338052,birkenstock islay,16079,B002LZUQBU,us,I,1,1,train,validation
+338053,birkenstock islay,16079,B000KA07OO,us,I,1,1,train,validation
+338054,birkenstock islay,16079,B000I66VYK,us,I,1,1,train,validation
+338055,birkenstock islay,16079,B000I653Q2,us,I,1,1,train,validation
+338056,birkenstock islay,16079,B000G6SRZ8,us,I,1,1,train,validation
+338057,birkenstock islay,16079,B004S14VU2,us,I,1,1,train,validation
+368826,bmw 6 series body kit,17707,B08CR3Y9MW,us,I,1,1,train,validation
+368827,bmw 6 series body kit,17707,B0972YQHWX,us,E,1,1,train,validation
+368828,bmw 6 series body kit,17707,B093BMYGLL,us,E,1,1,train,validation
+368829,bmw 6 series body kit,17707,B019QCG5RE,us,I,1,1,train,validation
+368830,bmw 6 series body kit,17707,B01MTOR8HZ,us,C,1,1,train,validation
+368831,bmw 6 series body kit,17707,B07122K1QD,us,C,1,1,train,validation
+368832,bmw 6 series body kit,17707,B07B45K74J,us,I,1,1,train,validation
+368833,bmw 6 series body kit,17707,B07CQKMK8F,us,I,1,1,train,validation
+368834,bmw 6 series body kit,17707,B07QG8CWFV,us,C,1,1,train,validation
+368835,bmw 6 series body kit,17707,B07HFX11TX,us,E,1,1,train,validation
+368836,bmw 6 series body kit,17707,B07HHRTRHP,us,E,1,1,train,validation
+368837,bmw 6 series body kit,17707,B07SB3Z971,us,E,1,1,train,validation
+368838,bmw 6 series body kit,17707,B07TF5F38S,us,I,1,1,train,validation
+368839,bmw 6 series body kit,17707,B07TJQ5TM4,us,E,1,1,train,validation
+368840,bmw 6 series body kit,17707,B083LCVZKM,us,I,1,1,train,validation
+368841,bmw 6 series body kit,17707,B08PZC3NYN,us,C,1,1,train,validation
+368842,bmw 6 series body kit,17707,B0893GKJK2,us,C,1,1,train,validation
+368843,bmw 6 series body kit,17707,B07D26DW3F,us,C,1,1,train,validation
+368844,bmw 6 series body kit,17707,B086HTF5VF,us,E,1,1,train,validation
+368845,bmw 6 series body kit,17707,B08QVH5J4W,us,I,1,1,train,validation
+368846,bmw 6 series body kit,17707,B082LZ5163,us,I,1,1,train,validation
+368847,bmw 6 series body kit,17707,B0861ZCSKB,us,E,1,1,train,validation
+368848,bmw 6 series body kit,17707,B00R3ABHXY,us,E,1,1,train,validation
+368849,bmw 6 series body kit,17707,B06XKV7JHJ,us,C,1,1,train,validation
+368850,bmw 6 series body kit,17707,B071S4CK8N,us,S,1,1,train,validation
+368851,bmw 6 series body kit,17707,B0736CTKPB,us,I,1,1,train,validation
+368852,bmw 6 series body kit,17707,B078H7Z2PB,us,C,1,1,train,validation
+368853,bmw 6 series body kit,17707,B0796VFZQY,us,E,1,1,train,validation
+368854,bmw 6 series body kit,17707,B07DVWVV43,us,E,1,1,train,validation
+368855,bmw 6 series body kit,17707,B0771XJRX5,us,I,1,1,train,validation
+368856,bmw 6 series body kit,17707,B07GN3BYPH,us,I,1,1,train,validation
+368857,bmw 6 series body kit,17707,B07G86469C,us,I,1,1,train,validation
+368858,bmw 6 series body kit,17707,B07V22YC9J,us,S,1,1,train,validation
+368859,bmw 6 series body kit,17707,B07RHN8S11,us,C,1,1,train,validation
+368860,bmw 6 series body kit,17707,B07RD4LZ13,us,C,1,1,train,validation
+368861,bmw 6 series body kit,17707,B07ZFJJZLF,us,E,1,1,train,validation
+368862,bmw 6 series body kit,17707,B07L6FJGR4,us,S,1,1,train,validation
+368863,bmw 6 series body kit,17707,B07HHQLKVP,us,E,1,1,train,validation
+368864,bmw 6 series body kit,17707,B07MNW4B1T,us,E,1,1,train,validation
+413398,brother gift,19987,B07HYBL1WK,us,I,1,1,train,validation
+413399,brother gift,19987,B082MST9KM,us,E,1,1,train,validation
+413400,brother gift,19987,B083HN6S86,us,E,1,1,train,validation
+413401,brother gift,19987,B07XM5JGL4,us,E,1,1,train,validation
+413402,brother gift,19987,B07KW1VG8J,us,E,1,1,train,validation
+413403,brother gift,19987,B07KKC2QXW,us,E,1,1,train,validation
+413404,brother gift,19987,B07KBFNRCM,us,E,1,1,train,validation
+413405,brother gift,19987,B07D1TQ8QC,us,E,1,1,train,validation
+413406,brother gift,19987,B00HNEP27W,us,I,1,1,train,validation
+413407,brother gift,19987,B07BWLR91T,us,I,1,1,train,validation
+413408,brother gift,19987,B07BKPFRMP,us,I,1,1,train,validation
+413409,brother gift,19987,B079GB5Q6T,us,E,1,1,train,validation
+413410,brother gift,19987,B06W2LHTF7,us,E,1,1,train,validation
+413411,brother gift,19987,B01F1AJG80,us,E,1,1,train,validation
+413412,brother gift,19987,1450845800,us,E,1,1,train,validation
+413413,brother gift,19987,B07CY6K2FD,us,E,1,1,train,validation
+458759,candylips mini plumper,22334,B086QRYHYT,us,S,1,1,train,validation
+458760,candylips mini plumper,22334,B085NM71LS,us,E,1,1,train,validation
+458761,candylips mini plumper,22334,B082PQZDWR,us,E,1,1,train,validation
+458762,candylips mini plumper,22334,B07V4LPY51,us,S,1,1,train,validation
+458763,candylips mini plumper,22334,B07ZPSP642,us,S,1,1,train,validation
+458764,candylips mini plumper,22334,B087Z23W2C,us,S,1,1,train,validation
+458765,candylips mini plumper,22334,B07TCQ8RTX,us,S,1,1,train,validation
+458766,candylips mini plumper,22334,B082KZ8ZGM,us,I,1,1,train,validation
+458767,candylips mini plumper,22334,B0896SS5QD,us,S,1,1,train,validation
+458768,candylips mini plumper,22334,B08RRWDS2G,us,S,1,1,train,validation
+458769,candylips mini plumper,22334,B08BK46L5K,us,S,1,1,train,validation
+458770,candylips mini plumper,22334,B08Q31Z6G1,us,S,1,1,train,validation
+458771,candylips mini plumper,22334,B08RRY5PF2,us,S,1,1,train,validation
+458772,candylips mini plumper,22334,B08Y74MT86,us,E,1,1,train,validation
+458773,candylips mini plumper,22334,B091317949,us,I,1,1,train,validation
+458774,candylips mini plumper,22334,B092JJW1H9,us,S,1,1,train,validation
+458775,candylips mini plumper,22334,B094LT5LM4,us,S,1,1,train,validation
+458776,candylips mini plumper,22334,B07SGSXF7T,us,S,1,1,train,validation
+458777,candylips mini plumper,22334,B089FJBN4Z,us,S,1,1,train,validation
+458778,candylips mini plumper,22334,B092TGS4GD,us,S,1,1,train,validation
+458779,candylips mini plumper,22334,B07PCQRNMS,us,S,1,1,train,validation
+458780,candylips mini plumper,22334,B07NF4TFHD,us,S,1,1,train,validation
+458781,candylips mini plumper,22334,B07P38F57X,us,S,1,1,train,validation
+458782,candylips mini plumper,22334,B001QWB9Q0,us,C,1,1,train,validation
+458783,candylips mini plumper,22334,B004GV8H7C,us,I,1,1,train,validation
+458784,candylips mini plumper,22334,B004W331ZW,us,S,1,1,train,validation
+458785,candylips mini plumper,22334,B004W6VTHG,us,S,1,1,train,validation
+458786,candylips mini plumper,22334,B00T5DZ4C2,us,S,1,1,train,validation
+458787,candylips mini plumper,22334,B00T6RX258,us,E,1,1,train,validation
+458788,candylips mini plumper,22334,B00T6RY9NC,us,E,1,1,train,validation
+458789,candylips mini plumper,22334,B00BKHDF9A,us,S,1,1,train,validation
+458790,candylips mini plumper,22334,B01ACEPCL0,us,E,1,1,train,validation
+458791,candylips mini plumper,22334,B07968PBS5,us,C,1,1,train,validation
+458792,candylips mini plumper,22334,B07BFTV7KC,us,S,1,1,train,validation
+458793,candylips mini plumper,22334,B07H7KHGVR,us,E,1,1,train,validation
+458794,candylips mini plumper,22334,B07H9ZSGGG,us,E,1,1,train,validation
+458795,candylips mini plumper,22334,B07KP7T2TX,us,S,1,1,train,validation
+458796,candylips mini plumper,22334,B07L5LVBJ3,us,S,1,1,train,validation
+458797,candylips mini plumper,22334,B01ACEPBOI,us,E,1,1,train,validation
+458798,candylips mini plumper,22334,B07L5TTMYK,us,S,1,1,train,validation
+489223,catalog classics tunic tops,23946,B0897LJ47Z,us,E,1,1,train,validation
+489224,catalog classics tunic tops,23946,B07X2ZFDLR,us,S,1,1,train,validation
+489225,catalog classics tunic tops,23946,B07Z6152Z4,us,S,1,1,train,validation
+489226,catalog classics tunic tops,23946,B0819QLJ8N,us,S,1,1,train,validation
+489227,catalog classics tunic tops,23946,B082NPHLFN,us,S,1,1,train,validation
+489228,catalog classics tunic tops,23946,B0859CXLCL,us,E,1,1,train,validation
+489229,catalog classics tunic tops,23946,B085VGMB3S,us,S,1,1,train,validation
+489230,catalog classics tunic tops,23946,B08BS32RZ9,us,S,1,1,train,validation
+489231,catalog classics tunic tops,23946,B07WD7N2V2,us,E,1,1,train,validation
+489232,catalog classics tunic tops,23946,B08G8DFH6Q,us,S,1,1,train,validation
+489233,catalog classics tunic tops,23946,B08GBZTRV5,us,S,1,1,train,validation
+489234,catalog classics tunic tops,23946,B08GLRWRKH,us,S,1,1,train,validation
+489235,catalog classics tunic tops,23946,B08NGXBCQH,us,E,1,1,train,validation
+489236,catalog classics tunic tops,23946,B08QRRWNHM,us,S,1,1,train,validation
+489237,catalog classics tunic tops,23946,B08SJ4SDK3,us,S,1,1,train,validation
+489238,catalog classics tunic tops,23946,B08TWSRDN1,us,S,1,1,train,validation
+489239,catalog classics tunic tops,23946,B094NG17GZ,us,E,1,1,train,validation
+489240,catalog classics tunic tops,23946,B08D5ZL455,us,S,1,1,train,validation
+489241,catalog classics tunic tops,23946,B07W9B8M5T,us,E,1,1,train,validation
+489242,catalog classics tunic tops,23946,B07X8TGK4R,us,S,1,1,train,validation
+489243,catalog classics tunic tops,23946,B07VXMVL1N,us,S,1,1,train,validation
+489244,catalog classics tunic tops,23946,B007SW911C,us,S,1,1,train,validation
+489245,catalog classics tunic tops,23946,B00RYAJ5IM,us,E,1,1,train,validation
+489246,catalog classics tunic tops,23946,B012P2KWYY,us,S,1,1,train,validation
+489247,catalog classics tunic tops,23946,B06XKMVMLK,us,S,1,1,train,validation
+489248,catalog classics tunic tops,23946,B06Y5ZDQPY,us,S,1,1,train,validation
+489249,catalog classics tunic tops,23946,B0758BYZTQ,us,E,1,1,train,validation
+489250,catalog classics tunic tops,23946,B07C3JCL51,us,E,1,1,train,validation
+489251,catalog classics tunic tops,23946,B07H69Q99Z,us,E,1,1,train,validation
+489252,catalog classics tunic tops,23946,B07HGNPWM2,us,E,1,1,train,validation
+489253,catalog classics tunic tops,23946,B076B3N4VJ,us,E,1,1,train,validation
+489254,catalog classics tunic tops,23946,B07JP4883J,us,S,1,1,train,validation
+489255,catalog classics tunic tops,23946,B07KF7SKKP,us,S,1,1,train,validation
+489256,catalog classics tunic tops,23946,B07KMDXPN9,us,E,1,1,train,validation
+489257,catalog classics tunic tops,23946,B07S478SXG,us,S,1,1,train,validation
+489258,catalog classics tunic tops,23946,B07T8248HD,us,S,1,1,train,validation
+489259,catalog classics tunic tops,23946,B07W4H4GJB,us,S,1,1,train,validation
+489260,catalog classics tunic tops,23946,B07TF7P126,us,I,1,1,train,validation
+489261,catalog classics tunic tops,23946,B07VCV32TH,us,E,1,1,train,validation
+489262,catalog classics tunic tops,23946,B07HK5QG4D,us,E,1,1,train,validation
+491861,cbd iso tea,24075,B0891ND1NS,us,E,1,1,train,validation
+491862,cbd iso tea,24075,B084FRCG1S,us,S,1,1,train,validation
+491863,cbd iso tea,24075,B07W4LNWXW,us,S,1,1,train,validation
+491864,cbd iso tea,24075,B07TZW68KS,us,E,1,1,train,validation
+491865,cbd iso tea,24075,B07TVWGD6Z,us,I,1,1,train,validation
+491866,cbd iso tea,24075,B07SX185GP,us,E,1,1,train,validation
+491867,cbd iso tea,24075,B07SBF1WDX,us,I,1,1,train,validation
+491868,cbd iso tea,24075,B07S6D6C3M,us,E,1,1,train,validation
+491869,cbd iso tea,24075,B07L6NGNJ8,us,E,1,1,train,validation
+491870,cbd iso tea,24075,B07L4ZVQPN,us,E,1,1,train,validation
+491871,cbd iso tea,24075,B06XXP2B3Y,us,S,1,1,train,validation
+491872,cbd iso tea,24075,B01LMOVPLU,us,S,1,1,train,validation
+491873,cbd iso tea,24075,B011X5JX44,us,E,1,1,train,validation
+491874,cbd iso tea,24075,B00XI27SHU,us,I,1,1,train,validation
+491875,cbd iso tea,24075,2635214875,us,I,1,1,train,validation
+491876,cbd iso tea,24075,B07MLPJGVD,us,I,1,1,train,validation
+514677,chef hats for women,25243,B07HCCJJYF,us,E,1,1,train,validation
+514678,chef hats for women,25243,B0823KC5HT,us,S,1,1,train,validation
+514679,chef hats for women,25243,B07Z42KYXT,us,I,1,1,train,validation
+514680,chef hats for women,25243,B07TX4QVB2,us,E,1,1,train,validation
+514681,chef hats for women,25243,B07L579BHB,us,E,1,1,train,validation
+514682,chef hats for women,25243,B07KNH8G78,us,E,1,1,train,validation
+514683,chef hats for women,25243,B07GVH9ZYJ,us,E,1,1,train,validation
+514684,chef hats for women,25243,B07H9X3V2J,us,E,1,1,train,validation
+514685,chef hats for women,25243,B07BR6F1YQ,us,S,1,1,train,validation
+514686,chef hats for women,25243,B07GKHZM4X,us,E,1,1,train,validation
+514687,chef hats for women,25243,B01JGY352K,us,I,1,1,train,validation
+514688,chef hats for women,25243,B01I90BLNC,us,I,1,1,train,validation
+514689,chef hats for women,25243,B01HAGXX8C,us,I,1,1,train,validation
+514690,chef hats for women,25243,B004S8MDZK,us,E,1,1,train,validation
+514691,chef hats for women,25243,B0035ASGIU,us,I,1,1,train,validation
+514692,chef hats for women,25243,B002JM16KU,us,E,1,1,train,validation
+524675,chonchow,25775,B07RSTKF67,us,E,1,1,train,validation
+524676,chonchow,25775,B07RRTMKWG,us,E,1,1,train,validation
+524677,chonchow,25775,B07GRG6LNF,us,I,1,1,train,validation
+524678,chonchow,25775,B07GRB9NF3,us,I,1,1,train,validation
+524679,chonchow,25775,B07DQTL51Y,us,I,1,1,train,validation
+524680,chonchow,25775,B07BS4PNDC,us,I,1,1,train,validation
+524681,chonchow,25775,B079HRP79D,us,I,1,1,train,validation
+524682,chonchow,25775,B07KQ13YP9,us,I,1,1,train,validation
+524683,chonchow,25775,B00SML5BGC,us,I,1,1,train,validation
+524684,chonchow,25775,B0095P31L6,us,I,1,1,train,validation
+524685,chonchow,25775,B0091WNK8M,us,I,1,1,train,validation
+524686,chonchow,25775,B0091W0ILY,us,I,1,1,train,validation
+524687,chonchow,25775,B008RKGC52,us,I,1,1,train,validation
+524688,chonchow,25775,B000JPHH2U,us,I,1,1,train,validation
+524689,chonchow,25775,B000HZGN68,us,I,1,1,train,validation
+524690,chonchow,25775,B06WVW16WY,us,I,1,1,train,validation
+531411,chronometer gym,26152,B08F21VLRR,us,E,1,1,train,validation
+531412,chronometer gym,26152,B08DV44MXN,us,E,1,1,train,validation
+531413,chronometer gym,26152,B08CTBN1HD,us,I,1,1,train,validation
+531414,chronometer gym,26152,B0894S76Z5,us,E,1,1,train,validation
+531415,chronometer gym,26152,B088ZRG5XQ,us,E,1,1,train,validation
+531416,chronometer gym,26152,B088FJ48MP,us,E,1,1,train,validation
+531417,chronometer gym,26152,B08837ZKMN,us,I,1,1,train,validation
+531418,chronometer gym,26152,B0861W8NFS,us,E,1,1,train,validation
+531419,chronometer gym,26152,B085MSNF42,us,E,1,1,train,validation
+531420,chronometer gym,26152,B0841XDJ4Y,us,I,1,1,train,validation
+531421,chronometer gym,26152,B081JTSZ7B,us,E,1,1,train,validation
+531422,chronometer gym,26152,B07ZY5CH2H,us,E,1,1,train,validation
+531423,chronometer gym,26152,B07TCZ5PWM,us,I,1,1,train,validation
+531424,chronometer gym,26152,B07H59ZL1L,us,I,1,1,train,validation
+531425,chronometer gym,26152,B01N48D4HH,us,E,1,1,train,validation
+531426,chronometer gym,26152,B01L8XF7AK,us,E,1,1,train,validation
+539999,classic waffle iron not belgian,26583,B098NGXVPZ,us,I,1,1,train,validation
+540000,classic waffle iron not belgian,26583,B08P3RQ86F,us,E,1,1,train,validation
+540001,classic waffle iron not belgian,26583,B08NM5T8HS,us,E,1,1,train,validation
+540002,classic waffle iron not belgian,26583,B081DHMJN9,us,E,1,1,train,validation
+540003,classic waffle iron not belgian,26583,B01IA3HJGG,us,E,1,1,train,validation
+540004,classic waffle iron not belgian,26583,B00USWW7CY,us,S,1,1,train,validation
+540005,classic waffle iron not belgian,26583,B00F5C1QK6,us,S,1,1,train,validation
+540006,classic waffle iron not belgian,26583,B00ESDVSTC,us,I,1,1,train,validation
+540007,classic waffle iron not belgian,26583,B00EQT6EBU,us,S,1,1,train,validation
+540008,classic waffle iron not belgian,26583,B00EAI31C2,us,E,1,1,train,validation
+540009,classic waffle iron not belgian,26583,B00BZ9QPJ0,us,E,1,1,train,validation
+540010,classic waffle iron not belgian,26583,B005LJYMPE,us,S,1,1,train,validation
+540011,classic waffle iron not belgian,26583,B004O2LUZ4,us,I,1,1,train,validation
+540012,classic waffle iron not belgian,26583,B00006JKZN,us,E,1,1,train,validation
+540013,classic waffle iron not belgian,26583,B00004S9D2,us,E,1,1,train,validation
+540014,classic waffle iron not belgian,26583,B00EQT6HKS,us,E,1,1,train,validation
+566173,coloured bath robes for adults,27947,B086WL9ZR2,us,S,1,1,train,validation
+566174,coloured bath robes for adults,27947,B085MNZZTW,us,S,1,1,train,validation
+566175,coloured bath robes for adults,27947,B082DDVMKV,us,S,1,1,train,validation
+566176,coloured bath robes for adults,27947,B082DD46BW,us,S,1,1,train,validation
+566177,coloured bath robes for adults,27947,B081DX4T5K,us,S,1,1,train,validation
+566178,coloured bath robes for adults,27947,B07YJKY2DD,us,S,1,1,train,validation
+566179,coloured bath robes for adults,27947,B07XNZ8GC6,us,I,1,1,train,validation
+566180,coloured bath robes for adults,27947,B07XP3S3GN,us,I,1,1,train,validation
+566181,coloured bath robes for adults,27947,B07JVYWPTV,us,S,1,1,train,validation
+566182,coloured bath robes for adults,27947,B07JKQ66FL,us,S,1,1,train,validation
+566183,coloured bath robes for adults,27947,B07JHKPFMN,us,S,1,1,train,validation
+566184,coloured bath robes for adults,27947,B07JH1N8T6,us,E,1,1,train,validation
+566185,coloured bath robes for adults,27947,B07JFWMSVZ,us,S,1,1,train,validation
+566186,coloured bath robes for adults,27947,B07HV1PCYL,us,S,1,1,train,validation
+566187,coloured bath robes for adults,27947,B076K6Y6LL,us,E,1,1,train,validation
+566188,coloured bath robes for adults,27947,B07JW79K3T,us,S,1,1,train,validation
+580537,converse toddler girls leopard,28684,B07T9HVGGR,us,E,1,1,train,validation
+580538,converse toddler girls leopard,28684,B07SXKBBX9,us,E,1,1,train,validation
+580539,converse toddler girls leopard,28684,B07PLWSLRV,us,E,1,1,train,validation
+580540,converse toddler girls leopard,28684,B07D127Y9G,us,E,1,1,train,validation
+580541,converse toddler girls leopard,28684,B07688SLGV,us,S,1,1,train,validation
+580542,converse toddler girls leopard,28684,B0763M2RDT,us,S,1,1,train,validation
+580543,converse toddler girls leopard,28684,B0763L1MJ4,us,S,1,1,train,validation
+580544,converse toddler girls leopard,28684,B07RNN2JWN,us,I,1,1,train,validation
+580545,converse toddler girls leopard,28684,B01GB0WC26,us,I,1,1,train,validation
+580546,converse toddler girls leopard,28684,B013WDPXK8,us,I,1,1,train,validation
+580547,converse toddler girls leopard,28684,B00LVDVG4O,us,S,1,1,train,validation
+580548,converse toddler girls leopard,28684,B004C3KPAQ,us,I,1,1,train,validation
+580549,converse toddler girls leopard,28684,B002J0Y0OG,us,S,1,1,train,validation
+580550,converse toddler girls leopard,28684,B001UBH4J8,us,E,1,1,train,validation
+580551,converse toddler girls leopard,28684,B075K8SMWG,us,S,1,1,train,validation
+597430,count chocula and frankenberry,29549,B07KKNZ88F,us,C,1,1,train,validation
+597431,count chocula and frankenberry,29549,B08511YSBC,us,C,1,1,train,validation
+597432,count chocula and frankenberry,29549,B081RZZ3YL,us,I,1,1,train,validation
+597433,count chocula and frankenberry,29549,B07WSS8WF5,us,E,1,1,train,validation
+597434,count chocula and frankenberry,29549,B07Q1YCWMS,us,S,1,1,train,validation
+597435,count chocula and frankenberry,29549,B07PLMYDVB,us,C,1,1,train,validation
+597436,count chocula and frankenberry,29549,B07JRFQWM7,us,C,1,1,train,validation
+597437,count chocula and frankenberry,29549,B08475XWMG,us,S,1,1,train,validation
+597438,count chocula and frankenberry,29549,B07H44KTYM,us,E,1,1,train,validation
+597439,count chocula and frankenberry,29549,B0792NHWGT,us,S,1,1,train,validation
+597440,count chocula and frankenberry,29549,B075J3138H,us,E,1,1,train,validation
+597441,count chocula and frankenberry,29549,B01LDFULM2,us,E,1,1,train,validation
+597442,count chocula and frankenberry,29549,B005DQGIA2,us,S,1,1,train,validation
+597443,count chocula and frankenberry,29549,B004XEKT78,us,C,1,1,train,validation
+597444,count chocula and frankenberry,29549,B07H48NX2D,us,E,1,1,train,validation
+597445,count chocula and frankenberry,29549,B00152KJMG,us,E,1,1,train,validation
+600450,cowboy toddler costume,29715,B07WV6R6R4,us,E,1,1,train,validation
+600451,cowboy toddler costume,29715,B07WHYC3QG,us,E,1,1,train,validation
+600452,cowboy toddler costume,29715,B07R6P4H7Y,us,I,1,1,train,validation
+600453,cowboy toddler costume,29715,B07GWV1B21,us,E,1,1,train,validation
+600454,cowboy toddler costume,29715,B07GW6VGXF,us,E,1,1,train,validation
+600455,cowboy toddler costume,29715,B07C83DKDY,us,S,1,1,train,validation
+600456,cowboy toddler costume,29715,B075MYP8BL,us,E,1,1,train,validation
+600457,cowboy toddler costume,29715,B074P1FMWH,us,E,1,1,train,validation
+600458,cowboy toddler costume,29715,B00NUD9618,us,I,1,1,train,validation
+600459,cowboy toddler costume,29715,B00E9TN1FO,us,S,1,1,train,validation
+600460,cowboy toddler costume,29715,B00BZBFEVI,us,I,1,1,train,validation
+600461,cowboy toddler costume,29715,B007EA4C7Q,us,E,1,1,train,validation
+600462,cowboy toddler costume,29715,B003L9OLSY,us,I,1,1,train,validation
+600463,cowboy toddler costume,29715,B003JCYOZI,us,E,1,1,train,validation
+600464,cowboy toddler costume,29715,B003A8IQHI,us,E,1,1,train,validation
+600465,cowboy toddler costume,29715,B00LWIJXE8,us,I,1,1,train,validation
+609487,crochet bunny outfit 12 months old,30195,B07J1WM2X6,us,S,1,1,train,validation
+609488,crochet bunny outfit 12 months old,30195,B07T8LD4W7,us,C,1,1,train,validation
+609489,crochet bunny outfit 12 months old,30195,B07T2XL3QD,us,S,1,1,train,validation
+609490,crochet bunny outfit 12 months old,30195,B07N14XS4X,us,I,1,1,train,validation
+609491,crochet bunny outfit 12 months old,30195,B07VCR6HKW,us,I,1,1,train,validation
+609492,crochet bunny outfit 12 months old,30195,B07MPVQJGN,us,S,1,1,train,validation
+609493,crochet bunny outfit 12 months old,30195,B07JKKW2RT,us,I,1,1,train,validation
+609494,crochet bunny outfit 12 months old,30195,B07GDCRT7J,us,S,1,1,train,validation
+609495,crochet bunny outfit 12 months old,30195,B06XK66FKK,us,I,1,1,train,validation
+609496,crochet bunny outfit 12 months old,30195,B0784FDGF6,us,I,1,1,train,validation
+609497,crochet bunny outfit 12 months old,30195,B075XFSTS1,us,S,1,1,train,validation
+609498,crochet bunny outfit 12 months old,30195,B07568TRCN,us,I,1,1,train,validation
+609499,crochet bunny outfit 12 months old,30195,B01N9SAEJU,us,I,1,1,train,validation
+609500,crochet bunny outfit 12 months old,30195,B01LEYCFAS,us,I,1,1,train,validation
+609501,crochet bunny outfit 12 months old,30195,B01ENN7PCK,us,E,1,1,train,validation
+609502,crochet bunny outfit 12 months old,30195,B07BB4RXH7,us,E,1,1,train,validation
+612963,cruces de madera para necklace,30373,B07VK9664Z,us,E,1,1,train,validation
+612964,cruces de madera para necklace,30373,B07SXV7CTS,us,I,1,1,train,validation
+612965,cruces de madera para necklace,30373,B07NVC5KKS,us,I,1,1,train,validation
+612966,cruces de madera para necklace,30373,B07DH99C3D,us,E,1,1,train,validation
+612967,cruces de madera para necklace,30373,B07D773MQD,us,I,1,1,train,validation
+612968,cruces de madera para necklace,30373,B079Y8SGRX,us,I,1,1,train,validation
+612969,cruces de madera para necklace,30373,B076G6D1C5,us,I,1,1,train,validation
+612970,cruces de madera para necklace,30373,B076G2Q1VH,us,I,1,1,train,validation
+612971,cruces de madera para necklace,30373,B075M3NMLP,us,E,1,1,train,validation
+612972,cruces de madera para necklace,30373,B01DV4EAT8,us,E,1,1,train,validation
+612973,cruces de madera para necklace,30373,B0181SPG88,us,I,1,1,train,validation
+612974,cruces de madera para necklace,30373,B00GPQMXHG,us,E,1,1,train,validation
+612975,cruces de madera para necklace,30373,B00CH3O5S6,us,E,1,1,train,validation
+612976,cruces de madera para necklace,30373,B009QNGFHO,us,E,1,1,train,validation
+612977,cruces de madera para necklace,30373,B00004T7S4,us,I,1,1,train,validation
+612978,cruces de madera para necklace,30373,B01E7ZRN2G,us,E,1,1,train,validation
+667551,diesel on smartwatch,33153,B08DFCWVZ4,us,S,1,1,train,validation
+667552,diesel on smartwatch,33153,B08BRFWGMC,us,S,1,1,train,validation
+667553,diesel on smartwatch,33153,B08BCQCBD1,us,S,1,1,train,validation
+667554,diesel on smartwatch,33153,B0823HQLHR,us,S,1,1,train,validation
+667555,diesel on smartwatch,33153,B083TH8VR6,us,E,1,1,train,validation
+667556,diesel on smartwatch,33153,B083MLS458,us,S,1,1,train,validation
+667557,diesel on smartwatch,33153,B089DPMDNM,us,S,1,1,train,validation
+667558,diesel on smartwatch,33153,B08FWKGKC2,us,S,1,1,train,validation
+667559,diesel on smartwatch,33153,B0928CY9TN,us,S,1,1,train,validation
+667560,diesel on smartwatch,33153,B08HR8V12C,us,S,1,1,train,validation
+667561,diesel on smartwatch,33153,B08N7TB65J,us,E,1,1,train,validation
+667562,diesel on smartwatch,33153,B08PCYKXV5,us,S,1,1,train,validation
+667563,diesel on smartwatch,33153,B08VHYMM9B,us,E,1,1,train,validation
+667564,diesel on smartwatch,33153,B08WC5P6B3,us,S,1,1,train,validation
+667565,diesel on smartwatch,33153,B08X9WS6VW,us,S,1,1,train,validation
+667566,diesel on smartwatch,33153,B08XZXTD2V,us,S,1,1,train,validation
+667567,diesel on smartwatch,33153,B07XQ3FP53,us,C,1,1,train,validation
+667568,diesel on smartwatch,33153,B08HMRY8NG,us,S,1,1,train,validation
+667569,diesel on smartwatch,33153,B07WN6SPP4,us,S,1,1,train,validation
+667570,diesel on smartwatch,33153,B08DFPV5Y2,us,S,1,1,train,validation
+667571,diesel on smartwatch,33153,B07WKC1V74,us,E,1,1,train,validation
+667572,diesel on smartwatch,33153,B00HRB8AX4,us,S,1,1,train,validation
+667573,diesel on smartwatch,33153,B00L400EHE,us,I,1,1,train,validation
+667574,diesel on smartwatch,33153,B00NTN8TU8,us,E,1,1,train,validation
+667575,diesel on smartwatch,33153,B01M0FJLMR,us,E,1,1,train,validation
+667576,diesel on smartwatch,33153,B01M7MDK5S,us,S,1,1,train,validation
+667577,diesel on smartwatch,33153,B07WLN9RYD,us,S,1,1,train,validation
+667578,diesel on smartwatch,33153,B078J415XH,us,E,1,1,train,validation
+667579,diesel on smartwatch,33153,B07BFFR12B,us,S,1,1,train,validation
+667580,diesel on smartwatch,33153,B07CRSK5DM,us,S,1,1,train,validation
+667581,diesel on smartwatch,33153,B074KBWL9J,us,S,1,1,train,validation
+667582,diesel on smartwatch,33153,B07JZMG9PL,us,C,1,1,train,validation
+667583,diesel on smartwatch,33153,B07NFMMNQB,us,S,1,1,train,validation
+667584,diesel on smartwatch,33153,B07P5F8MVD,us,S,1,1,train,validation
+667585,diesel on smartwatch,33153,B07SSVWD1X,us,S,1,1,train,validation
+667586,diesel on smartwatch,33153,B07SY66F2L,us,S,1,1,train,validation
+667587,diesel on smartwatch,33153,B07TVC2KLW,us,S,1,1,train,validation
+667588,diesel on smartwatch,33153,B07VNBC9Z9,us,S,1,1,train,validation
+667589,diesel on smartwatch,33153,B07W6RX2C3,us,S,1,1,train,validation
+667590,diesel on smartwatch,33153,B07G2XV1W2,us,C,1,1,train,validation
+714796,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07X86CF4Z,us,E,1,1,train,validation
+714797,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07W7Y2MYY,us,I,1,1,train,validation
+714798,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07SM5Z8FJ,us,S,1,1,train,validation
+714799,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07P7BJ62W,us,I,1,1,train,validation
+714800,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07P1ZFT9Z,us,S,1,1,train,validation
+714801,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07NZ7K2MD,us,S,1,1,train,validation
+714802,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07KSXHCX1,us,I,1,1,train,validation
+714803,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07W7KS87X,us,S,1,1,train,validation
+714804,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07DY6277Z,us,E,1,1,train,validation
+714805,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B078Q4V87V,us,I,1,1,train,validation
+714806,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B078NDV8RT,us,I,1,1,train,validation
+714807,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B00ITTWPLQ,us,S,1,1,train,validation
+714808,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B008KRMAV2,us,I,1,1,train,validation
+714809,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B004X1R3R0,us,I,1,1,train,validation
+714810,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B004Q05KQ4,us,S,1,1,train,validation
+714811,drive belt troybuilt riding mower 46 inch lawn tractor,35572,B07GC7PC46,us,I,1,1,train,validation
+730035,ear candles for ear candling,36333,B07XG9S3BJ,us,S,1,1,train,validation
+730036,ear candles for ear candling,36333,B07WXG6W4V,us,S,1,1,train,validation
+730037,ear candles for ear candling,36333,B07QKKXJBZ,us,I,1,1,train,validation
+730038,ear candles for ear candling,36333,B07Q3K49FM,us,S,1,1,train,validation
+730039,ear candles for ear candling,36333,B07PT43Z9K,us,S,1,1,train,validation
+730040,ear candles for ear candling,36333,B07FZCQ3PR,us,E,1,1,train,validation
+730041,ear candles for ear candling,36333,B07B8NWZHS,us,C,1,1,train,validation
+730042,ear candles for ear candling,36333,B01MS4LMKH,us,I,1,1,train,validation
+730043,ear candles for ear candling,36333,B01FE94CO6,us,S,1,1,train,validation
+730044,ear candles for ear candling,36333,B013VNVWP4,us,S,1,1,train,validation
+730045,ear candles for ear candling,36333,B010RZJIWI,us,S,1,1,train,validation
+730046,ear candles for ear candling,36333,B00YGEEOZI,us,S,1,1,train,validation
+730047,ear candles for ear candling,36333,B00MKKKCN8,us,S,1,1,train,validation
+730048,ear candles for ear candling,36333,1490537961,us,E,1,1,train,validation
+730049,ear candles for ear candling,36333,1086314530,us,E,1,1,train,validation
+730050,ear candles for ear candling,36333,B01AVEODA2,us,S,1,1,train,validation
+748442,elegoo resin,37252,B08345Q9BP,us,C,1,1,train,validation
+748443,elegoo resin,37252,B081QDZC9R,us,C,1,1,train,validation
+748444,elegoo resin,37252,B07Z9C9T42,us,I,1,1,train,validation
+748445,elegoo resin,37252,B07YZ7KD32,us,S,1,1,train,validation
+748446,elegoo resin,37252,B07X34Z9SC,us,E,1,1,train,validation
+748447,elegoo resin,37252,B07WQW9KB7,us,S,1,1,train,validation
+748448,elegoo resin,37252,B07WGFF4K4,us,C,1,1,train,validation
+748449,elegoo resin,37252,B07Z986566,us,E,1,1,train,validation
+748450,elegoo resin,37252,B07VBM4Z7Q,us,S,1,1,train,validation
+748451,elegoo resin,37252,B07R7TJD26,us,S,1,1,train,validation
+748452,elegoo resin,37252,B07R5T7D6Y,us,S,1,1,train,validation
+748453,elegoo resin,37252,B07KSYRW34,us,S,1,1,train,validation
+748454,elegoo resin,37252,B07K2ZHMRF,us,I,1,1,train,validation
+748455,elegoo resin,37252,B07G4G2PRY,us,S,1,1,train,validation
+748456,elegoo resin,37252,B07G35CC1V,us,S,1,1,train,validation
+748457,elegoo resin,37252,B07VHLWNJY,us,E,1,1,train,validation
+758781,ensure vanilla original 24 pack,37779,B06Y132681,us,S,1,1,train,validation
+758782,ensure vanilla original 24 pack,37779,B074P9D8JK,us,S,1,1,train,validation
+758783,ensure vanilla original 24 pack,37779,B076QGJCJ9,us,E,1,1,train,validation
+758784,ensure vanilla original 24 pack,37779,B078KVHFT1,us,E,1,1,train,validation
+758785,ensure vanilla original 24 pack,37779,B07BDB8MMX,us,S,1,1,train,validation
+758786,ensure vanilla original 24 pack,37779,B07C4XRDXN,us,S,1,1,train,validation
+758787,ensure vanilla original 24 pack,37779,B07CVZSM17,us,E,1,1,train,validation
+758788,ensure vanilla original 24 pack,37779,B07CW9186D,us,E,1,1,train,validation
+758789,ensure vanilla original 24 pack,37779,B07MCCVZYC,us,S,1,1,train,validation
+758790,ensure vanilla original 24 pack,37779,B07ZP461TY,us,S,1,1,train,validation
+758791,ensure vanilla original 24 pack,37779,B07NLQ5V6L,us,S,1,1,train,validation
+758792,ensure vanilla original 24 pack,37779,B07VG8CTKZ,us,E,1,1,train,validation
+758793,ensure vanilla original 24 pack,37779,B08Y73HJF4,us,S,1,1,train,validation
+758794,ensure vanilla original 24 pack,37779,B07ZZCDZST,us,E,1,1,train,validation
+758795,ensure vanilla original 24 pack,37779,B084HCLXCR,us,S,1,1,train,validation
+758796,ensure vanilla original 24 pack,37779,B084HFQMSZ,us,I,1,1,train,validation
+758797,ensure vanilla original 24 pack,37779,B084J62TZF,us,I,1,1,train,validation
+758798,ensure vanilla original 24 pack,37779,B08WJ2N64Z,us,E,1,1,train,validation
+758799,ensure vanilla original 24 pack,37779,B06W9K61K7,us,S,1,1,train,validation
+758800,ensure vanilla original 24 pack,37779,B07MFYYZ5B,us,S,1,1,train,validation
+758801,ensure vanilla original 24 pack,37779,B01N7OKI5D,us,E,1,1,train,validation
+758802,ensure vanilla original 24 pack,37779,B07ZP4HBXS,us,S,1,1,train,validation
+758803,ensure vanilla original 24 pack,37779,B01LBR2SK0,us,E,1,1,train,validation
+758804,ensure vanilla original 24 pack,37779,B01N65QFR4,us,I,1,1,train,validation
+758805,ensure vanilla original 24 pack,37779,B000ARTNJW,us,S,1,1,train,validation
+758806,ensure vanilla original 24 pack,37779,B000ARWL0A,us,S,1,1,train,validation
+758807,ensure vanilla original 24 pack,37779,B000AS1LD2,us,S,1,1,train,validation
+758808,ensure vanilla original 24 pack,37779,B003FDC2I2,us,S,1,1,train,validation
+758809,ensure vanilla original 24 pack,37779,B003XCVALK,us,E,1,1,train,validation
+758810,ensure vanilla original 24 pack,37779,B004HGNV0O,us,E,1,1,train,validation
+758811,ensure vanilla original 24 pack,37779,B00CF5BEYY,us,S,1,1,train,validation
+758812,ensure vanilla original 24 pack,37779,B00MIBPIDI,us,S,1,1,train,validation
+758813,ensure vanilla original 24 pack,37779,B00MIBPUQS,us,S,1,1,train,validation
+758814,ensure vanilla original 24 pack,37779,B005CGZKJ8,us,S,1,1,train,validation
+758815,ensure vanilla original 24 pack,37779,B00WY0A1LM,us,S,1,1,train,validation
+758816,ensure vanilla original 24 pack,37779,B01BZ0LXL8,us,I,1,1,train,validation
+758817,ensure vanilla original 24 pack,37779,B00U93RUBK,us,S,1,1,train,validation
+758818,ensure vanilla original 24 pack,37779,B01B1K1GVY,us,E,1,1,train,validation
+758819,ensure vanilla original 24 pack,37779,B01ASRUBW6,us,E,1,1,train,validation
+758820,ensure vanilla original 24 pack,37779,B01BWEKT9O,us,S,1,1,train,validation
+758821,ensure vanilla original 24 pack,37779,B018HGS8OI,us,E,1,1,train,validation
+758822,ensure vanilla original 24 pack,37779,B01414DNB8,us,S,1,1,train,validation
+758823,ensure vanilla original 24 pack,37779,B00XNXCLNK,us,E,1,1,train,validation
+758824,ensure vanilla original 24 pack,37779,B01AC7GG9O,us,S,1,1,train,validation
+792000,fall maternity shirts,39457,B07VHBMPWT,us,S,1,1,train,validation
+792001,fall maternity shirts,39457,B07MDZL3NK,us,S,1,1,train,validation
+792002,fall maternity shirts,39457,B07HFZ2LK5,us,S,1,1,train,validation
+792003,fall maternity shirts,39457,B07HF7Q7MF,us,S,1,1,train,validation
+792004,fall maternity shirts,39457,B07HD24ZX7,us,S,1,1,train,validation
+792005,fall maternity shirts,39457,B07GV54B7J,us,S,1,1,train,validation
+792006,fall maternity shirts,39457,B07GQV9PZ9,us,S,1,1,train,validation
+792007,fall maternity shirts,39457,B07GD47VL2,us,E,1,1,train,validation
+792008,fall maternity shirts,39457,B07G7KLWR7,us,E,1,1,train,validation
+792009,fall maternity shirts,39457,B07C7QZT5Y,us,S,1,1,train,validation
+792010,fall maternity shirts,39457,B079RRN3WF,us,I,1,1,train,validation
+792011,fall maternity shirts,39457,B079HH4TH4,us,S,1,1,train,validation
+792012,fall maternity shirts,39457,B0777MF1ZB,us,I,1,1,train,validation
+792013,fall maternity shirts,39457,B07473J4RF,us,S,1,1,train,validation
+792014,fall maternity shirts,39457,B01LW9M89J,us,S,1,1,train,validation
+792015,fall maternity shirts,39457,B07FYTRL52,us,E,1,1,train,validation
+815941,fishing boat accessories,40722,B07BT88ML7,us,I,1,1,train,validation
+815942,fishing boat accessories,40722,B01D8DXS3G,us,E,1,1,train,validation
+815943,fishing boat accessories,40722,B01AE2TG7G,us,E,1,1,train,validation
+815944,fishing boat accessories,40722,B0753YY1KJ,us,I,1,1,train,validation
+815945,fishing boat accessories,40722,B07B3HW33G,us,I,1,1,train,validation
+815946,fishing boat accessories,40722,B06XY3F69H,us,I,1,1,train,validation
+815947,fishing boat accessories,40722,B017NI17HQ,us,E,1,1,train,validation
+815948,fishing boat accessories,40722,B01B3M2BOG,us,E,1,1,train,validation
+815949,fishing boat accessories,40722,B00BNTZGO2,us,I,1,1,train,validation
+815950,fishing boat accessories,40722,B000KORVJY,us,E,1,1,train,validation
+815951,fishing boat accessories,40722,B0012RJTUW,us,I,1,1,train,validation
+815952,fishing boat accessories,40722,B001NXC7L8,us,E,1,1,train,validation
+815953,fishing boat accessories,40722,B00OCJHHDI,us,S,1,1,train,validation
+815954,fishing boat accessories,40722,B0042TD3VI,us,E,1,1,train,validation
+815955,fishing boat accessories,40722,B004IPC28G,us,C,1,1,train,validation
+815956,fishing boat accessories,40722,B002CLS17O,us,C,1,1,train,validation
+832584,fluker's reptile calcium supplement without vitamin d3,41586,B00NG61IMY,us,I,1,1,train,validation
+832585,fluker's reptile calcium supplement without vitamin d3,41586,B01BDWFZOY,us,S,1,1,train,validation
+832586,fluker's reptile calcium supplement without vitamin d3,41586,B01GGNJLFE,us,S,1,1,train,validation
+832587,fluker's reptile calcium supplement without vitamin d3,41586,B08BT1SX7S,us,I,1,1,train,validation
+832588,fluker's reptile calcium supplement without vitamin d3,41586,B07FBLMMJL,us,I,1,1,train,validation
+832589,fluker's reptile calcium supplement without vitamin d3,41586,B07TS939DM,us,S,1,1,train,validation
+832590,fluker's reptile calcium supplement without vitamin d3,41586,B00NG0GJAQ,us,I,1,1,train,validation
+832591,fluker's reptile calcium supplement without vitamin d3,41586,B0758M7M3W,us,S,1,1,train,validation
+832592,fluker's reptile calcium supplement without vitamin d3,41586,B006HX013A,us,E,1,1,train,validation
+832593,fluker's reptile calcium supplement without vitamin d3,41586,B002DWTJBO,us,I,1,1,train,validation
+832594,fluker's reptile calcium supplement without vitamin d3,41586,B0029UCPXE,us,E,1,1,train,validation
+832595,fluker's reptile calcium supplement without vitamin d3,41586,B0002DHPDK,us,I,1,1,train,validation
+832596,fluker's reptile calcium supplement without vitamin d3,41586,B0002DHPF8,us,S,1,1,train,validation
+832597,fluker's reptile calcium supplement without vitamin d3,41586,B0002DHPLW,us,E,1,1,train,validation
+832598,fluker's reptile calcium supplement without vitamin d3,41586,B000634CL4,us,E,1,1,train,validation
+832599,fluker's reptile calcium supplement without vitamin d3,41586,B0002DHPE4,us,S,1,1,train,validation
+832600,fluker's reptile calcium supplement without vitamin d3,41586,B0006G5B0C,us,E,1,1,train,validation
+832601,fluker's reptile calcium supplement without vitamin d3,41586,B000UJPHL8,us,S,1,1,train,validation
+832602,fluker's reptile calcium supplement without vitamin d3,41586,B001B4TTAG,us,S,1,1,train,validation
+832603,fluker's reptile calcium supplement without vitamin d3,41586,B000634JJE,us,S,1,1,train,validation
+859273,fujifilm sq10,43012,B07XDPV9N1,us,I,1,1,train,validation
+859274,fujifilm sq10,43012,B07XCSKLX9,us,C,1,1,train,validation
+859275,fujifilm sq10,43012,B07HRGB6GP,us,S,1,1,train,validation
+859276,fujifilm sq10,43012,B07FFBYWWR,us,E,1,1,train,validation
+859277,fujifilm sq10,43012,B07CW43M2L,us,S,1,1,train,validation
+859278,fujifilm sq10,43012,B07CVLX7BW,us,C,1,1,train,validation
+859279,fujifilm sq10,43012,B07CVL53HB,us,I,1,1,train,validation
+859280,fujifilm sq10,43012,B076D34QPS,us,I,1,1,train,validation
+859281,fujifilm sq10,43012,B073DYQXZL,us,E,1,1,train,validation
+859282,fujifilm sq10,43012,B073CMFKYL,us,C,1,1,train,validation
+859283,fujifilm sq10,43012,B071YSL2FD,us,E,1,1,train,validation
+859284,fujifilm sq10,43012,B06ZZYJHDL,us,C,1,1,train,validation
+859285,fujifilm sq10,43012,B06Y66DM52,us,E,1,1,train,validation
+859286,fujifilm sq10,43012,B015R3WUH0,us,S,1,1,train,validation
+859287,fujifilm sq10,43012,B00FR85IRK,us,S,1,1,train,validation
+859288,fujifilm sq10,43012,B0749J1894,us,E,1,1,train,validation
+873620,g star hoodies for men,43762,B07YWKW6XC,us,S,1,1,train,validation
+873621,g star hoodies for men,43762,B07W4GJC5H,us,S,1,1,train,validation
+873622,g star hoodies for men,43762,B07VPQBFQL,us,E,1,1,train,validation
+873623,g star hoodies for men,43762,B07RH2SPYZ,us,S,1,1,train,validation
+873624,g star hoodies for men,43762,B07NDP72HM,us,E,1,1,train,validation
+873625,g star hoodies for men,43762,B07KFJQLSM,us,E,1,1,train,validation
+873626,g star hoodies for men,43762,B07GY2D8NQ,us,S,1,1,train,validation
+873627,g star hoodies for men,43762,B07H5JG53L,us,C,1,1,train,validation
+873628,g star hoodies for men,43762,B079JQ8MRS,us,S,1,1,train,validation
+873629,g star hoodies for men,43762,B0792XJHZL,us,S,1,1,train,validation
+873630,g star hoodies for men,43762,B0781XXT9F,us,E,1,1,train,validation
+873631,g star hoodies for men,43762,B07713NQJK,us,S,1,1,train,validation
+873632,g star hoodies for men,43762,B07711GK3J,us,E,1,1,train,validation
+873633,g star hoodies for men,43762,B074WHW8WX,us,I,1,1,train,validation
+873634,g star hoodies for men,43762,B01LXC80ZU,us,E,1,1,train,validation
+873635,g star hoodies for men,43762,B079RFCR2X,us,C,1,1,train,validation
+881892,games for nintendo switch light,44196,B07XXWJBZM,us,I,1,1,train,validation
+881893,games for nintendo switch light,44196,B07WVV71QG,us,I,1,1,train,validation
+881894,games for nintendo switch light,44196,B07V4GCFP9,us,E,1,1,train,validation
+881895,games for nintendo switch light,44196,B07V2BBMK4,us,E,1,1,train,validation
+881896,games for nintendo switch light,44196,B07SL6ZXBL,us,E,1,1,train,validation
+881897,games for nintendo switch light,44196,B07L69ZV1K,us,E,1,1,train,validation
+881898,games for nintendo switch light,44196,B07KXQX3S3,us,S,1,1,train,validation
+881899,games for nintendo switch light,44196,B07KXBWQMH,us,E,1,1,train,validation
+881900,games for nintendo switch light,44196,B07GVSBQXH,us,E,1,1,train,validation
+881901,games for nintendo switch light,44196,B07F3RFPXG,us,E,1,1,train,validation
+881902,games for nintendo switch light,44196,B07D13QGXM,us,E,1,1,train,validation
+881903,games for nintendo switch light,44196,B07BMDG5ZP,us,E,1,1,train,validation
+881904,games for nintendo switch light,44196,B078Y4FLCL,us,E,1,1,train,validation
+881905,games for nintendo switch light,44196,B071JRMKBH,us,E,1,1,train,validation
+881906,games for nintendo switch light,44196,B01N1081RO,us,E,1,1,train,validation
+881907,games for nintendo switch light,44196,B01N1037CV,us,E,1,1,train,validation
+882520,gaming charging cases,44228,B07RV1FT1G,us,E,1,1,train,validation
+882521,gaming charging cases,44228,B07SBM6W22,us,S,1,1,train,validation
+882522,gaming charging cases,44228,B07C53VZRK,us,E,1,1,train,validation
+882523,gaming charging cases,44228,B07X1M1Q6X,us,E,1,1,train,validation
+882524,gaming charging cases,44228,B081GPY617,us,E,1,1,train,validation
+882525,gaming charging cases,44228,B07NDMHKX4,us,E,1,1,train,validation
+882526,gaming charging cases,44228,B07SYPPXYZ,us,E,1,1,train,validation
+882527,gaming charging cases,44228,B07N8GN1H4,us,I,1,1,train,validation
+882528,gaming charging cases,44228,B00LAU0Q1M,us,E,1,1,train,validation
+882529,gaming charging cases,44228,B07G3KB7RT,us,C,1,1,train,validation
+882530,gaming charging cases,44228,B07CBGT4BP,us,C,1,1,train,validation
+882531,gaming charging cases,44228,B07BGV9428,us,I,1,1,train,validation
+882532,gaming charging cases,44228,B075QFLMQ8,us,E,1,1,train,validation
+882533,gaming charging cases,44228,B071WNWHZ7,us,I,1,1,train,validation
+882534,gaming charging cases,44228,B01FX9PYCQ,us,E,1,1,train,validation
+882535,gaming charging cases,44228,B07K2GX4P7,us,C,1,1,train,validation
+929190,good naked,46681,B07HVTY8D3,us,I,1,1,train,validation
+929191,good naked,46681,B075NTJ96W,us,S,1,1,train,validation
+929192,good naked,46681,B075JQYZWB,us,I,1,1,train,validation
+929193,good naked,46681,B01JH0JVJO,us,E,1,1,train,validation
+929194,good naked,46681,B01GOMR5UK,us,I,1,1,train,validation
+929195,good naked,46681,B0161S570W,us,E,1,1,train,validation
+929196,good naked,46681,B00QTZAIKM,us,E,1,1,train,validation
+929197,good naked,46681,B00A1OVZU4,us,E,1,1,train,validation
+929198,good naked,46681,B001L1S16C,us,E,1,1,train,validation
+929199,good naked,46681,B000Z8ZOTO,us,E,1,1,train,validation
+929200,good naked,46681,B000BFH4JO,us,I,1,1,train,validation
+929201,good naked,46681,172065378X,us,E,1,1,train,validation
+929202,good naked,46681,1611689112,us,E,1,1,train,validation
+929203,good naked,46681,1328589927,us,I,1,1,train,validation
+929204,good naked,46681,0578450860,us,S,1,1,train,validation
+929205,good naked,46681,B00A1N25GI,us,E,1,1,train,validation
+989346,healthy snacks without nuts,49811,B07YTJFLGT,us,E,1,1,train,validation
+989347,healthy snacks without nuts,49811,B07JYS45BT,us,S,1,1,train,validation
+989348,healthy snacks without nuts,49811,B07KBCX5GQ,us,S,1,1,train,validation
+989349,healthy snacks without nuts,49811,B07KK465N9,us,E,1,1,train,validation
+989350,healthy snacks without nuts,49811,B07RT1WJGP,us,E,1,1,train,validation
+989351,healthy snacks without nuts,49811,B07VZXHTKH,us,E,1,1,train,validation
+989352,healthy snacks without nuts,49811,B07Y5KBB74,us,E,1,1,train,validation
+989353,healthy snacks without nuts,49811,B086NY8LQM,us,I,1,1,train,validation
+989354,healthy snacks without nuts,49811,B07HNSYZ26,us,I,1,1,train,validation
+989355,healthy snacks without nuts,49811,B08C55XSX9,us,E,1,1,train,validation
+989356,healthy snacks without nuts,49811,B08DX4JCKQ,us,I,1,1,train,validation
+989357,healthy snacks without nuts,49811,B08KT544B2,us,I,1,1,train,validation
+989358,healthy snacks without nuts,49811,B08SPDZ226,us,I,1,1,train,validation
+989359,healthy snacks without nuts,49811,B08XZHF8VJ,us,I,1,1,train,validation
+989360,healthy snacks without nuts,49811,B08Y1SPDV5,us,I,1,1,train,validation
+989361,healthy snacks without nuts,49811,B08Y728XP6,us,I,1,1,train,validation
+989362,healthy snacks without nuts,49811,B096N5XXNR,us,E,1,1,train,validation
+989363,healthy snacks without nuts,49811,B0872ZMXBG,us,I,1,1,train,validation
+989364,healthy snacks without nuts,49811,B07G8T92MQ,us,E,1,1,train,validation
+989365,healthy snacks without nuts,49811,B088QV8L65,us,E,1,1,train,validation
+989366,healthy snacks without nuts,49811,B07CMCLT4Z,us,I,1,1,train,validation
+989367,healthy snacks without nuts,49811,B000F9XBIE,us,E,1,1,train,validation
+989368,healthy snacks without nuts,49811,B000WCXXL4,us,E,1,1,train,validation
+989369,healthy snacks without nuts,49811,B001CTO0YA,us,E,1,1,train,validation
+989370,healthy snacks without nuts,49811,B008IYCGT8,us,I,1,1,train,validation
+989371,healthy snacks without nuts,49811,B00HF7W2JS,us,I,1,1,train,validation
+989372,healthy snacks without nuts,49811,B00HFC2E82,us,E,1,1,train,validation
+989373,healthy snacks without nuts,49811,B00PPKSZO8,us,I,1,1,train,validation
+989374,healthy snacks without nuts,49811,B07G75LJ8S,us,I,1,1,train,validation
+989375,healthy snacks without nuts,49811,B00VZ3NJHM,us,E,1,1,train,validation
+989376,healthy snacks without nuts,49811,B00IZF0LCE,us,I,1,1,train,validation
+989377,healthy snacks without nuts,49811,B01MY9L0J3,us,S,1,1,train,validation
+989378,healthy snacks without nuts,49811,B01G9R4LAW,us,E,1,1,train,validation
+989379,healthy snacks without nuts,49811,B079LY41VY,us,E,1,1,train,validation
+989380,healthy snacks without nuts,49811,B0773TXQ3G,us,I,1,1,train,validation
+989381,healthy snacks without nuts,49811,B074KFY62H,us,S,1,1,train,validation
+989382,healthy snacks without nuts,49811,B07BHV8DKG,us,S,1,1,train,validation
+989383,healthy snacks without nuts,49811,B01N39RV0A,us,E,1,1,train,validation
+989384,healthy snacks without nuts,49811,B01N22CM3F,us,I,1,1,train,validation
+989385,healthy snacks without nuts,49811,B06XS6WNWW,us,S,1,1,train,validation
+1015294,hoodie hat,51212,B074461Z2Q,us,I,1,1,train,validation
+1015295,hoodie hat,51212,B086X9DTX2,us,E,1,1,train,validation
+1015296,hoodie hat,51212,B086L19X1V,us,E,1,1,train,validation
+1015297,hoodie hat,51212,B07KMJN5S1,us,E,1,1,train,validation
+1015298,hoodie hat,51212,B07CL3CK7D,us,E,1,1,train,validation
+1015299,hoodie hat,51212,B076K7M6R4,us,E,1,1,train,validation
+1015300,hoodie hat,51212,B01NCJGYNF,us,I,1,1,train,validation
+1015301,hoodie hat,51212,B078L8N4T9,us,I,1,1,train,validation
+1015302,hoodie hat,51212,B01LDZWX46,us,E,1,1,train,validation
+1015303,hoodie hat,51212,B01KLAZQXY,us,E,1,1,train,validation
+1015304,hoodie hat,51212,B01316Y5T6,us,E,1,1,train,validation
+1015305,hoodie hat,51212,B00DNNWHP2,us,E,1,1,train,validation
+1015306,hoodie hat,51212,B00BP570Z2,us,E,1,1,train,validation
+1015307,hoodie hat,51212,B007ZH3EG8,us,E,1,1,train,validation
+1015308,hoodie hat,51212,B002G9UE1S,us,S,1,1,train,validation
+1015309,hoodie hat,51212,B01M3SPNN5,us,E,1,1,train,validation
+1030276,human body puzzles for kids ages 4-8,51995,B07YSVZ6MV,us,E,1,1,train,validation
+1030277,human body puzzles for kids ages 4-8,51995,B07PYMGV6N,us,E,1,1,train,validation
+1030278,human body puzzles for kids ages 4-8,51995,B07PN617Z5,us,E,1,1,train,validation
+1030279,human body puzzles for kids ages 4-8,51995,B07D846JR2,us,E,1,1,train,validation
+1030280,human body puzzles for kids ages 4-8,51995,B075LFR5KZ,us,S,1,1,train,validation
+1030281,human body puzzles for kids ages 4-8,51995,B01MZ3Y8JV,us,I,1,1,train,validation
+1030282,human body puzzles for kids ages 4-8,51995,B01MTCCL46,us,E,1,1,train,validation
+1030283,human body puzzles for kids ages 4-8,51995,B07ZQGB9SX,us,E,1,1,train,validation
+1030284,human body puzzles for kids ages 4-8,51995,B00PY2H4LM,us,E,1,1,train,validation
+1030285,human body puzzles for kids ages 4-8,51995,B004DJ51U8,us,E,1,1,train,validation
+1030286,human body puzzles for kids ages 4-8,51995,B001SVX6NI,us,E,1,1,train,validation
+1030287,human body puzzles for kids ages 4-8,51995,B000ELWHUQ,us,E,1,1,train,validation
+1030288,human body puzzles for kids ages 4-8,51995,B0006GVB5Q,us,E,1,1,train,validation
+1030289,human body puzzles for kids ages 4-8,51995,1932855785,us,E,1,1,train,validation
+1030290,human body puzzles for kids ages 4-8,51995,0375811001,us,S,1,1,train,validation
+1030291,human body puzzles for kids ages 4-8,51995,B01AXBENZI,us,S,1,1,train,validation
+1046068,ildefonso falcones italian,52789,B07VY9XS59,us,E,1,1,train,validation
+1046069,ildefonso falcones italian,52789,B07ML5C379,us,I,1,1,train,validation
+1046070,ildefonso falcones italian,52789,B079T9V37Q,us,I,1,1,train,validation
+1046071,ildefonso falcones italian,52789,B077Y84D2Y,us,I,1,1,train,validation
+1046072,ildefonso falcones italian,52789,B0728N5H2R,us,I,1,1,train,validation
+1046073,ildefonso falcones italian,52789,B01J60GS0K,us,E,1,1,train,validation
+1046074,ildefonso falcones italian,52789,B01BX5ZCT4,us,I,1,1,train,validation
+1046075,ildefonso falcones italian,52789,B0106DZLL8,us,I,1,1,train,validation
+1046076,ildefonso falcones italian,52789,B00M97VL78,us,I,1,1,train,validation
+1046077,ildefonso falcones italian,52789,B00F3CLX7E,us,E,1,1,train,validation
+1046078,ildefonso falcones italian,52789,B0065NA42A,us,E,1,1,train,validation
+1046079,ildefonso falcones italian,52789,B0065N8U2Q,us,E,1,1,train,validation
+1046080,ildefonso falcones italian,52789,B014RB5DH2,us,I,1,1,train,validation
+1060609,interchangeable truck sign,53583,B07PLQGC4Z,us,E,1,1,train,validation
+1060610,interchangeable truck sign,53583,B082YFD6RZ,us,S,1,1,train,validation
+1060611,interchangeable truck sign,53583,B085BPPCGQ,us,E,1,1,train,validation
+1060612,interchangeable truck sign,53583,B081KVJTWP,us,E,1,1,train,validation
+1060613,interchangeable truck sign,53583,B07YGRZ1DM,us,E,1,1,train,validation
+1060614,interchangeable truck sign,53583,B07W564RV4,us,I,1,1,train,validation
+1060615,interchangeable truck sign,53583,B07V8LGSH2,us,I,1,1,train,validation
+1060616,interchangeable truck sign,53583,B07NS8Y8F7,us,E,1,1,train,validation
+1060617,interchangeable truck sign,53583,B01749YB6S,us,S,1,1,train,validation
+1060618,interchangeable truck sign,53583,B07K8VDPLQ,us,I,1,1,train,validation
+1060619,interchangeable truck sign,53583,B07GN2FKBR,us,S,1,1,train,validation
+1060620,interchangeable truck sign,53583,B07D4R4ZV9,us,S,1,1,train,validation
+1060621,interchangeable truck sign,53583,B07D18XQMN,us,I,1,1,train,validation
+1060622,interchangeable truck sign,53583,B07D188QBR,us,I,1,1,train,validation
+1060623,interchangeable truck sign,53583,B0049KIXRY,us,I,1,1,train,validation
+1060624,interchangeable truck sign,53583,B07KBG8SX2,us,S,1,1,train,validation
+1086188,iron man statue,54918,B07661N7X8,us,I,1,1,train,validation
+1086189,iron man statue,54918,B07QFS3224,us,I,1,1,train,validation
+1086190,iron man statue,54918,B07NSQ6D5W,us,I,1,1,train,validation
+1086191,iron man statue,54918,B07KPSV1KF,us,I,1,1,train,validation
+1086192,iron man statue,54918,B079KTYGHH,us,I,1,1,train,validation
+1086193,iron man statue,54918,B07662857S,us,I,1,1,train,validation
+1086194,iron man statue,54918,B07661LWYW,us,I,1,1,train,validation
+1086195,iron man statue,54918,B07V8KG7ND,us,I,1,1,train,validation
+1086196,iron man statue,54918,B01N6ZB81A,us,I,1,1,train,validation
+1086197,iron man statue,54918,B01A7HBYH8,us,I,1,1,train,validation
+1086198,iron man statue,54918,B013YLXHVU,us,I,1,1,train,validation
+1086199,iron man statue,54918,B00KWHJ0RA,us,I,1,1,train,validation
+1086200,iron man statue,54918,B00I7EDULM,us,I,1,1,train,validation
+1086201,iron man statue,54918,B00BEZLUH2,us,E,1,1,train,validation
+1086202,iron man statue,54918,B0019EONTA,us,I,1,1,train,validation
+1086203,iron man statue,54918,B07661C44S,us,I,1,1,train,validation
+1087081,is 350 f sport,54969,B07SRSK8G2,us,C,1,1,train,validation
+1087082,is 350 f sport,54969,B07VJXM7DL,us,I,1,1,train,validation
+1087083,is 350 f sport,54969,B07Y3WV5HK,us,C,1,1,train,validation
+1087084,is 350 f sport,54969,B07YRKDF4P,us,C,1,1,train,validation
+1087085,is 350 f sport,54969,B07ZJTBVF2,us,I,1,1,train,validation
+1087086,is 350 f sport,54969,B086RSLV9F,us,C,1,1,train,validation
+1087087,is 350 f sport,54969,B0875V9LLY,us,C,1,1,train,validation
+1087088,is 350 f sport,54969,B08GFKNSJN,us,I,1,1,train,validation
+1087089,is 350 f sport,54969,B08NY87L5L,us,C,1,1,train,validation
+1087090,is 350 f sport,54969,B08L3M5Y9C,us,I,1,1,train,validation
+1087091,is 350 f sport,54969,B08LCPJFSB,us,C,1,1,train,validation
+1087092,is 350 f sport,54969,B08R8SP6L1,us,I,1,1,train,validation
+1087093,is 350 f sport,54969,B09BMZCFCD,us,I,1,1,train,validation
+1087094,is 350 f sport,54969,B092JK1M95,us,C,1,1,train,validation
+1087095,is 350 f sport,54969,B093PHNJ7X,us,C,1,1,train,validation
+1087096,is 350 f sport,54969,B07RZHZWR8,us,C,1,1,train,validation
+1087097,is 350 f sport,54969,B08HHFDG4X,us,C,1,1,train,validation
+1087098,is 350 f sport,54969,B07GN9CFHJ,us,E,1,1,train,validation
+1087099,is 350 f sport,54969,B091SVB2PD,us,E,1,1,train,validation
+1087100,is 350 f sport,54969,B07BL5FPX6,us,S,1,1,train,validation
+1087101,is 350 f sport,54969,B07BL9JVM9,us,C,1,1,train,validation
+1087102,is 350 f sport,54969,B003LRVT40,us,C,1,1,train,validation
+1087103,is 350 f sport,54969,B007B9NV8Q,us,I,1,1,train,validation
+1087104,is 350 f sport,54969,B00GZKC6EW,us,I,1,1,train,validation
+1087105,is 350 f sport,54969,B00LZYXP5C,us,E,1,1,train,validation
+1087106,is 350 f sport,54969,B00QW59PE4,us,E,1,1,train,validation
+1087107,is 350 f sport,54969,B0159IDK4A,us,C,1,1,train,validation
+1087108,is 350 f sport,54969,B01A5TLGJ4,us,I,1,1,train,validation
+1087109,is 350 f sport,54969,B01F9IS2Y8,us,C,1,1,train,validation
+1087110,is 350 f sport,54969,B07K438ZQD,us,I,1,1,train,validation
+1087111,is 350 f sport,54969,B071ZXTDBD,us,C,1,1,train,validation
+1087112,is 350 f sport,54969,B07B2BXQQV,us,I,1,1,train,validation
+1087113,is 350 f sport,54969,B078X38Q34,us,C,1,1,train,validation
+1087114,is 350 f sport,54969,B076JLX1DM,us,I,1,1,train,validation
+1087115,is 350 f sport,54969,B01NCSRTK7,us,I,1,1,train,validation
+1087116,is 350 f sport,54969,B074HTHFN8,us,C,1,1,train,validation
+1087117,is 350 f sport,54969,B073DQMPRG,us,E,1,1,train,validation
+1087118,is 350 f sport,54969,B072FHNZKW,us,E,1,1,train,validation
+1087119,is 350 f sport,54969,B074HWVK72,us,E,1,1,train,validation
+1110840,johnson control cable,56190,B07HWP5QGG,us,I,1,1,train,validation
+1110841,johnson control cable,56190,B003ALMUGI,us,S,1,1,train,validation
+1110842,johnson control cable,56190,B003905I6E,us,S,1,1,train,validation
+1110843,johnson control cable,56190,B0038ZZZMW,us,S,1,1,train,validation
+1110844,johnson control cable,56190,B0038ZY2N0,us,S,1,1,train,validation
+1110845,johnson control cable,56190,B000N9XW58,us,S,1,1,train,validation
+1110846,johnson control cable,56190,B000KOTJHQ,us,S,1,1,train,validation
+1110847,johnson control cable,56190,B003ALMU9K,us,S,1,1,train,validation
+1110848,johnson control cable,56190,B0000AYGYN,us,S,1,1,train,validation
+1110849,johnson control cable,56190,B0000AYGXO,us,S,1,1,train,validation
+1110850,johnson control cable,56190,B0000AYGXG,us,S,1,1,train,validation
+1110851,johnson control cable,56190,B0000AY1BJ,us,E,1,1,train,validation
+1110852,johnson control cable,56190,B0000AY19E,us,S,1,1,train,validation
+1110853,johnson control cable,56190,B0000AXTAF,us,S,1,1,train,validation
+1110854,johnson control cable,56190,B0000AXTAC,us,S,1,1,train,validation
+1110855,johnson control cable,56190,B0000C6HOT,us,S,1,1,train,validation
+1113788,joy bonnet pack without soldering,56346,B07Z3PLKMJ,us,S,1,1,train,validation
+1113789,joy bonnet pack without soldering,56346,B07R1RVYPB,us,I,1,1,train,validation
+1113790,joy bonnet pack without soldering,56346,B07R4WWC4L,us,I,1,1,train,validation
+1113791,joy bonnet pack without soldering,56346,B07RY5XWVG,us,I,1,1,train,validation
+1113792,joy bonnet pack without soldering,56346,B07WK9WRLR,us,I,1,1,train,validation
+1113793,joy bonnet pack without soldering,56346,B07XG1PD6D,us,I,1,1,train,validation
+1113794,joy bonnet pack without soldering,56346,B07Y5GBP3W,us,C,1,1,train,validation
+1113795,joy bonnet pack without soldering,56346,B07ZK25B9G,us,E,1,1,train,validation
+1113796,joy bonnet pack without soldering,56346,B08GR2ZNQV,us,I,1,1,train,validation
+1113797,joy bonnet pack without soldering,56346,B081YH42NH,us,I,1,1,train,validation
+1113798,joy bonnet pack without soldering,56346,B085ZZQKKK,us,I,1,1,train,validation
+1113799,joy bonnet pack without soldering,56346,B08798Y24X,us,I,1,1,train,validation
+1113800,joy bonnet pack without soldering,56346,B088P7S65N,us,I,1,1,train,validation
+1113801,joy bonnet pack without soldering,56346,B08CNFMFRV,us,I,1,1,train,validation
+1113802,joy bonnet pack without soldering,56346,B08HCWT5CJ,us,I,1,1,train,validation
+1113803,joy bonnet pack without soldering,56346,B08M3XBV25,us,I,1,1,train,validation
+1113804,joy bonnet pack without soldering,56346,B0921Y39PF,us,S,1,1,train,validation
+1113805,joy bonnet pack without soldering,56346,B08197TSPC,us,I,1,1,train,validation
+1113806,joy bonnet pack without soldering,56346,B07PDK3MX1,us,I,1,1,train,validation
+1113807,joy bonnet pack without soldering,56346,B07Q2B4ZY9,us,E,1,1,train,validation
+1113808,joy bonnet pack without soldering,56346,B07F1LDVX1,us,I,1,1,train,validation
+1113809,joy bonnet pack without soldering,56346,B07GTGGLXN,us,I,1,1,train,validation
+1113810,joy bonnet pack without soldering,56346,B001XUMBIA,us,I,1,1,train,validation
+1113811,joy bonnet pack without soldering,56346,B002GQCYUK,us,I,1,1,train,validation
+1113812,joy bonnet pack without soldering,56346,B002YRY3HI,us,I,1,1,train,validation
+1113813,joy bonnet pack without soldering,56346,B003X3VUK0,us,I,1,1,train,validation
+1113814,joy bonnet pack without soldering,56346,B00ANZRT4M,us,I,1,1,train,validation
+1113815,joy bonnet pack without soldering,56346,B00NS4J6BY,us,I,1,1,train,validation
+1113816,joy bonnet pack without soldering,56346,B00UM69TW2,us,I,1,1,train,validation
+1113817,joy bonnet pack without soldering,56346,B01MR2IWBN,us,I,1,1,train,validation
+1113818,joy bonnet pack without soldering,56346,B000X98XS4,us,I,1,1,train,validation
+1113819,joy bonnet pack without soldering,56346,B06XPSCJLC,us,I,1,1,train,validation
+1113820,joy bonnet pack without soldering,56346,B06XZ31W3M,us,I,1,1,train,validation
+1113821,joy bonnet pack without soldering,56346,B071G1J3W6,us,I,1,1,train,validation
+1113822,joy bonnet pack without soldering,56346,B073VDX4B7,us,I,1,1,train,validation
+1113823,joy bonnet pack without soldering,56346,B0756VKPTB,us,I,1,1,train,validation
+1113824,joy bonnet pack without soldering,56346,B075WB98FJ,us,C,1,1,train,validation
+1113825,joy bonnet pack without soldering,56346,B077JDGY1J,us,I,1,1,train,validation
+1113826,joy bonnet pack without soldering,56346,B07CTC8F3F,us,I,1,1,train,validation
+1113827,joy bonnet pack without soldering,56346,B06XB3CSXG,us,I,1,1,train,validation
+1124862,kamado joe jr,56894,B079BZ92QM,us,E,1,1,train,validation
+1124863,kamado joe jr,56894,B07QDB7KYN,us,E,1,1,train,validation
+1124864,kamado joe jr,56894,B07P11DBDZ,us,E,1,1,train,validation
+1124865,kamado joe jr,56894,B07FL135NV,us,I,1,1,train,validation
+1124866,kamado joe jr,56894,B07QDVHYR6,us,E,1,1,train,validation
+1124867,kamado joe jr,56894,B07B97NJJW,us,E,1,1,train,validation
+1124868,kamado joe jr,56894,B079KL9GW2,us,E,1,1,train,validation
+1124869,kamado joe jr,56894,B071FPJCL3,us,I,1,1,train,validation
+1124870,kamado joe jr,56894,B00MON188E,us,I,1,1,train,validation
+1124871,kamado joe jr,56894,B01N5G2S14,us,E,1,1,train,validation
+1124872,kamado joe jr,56894,B01INNA89S,us,E,1,1,train,validation
+1124873,kamado joe jr,56894,B01CCHXXHA,us,E,1,1,train,validation
+1124874,kamado joe jr,56894,B00EBWBFQQ,us,E,1,1,train,validation
+1124875,kamado joe jr,56894,B004JMZDBQ,us,I,1,1,train,validation
+1124876,kamado joe jr,56894,B004JMZDB6,us,I,1,1,train,validation
+1124877,kamado joe jr,56894,B06XCQ89QS,us,E,1,1,train,validation
+1145035,kids sit in kayak,57994,B07WJYS7QB,us,C,1,1,train,validation
+1145036,kids sit in kayak,57994,B081TYR58Y,us,E,1,1,train,validation
+1145037,kids sit in kayak,57994,B07VT1WXHC,us,E,1,1,train,validation
+1145038,kids sit in kayak,57994,B0845GXRT6,us,E,1,1,train,validation
+1145039,kids sit in kayak,57994,B09718YVLD,us,E,1,1,train,validation
+1145040,kids sit in kayak,57994,B083JK7YYL,us,E,1,1,train,validation
+1145041,kids sit in kayak,57994,B07F88P35C,us,I,1,1,train,validation
+1145042,kids sit in kayak,57994,B0845GT2W2,us,I,1,1,train,validation
+1145043,kids sit in kayak,57994,B00JYUXUZO,us,E,1,1,train,validation
+1145044,kids sit in kayak,57994,B00IPSJVIG,us,E,1,1,train,validation
+1145045,kids sit in kayak,57994,B00CX0KN0C,us,E,1,1,train,validation
+1145046,kids sit in kayak,57994,B00CX0KMP8,us,E,1,1,train,validation
+1145047,kids sit in kayak,57994,B00A7EXF4C,us,I,1,1,train,validation
+1145048,kids sit in kayak,57994,B01LZ6X80T,us,E,1,1,train,validation
+1145049,kids sit in kayak,57994,B005ADVAR4,us,E,1,1,train,validation
+1145050,kids sit in kayak,57994,B00177FIJ8,us,E,1,1,train,validation
+1163217,know it all wine,58928,B075JDRGWV,us,I,1,1,train,validation
+1163218,know it all wine,58928,B083TB6ZNP,us,I,1,1,train,validation
+1163219,know it all wine,58928,B07S94DGZ2,us,I,1,1,train,validation
+1163220,know it all wine,58928,B07DTVPTVX,us,S,1,1,train,validation
+1163221,know it all wine,58928,B07D9WN32D,us,I,1,1,train,validation
+1163222,know it all wine,58928,B07CJLTCQR,us,I,1,1,train,validation
+1163223,know it all wine,58928,B07BR7ZLZZ,us,I,1,1,train,validation
+1163224,know it all wine,58928,B0722ZZHK6,us,I,1,1,train,validation
+1163225,know it all wine,58928,B01N12XT0G,us,I,1,1,train,validation
+1163226,know it all wine,58928,B01NCP0CGC,us,I,1,1,train,validation
+1163227,know it all wine,58928,B01N3MPEM4,us,I,1,1,train,validation
+1163228,know it all wine,58928,B01M698AKK,us,I,1,1,train,validation
+1163229,know it all wine,58928,B01IP0DXGE,us,I,1,1,train,validation
+1163230,know it all wine,58928,B01CQCPYAA,us,I,1,1,train,validation
+1163231,know it all wine,58928,1577151763,us,E,1,1,train,validation
+1163232,know it all wine,58928,B0716TKWKG,us,I,1,1,train,validation
+1251108,long dress blazers for women,63453,B07JP3NJ83,us,I,1,1,train,validation
+1251109,long dress blazers for women,63453,B07Z3RL4Q1,us,S,1,1,train,validation
+1251110,long dress blazers for women,63453,B07VQDQFRM,us,E,1,1,train,validation
+1251111,long dress blazers for women,63453,B07TCKTM4J,us,I,1,1,train,validation
+1251112,long dress blazers for women,63453,B07T7D46RX,us,E,1,1,train,validation
+1251113,long dress blazers for women,63453,B07T1C5FM9,us,I,1,1,train,validation
+1251114,long dress blazers for women,63453,B07PV65BNH,us,I,1,1,train,validation
+1251115,long dress blazers for women,63453,B07DX5K15V,us,S,1,1,train,validation
+1251116,long dress blazers for women,63453,B074RDYY9Z,us,E,1,1,train,validation
+1251117,long dress blazers for women,63453,B07BWH7QPH,us,I,1,1,train,validation
+1251118,long dress blazers for women,63453,B078QJKC6J,us,I,1,1,train,validation
+1251119,long dress blazers for women,63453,B075MQ5DQK,us,E,1,1,train,validation
+1251120,long dress blazers for women,63453,B01LW9EEVA,us,E,1,1,train,validation
+1251121,long dress blazers for women,63453,B014LBX55K,us,E,1,1,train,validation
+1251122,long dress blazers for women,63453,B000Y13JS0,us,E,1,1,train,validation
+1251123,long dress blazers for women,63453,B07C728FYH,us,E,1,1,train,validation
+1279160,magnesium sleep babies,64858,B07PLFJYXB,us,S,1,1,train,validation
+1279161,magnesium sleep babies,64858,B07PHFS6PF,us,S,1,1,train,validation
+1279162,magnesium sleep babies,64858,B07N48MTTH,us,E,1,1,train,validation
+1279163,magnesium sleep babies,64858,B07F1VZ56Z,us,E,1,1,train,validation
+1279164,magnesium sleep babies,64858,B07D6W8GZS,us,S,1,1,train,validation
+1279165,magnesium sleep babies,64858,B07CGC7NM2,us,S,1,1,train,validation
+1279166,magnesium sleep babies,64858,B0713VF172,us,E,1,1,train,validation
+1279167,magnesium sleep babies,64858,B07CSBVTQN,us,S,1,1,train,validation
+1279168,magnesium sleep babies,64858,B01MXIO4BM,us,E,1,1,train,validation
+1279169,magnesium sleep babies,64858,B06XDSZP7H,us,E,1,1,train,validation
+1279170,magnesium sleep babies,64858,B01BT0K2YI,us,E,1,1,train,validation
+1279171,magnesium sleep babies,64858,B01DBTFO98,us,I,1,1,train,validation
+1279172,magnesium sleep babies,64858,B07B9KH4SD,us,S,1,1,train,validation
+1279173,magnesium sleep babies,64858,B01MAWIGWT,us,S,1,1,train,validation
+1279174,magnesium sleep babies,64858,B01MFA39FE,us,S,1,1,train,validation
+1279175,magnesium sleep babies,64858,B01KOCCBBO,us,E,1,1,train,validation
+1301010,marvel legends action figures iron man mark46,65992,B01E5AEK1U,us,S,1,1,train,validation
+1301011,marvel legends action figures iron man mark46,65992,B07NHRZFP5,us,I,1,1,train,validation
+1301012,marvel legends action figures iron man mark46,65992,B07L3BKKF6,us,S,1,1,train,validation
+1301013,marvel legends action figures iron man mark46,65992,B07G2F6NQ8,us,S,1,1,train,validation
+1301014,marvel legends action figures iron man mark46,65992,B077BFWLTS,us,S,1,1,train,validation
+1301015,marvel legends action figures iron man mark46,65992,B01B5F6WUA,us,E,1,1,train,validation
+1301016,marvel legends action figures iron man mark46,65992,B00GD2SCK4,us,S,1,1,train,validation
+1301017,marvel legends action figures iron man mark46,65992,B012MGTM1C,us,E,1,1,train,validation
+1301018,marvel legends action figures iron man mark46,65992,B00NYZTEIC,us,S,1,1,train,validation
+1301019,marvel legends action figures iron man mark46,65992,B00E0GS4J4,us,S,1,1,train,validation
+1301020,marvel legends action figures iron man mark46,65992,B008R62958,us,S,1,1,train,validation
+1301021,marvel legends action figures iron man mark46,65992,B019QYUT42,us,E,1,1,train,validation
+1301277,marvel neck pillow for kids,66009,B08428QKC4,us,E,1,1,train,validation
+1301278,marvel neck pillow for kids,66009,B07XSF792W,us,I,1,1,train,validation
+1301279,marvel neck pillow for kids,66009,B07WW7MBFH,us,I,1,1,train,validation
+1301280,marvel neck pillow for kids,66009,B07TD6WPJJ,us,E,1,1,train,validation
+1301281,marvel neck pillow for kids,66009,B07JH4XF2Z,us,S,1,1,train,validation
+1301282,marvel neck pillow for kids,66009,B077Q4W6X3,us,E,1,1,train,validation
+1301283,marvel neck pillow for kids,66009,B07418TQ2N,us,S,1,1,train,validation
+1301284,marvel neck pillow for kids,66009,B071YP5YM2,us,I,1,1,train,validation
+1301285,marvel neck pillow for kids,66009,B06X1CTGN1,us,S,1,1,train,validation
+1301286,marvel neck pillow for kids,66009,B01ICHJIM8,us,I,1,1,train,validation
+1301287,marvel neck pillow for kids,66009,B01D93PA18,us,S,1,1,train,validation
+1301288,marvel neck pillow for kids,66009,B01CDO2F6C,us,E,1,1,train,validation
+1301289,marvel neck pillow for kids,66009,B00RLO8FQE,us,E,1,1,train,validation
+1301290,marvel neck pillow for kids,66009,B00PE29RXU,us,E,1,1,train,validation
+1301291,marvel neck pillow for kids,66009,B00GCR4RAE,us,E,1,1,train,validation
+1301292,marvel neck pillow for kids,66009,B003FZB4CU,us,S,1,1,train,validation
+1341279,mens wrangler authentics heavy duty fleece xlt,68061,B07CHMZJY9,us,E,1,1,train,validation
+1341280,mens wrangler authentics heavy duty fleece xlt,68061,B08884S94J,us,S,1,1,train,validation
+1341281,mens wrangler authentics heavy duty fleece xlt,68061,B07HNWL9J8,us,I,1,1,train,validation
+1341282,mens wrangler authentics heavy duty fleece xlt,68061,B07W3QKNG3,us,E,1,1,train,validation
+1341283,mens wrangler authentics heavy duty fleece xlt,68061,B07RS2H9KP,us,E,1,1,train,validation
+1341284,mens wrangler authentics heavy duty fleece xlt,68061,B07RT25TB8,us,S,1,1,train,validation
+1341285,mens wrangler authentics heavy duty fleece xlt,68061,B075JXQGH4,us,I,1,1,train,validation
+1341286,mens wrangler authentics heavy duty fleece xlt,68061,B07RRZ25MZ,us,C,1,1,train,validation
+1341287,mens wrangler authentics heavy duty fleece xlt,68061,B074KLF2HC,us,I,1,1,train,validation
+1341288,mens wrangler authentics heavy duty fleece xlt,68061,B073JVMH2L,us,S,1,1,train,validation
+1341289,mens wrangler authentics heavy duty fleece xlt,68061,B074KJ6C46,us,C,1,1,train,validation
+1341290,mens wrangler authentics heavy duty fleece xlt,68061,B074KHWV8R,us,I,1,1,train,validation
+1341291,mens wrangler authentics heavy duty fleece xlt,68061,B01MV411E2,us,S,1,1,train,validation
+1341292,mens wrangler authentics heavy duty fleece xlt,68061,B01L0KS4U6,us,E,1,1,train,validation
+1341293,mens wrangler authentics heavy duty fleece xlt,68061,B00XKXTWGC,us,C,1,1,train,validation
+1341294,mens wrangler authentics heavy duty fleece xlt,68061,B00XKXNGT6,us,E,1,1,train,validation
+1341295,mens wrangler authentics heavy duty fleece xlt,68061,B00XH98VK2,us,E,1,1,train,validation
+1341296,mens wrangler authentics heavy duty fleece xlt,68061,B074KKZ256,us,C,1,1,train,validation
+1354152,mickey rapkin,68744,B009O2WQUW,us,E,1,1,train,validation
+1354153,mickey rapkin,68744,B00BVKQ4R6,us,E,1,1,train,validation
+1354154,mickey rapkin,68744,B00F4IS9YW,us,I,1,1,train,validation
+1354155,mickey rapkin,68744,B004KPX6V6,us,I,1,1,train,validation
+1354156,mickey rapkin,68744,B014I96048,us,E,1,1,train,validation
+1354157,mickey rapkin,68744,B07PPJT6HV,us,I,1,1,train,validation
+1354158,mickey rapkin,68744,B01071DLES,us,E,1,1,train,validation
+1354159,mickey rapkin,68744,B003QHU9O6,us,I,1,1,train,validation
+1354160,mickey rapkin,68744,B0027W03H4,us,I,1,1,train,validation
+1354161,mickey rapkin,68744,B000I9TX24,us,I,1,1,train,validation
+1354162,mickey rapkin,68744,1592404634,us,E,1,1,train,validation
+1354163,mickey rapkin,68744,1439145776,us,E,1,1,train,validation
+1354164,mickey rapkin,68744,1250229774,us,E,1,1,train,validation
+1354165,mickey rapkin,68744,1250167620,us,E,1,1,train,validation
+1354166,mickey rapkin,68744,0767925300,us,E,1,1,train,validation
+1354167,mickey rapkin,68744,0062125370,us,E,1,1,train,validation
+1420127,nanaville,72147,B07R42C9XB,us,E,1,1,train,validation
+1420128,nanaville,72147,B08GZZ84RN,us,E,1,1,train,validation
+1420129,nanaville,72147,B08GZT7BGG,us,I,1,1,train,validation
+1420130,nanaville,72147,B08GK14TCT,us,I,1,1,train,validation
+1420131,nanaville,72147,B08DMH5C8J,us,I,1,1,train,validation
+1420132,nanaville,72147,B08D8LWXDD,us,I,1,1,train,validation
+1420133,nanaville,72147,B086Z687C1,us,I,1,1,train,validation
+1420134,nanaville,72147,B08HLDMFLJ,us,I,1,1,train,validation
+1420135,nanaville,72147,B076YZ274Y,us,S,1,1,train,validation
+1420136,nanaville,72147,B003H2O97S,us,I,1,1,train,validation
+1420137,nanaville,72147,B0009U6Y10,us,E,1,1,train,validation
+1420138,nanaville,72147,0812985915,us,E,1,1,train,validation
+1420139,nanaville,72147,0812981669,us,S,1,1,train,validation
+1420140,nanaville,72147,0740702041,us,S,1,1,train,validation
+1420141,nanaville,72147,0375505490,us,S,1,1,train,validation
+1420142,nanaville,72147,B003Z9KFF8,us,I,1,1,train,validation
+1458299,noir hand sanitizer for men,74157,B086QJ2JY5,us,S,1,1,train,validation
+1458300,noir hand sanitizer for men,74157,B0862QJNJ7,us,S,1,1,train,validation
+1458301,noir hand sanitizer for men,74157,B0846X2XXY,us,S,1,1,train,validation
+1458302,noir hand sanitizer for men,74157,B07B1L2KQ9,us,S,1,1,train,validation
+1458303,noir hand sanitizer for men,74157,B07D9SQWBG,us,S,1,1,train,validation
+1458304,noir hand sanitizer for men,74157,B0873WRR2R,us,S,1,1,train,validation
+1458305,noir hand sanitizer for men,74157,B079QMY1PR,us,I,1,1,train,validation
+1458306,noir hand sanitizer for men,74157,B081TWYHK9,us,I,1,1,train,validation
+1458307,noir hand sanitizer for men,74157,B089S9LWK5,us,I,1,1,train,validation
+1458308,noir hand sanitizer for men,74157,B08LFSB67G,us,S,1,1,train,validation
+1458309,noir hand sanitizer for men,74157,B08HBMM17C,us,S,1,1,train,validation
+1458310,noir hand sanitizer for men,74157,B08HK22913,us,E,1,1,train,validation
+1458311,noir hand sanitizer for men,74157,B08NWC6Z46,us,S,1,1,train,validation
+1458312,noir hand sanitizer for men,74157,B08QDNYD7G,us,S,1,1,train,validation
+1458313,noir hand sanitizer for men,74157,B08RRWN3V6,us,C,1,1,train,validation
+1458314,noir hand sanitizer for men,74157,B08WM2Q3YB,us,S,1,1,train,validation
+1458315,noir hand sanitizer for men,74157,B09BG2Q7S5,us,S,1,1,train,validation
+1458316,noir hand sanitizer for men,74157,B0764MVSL3,us,S,1,1,train,validation
+1458317,noir hand sanitizer for men,74157,B08CQ1Z9KK,us,S,1,1,train,validation
+1458318,noir hand sanitizer for men,74157,B0764MP5Q2,us,S,1,1,train,validation
+1458319,noir hand sanitizer for men,74157,B003RY3RFQ,us,E,1,1,train,validation
+1458320,noir hand sanitizer for men,74157,B075ZHNM7N,us,S,1,1,train,validation
+1458321,noir hand sanitizer for men,74157,B0763TJ9KV,us,E,1,1,train,validation
+1458322,noir hand sanitizer for men,74157,B004T0GJDO,us,E,1,1,train,validation
+1458323,noir hand sanitizer for men,74157,B00A7GQJB6,us,S,1,1,train,validation
+1458324,noir hand sanitizer for men,74157,B00FSCAXE8,us,I,1,1,train,validation
+1458325,noir hand sanitizer for men,74157,B00H5JGEJ0,us,I,1,1,train,validation
+1458326,noir hand sanitizer for men,74157,B00HVEZ1W0,us,I,1,1,train,validation
+1458327,noir hand sanitizer for men,74157,B00T11J5NW,us,S,1,1,train,validation
+1458328,noir hand sanitizer for men,74157,B012C4R2AC,us,S,1,1,train,validation
+1458329,noir hand sanitizer for men,74157,B00HFMR176,us,C,1,1,train,validation
+1458330,noir hand sanitizer for men,74157,B012C56YFU,us,S,1,1,train,validation
+1458331,noir hand sanitizer for men,74157,B012C4RYJG,us,E,1,1,train,validation
+1458332,noir hand sanitizer for men,74157,B0721NRNRW,us,I,1,1,train,validation
+1458333,noir hand sanitizer for men,74157,B01G1KP8C2,us,S,1,1,train,validation
+1458334,noir hand sanitizer for men,74157,B01BOWFQTW,us,S,1,1,train,validation
+1458335,noir hand sanitizer for men,74157,B072HFXQ1M,us,S,1,1,train,validation
+1458336,noir hand sanitizer for men,74157,B015PEGKAE,us,S,1,1,train,validation
+1458337,noir hand sanitizer for men,74157,B012C5E4V6,us,E,1,1,train,validation
+1458338,noir hand sanitizer for men,74157,B015QOGXR8,us,E,1,1,train,validation
+1482165,old 3ds xl silicone hand grip,75378,B07CWMN6F9,us,E,1,1,train,validation
+1482166,old 3ds xl silicone hand grip,75378,B07CWMLGWT,us,E,1,1,train,validation
+1482167,old 3ds xl silicone hand grip,75378,B07CWM39MB,us,E,1,1,train,validation
+1482168,old 3ds xl silicone hand grip,75378,B07CWLKTRT,us,E,1,1,train,validation
+1482169,old 3ds xl silicone hand grip,75378,B079JP1MMC,us,I,1,1,train,validation
+1482170,old 3ds xl silicone hand grip,75378,B075YP1CTH,us,I,1,1,train,validation
+1482171,old 3ds xl silicone hand grip,75378,B073TYDXLC,us,I,1,1,train,validation
+1482172,old 3ds xl silicone hand grip,75378,B072XBT48R,us,C,1,1,train,validation
+1482173,old 3ds xl silicone hand grip,75378,B01NBIRRU3,us,E,1,1,train,validation
+1482174,old 3ds xl silicone hand grip,75378,B01MY4H2JB,us,I,1,1,train,validation
+1482175,old 3ds xl silicone hand grip,75378,B018VAEXD0,us,E,1,1,train,validation
+1482176,old 3ds xl silicone hand grip,75378,B0109RZB7U,us,E,1,1,train,validation
+1482177,old 3ds xl silicone hand grip,75378,B00WU8EEAC,us,I,1,1,train,validation
+1482178,old 3ds xl silicone hand grip,75378,B00UG63VDG,us,I,1,1,train,validation
+1482179,old 3ds xl silicone hand grip,75378,B00FJ36RZ0,us,E,1,1,train,validation
+1482180,old 3ds xl silicone hand grip,75378,B071LBQ1WS,us,I,1,1,train,validation
+1515364,packers football ball,77109,B009M5WQDI,us,E,1,1,train,validation
+1515365,packers football ball,77109,B07DQX4D2R,us,E,1,1,train,validation
+1515366,packers football ball,77109,B07QBD3QXR,us,E,1,1,train,validation
+1515367,packers football ball,77109,B079K5VKKB,us,E,1,1,train,validation
+1515368,packers football ball,77109,B075QS869Z,us,I,1,1,train,validation
+1515369,packers football ball,77109,B00SMP6WOI,us,E,1,1,train,validation
+1515370,packers football ball,77109,B00I3BJ38I,us,E,1,1,train,validation
+1515371,packers football ball,77109,B007W2RHFK,us,E,1,1,train,validation
+1515372,packers football ball,77109,B000MFNPTQ,us,E,1,1,train,validation
+1515373,packers football ball,77109,B005XOH4M0,us,E,1,1,train,validation
+1515374,packers football ball,77109,B00466A1D0,us,E,1,1,train,validation
+1515375,packers football ball,77109,B003FBSJUE,us,E,1,1,train,validation
+1515376,packers football ball,77109,B001EN237A,us,E,1,1,train,validation
+1515377,packers football ball,77109,B0012SNLJG,us,E,1,1,train,validation
+1515378,packers football ball,77109,B0000ASARH,us,E,1,1,train,validation
+1515379,packers football ball,77109,B007W2Q9V8,us,E,1,1,train,validation
+1591920,plastic kit,81060,B0767KC3VN,us,E,1,1,train,validation
+1591921,plastic kit,81060,B07RG8K18D,us,E,1,1,train,validation
+1591922,plastic kit,81060,B07L6FJGR4,us,E,1,1,train,validation
+1591923,plastic kit,81060,B07JVP1MRS,us,E,1,1,train,validation
+1591924,plastic kit,81060,B07J46LXFX,us,E,1,1,train,validation
+1591925,plastic kit,81060,B07DX7J996,us,E,1,1,train,validation
+1591926,plastic kit,81060,B072F5G2V2,us,E,1,1,train,validation
+1591927,plastic kit,81060,B01L8GHB7O,us,E,1,1,train,validation
+1591928,plastic kit,81060,B002UCYRZU,us,S,1,1,train,validation
+1591929,plastic kit,81060,B002KR5DSK,us,I,1,1,train,validation
+1591930,plastic kit,81060,B0018EOKA8,us,E,1,1,train,validation
+1591931,plastic kit,81060,B000WMRVOE,us,E,1,1,train,validation
+1591932,plastic kit,81060,B000WMRUOK,us,E,1,1,train,validation
+1591933,plastic kit,81060,B000WMNQ52,us,E,1,1,train,validation
+1591934,plastic kit,81060,B0009MZI4M,us,S,1,1,train,validation
+1591935,plastic kit,81060,B00B1FKCGA,us,E,1,1,train,validation
+1609748,polyester sweatshirt for sublimation,82007,B07VZHGLKM,us,E,1,1,train,validation
+1609749,polyester sweatshirt for sublimation,82007,B07XBVQ3MN,us,S,1,1,train,validation
+1609750,polyester sweatshirt for sublimation,82007,B081PBH8N7,us,S,1,1,train,validation
+1609751,polyester sweatshirt for sublimation,82007,B08C596WQM,us,E,1,1,train,validation
+1609752,polyester sweatshirt for sublimation,82007,B08DHS3M2H,us,E,1,1,train,validation
+1609753,polyester sweatshirt for sublimation,82007,B08J7YT8X4,us,E,1,1,train,validation
+1609754,polyester sweatshirt for sublimation,82007,B08MZVF9V6,us,E,1,1,train,validation
+1609755,polyester sweatshirt for sublimation,82007,B08PL6KH7X,us,E,1,1,train,validation
+1609756,polyester sweatshirt for sublimation,82007,B0924GH9Y3,us,I,1,1,train,validation
+1609757,polyester sweatshirt for sublimation,82007,B091BZ51VK,us,E,1,1,train,validation
+1609758,polyester sweatshirt for sublimation,82007,B091Q8PNLR,us,S,1,1,train,validation
+1609759,polyester sweatshirt for sublimation,82007,B09DY1TZHR,us,S,1,1,train,validation
+1609760,polyester sweatshirt for sublimation,82007,B097ZKB9DV,us,E,1,1,train,validation
+1609761,polyester sweatshirt for sublimation,82007,B098K1MZNS,us,E,1,1,train,validation
+1609762,polyester sweatshirt for sublimation,82007,B098NS3PJR,us,E,1,1,train,validation
+1609763,polyester sweatshirt for sublimation,82007,B09D95HY44,us,S,1,1,train,validation
+1609764,polyester sweatshirt for sublimation,82007,B07VTLZG2T,us,E,1,1,train,validation
+1609765,polyester sweatshirt for sublimation,82007,B08Z4GJJF8,us,S,1,1,train,validation
+1609766,polyester sweatshirt for sublimation,82007,B07VMRPW5X,us,E,1,1,train,validation
+1609767,polyester sweatshirt for sublimation,82007,B097QQ1G7G,us,E,1,1,train,validation
+1609768,polyester sweatshirt for sublimation,82007,B07MKKQ8QP,us,E,1,1,train,validation
+1609769,polyester sweatshirt for sublimation,82007,B07Q7H3XXS,us,S,1,1,train,validation
+1609770,polyester sweatshirt for sublimation,82007,B000VHNVI0,us,S,1,1,train,validation
+1609771,polyester sweatshirt for sublimation,82007,B004ORO51K,us,E,1,1,train,validation
+1609772,polyester sweatshirt for sublimation,82007,B00AWDGBO4,us,S,1,1,train,validation
+1609773,polyester sweatshirt for sublimation,82007,B00AWTY3TS,us,S,1,1,train,validation
+1609774,polyester sweatshirt for sublimation,82007,B00JUMF7OI,us,S,1,1,train,validation
+1609775,polyester sweatshirt for sublimation,82007,B014WBIWWK,us,S,1,1,train,validation
+1609776,polyester sweatshirt for sublimation,82007,B01I8JLKUI,us,S,1,1,train,validation
+1609777,polyester sweatshirt for sublimation,82007,B01L9J9FCO,us,S,1,1,train,validation
+1609778,polyester sweatshirt for sublimation,82007,B00T7U2CK0,us,S,1,1,train,validation
+1609779,polyester sweatshirt for sublimation,82007,B01M7NNXTC,us,E,1,1,train,validation
+1609780,polyester sweatshirt for sublimation,82007,B01LX4ITWU,us,S,1,1,train,validation
+1609781,polyester sweatshirt for sublimation,82007,B07M8J113R,us,E,1,1,train,validation
+1609782,polyester sweatshirt for sublimation,82007,B07K779WW4,us,E,1,1,train,validation
+1609783,polyester sweatshirt for sublimation,82007,B07JZRBHNC,us,S,1,1,train,validation
+1609784,polyester sweatshirt for sublimation,82007,B07MGYH715,us,S,1,1,train,validation
+1609785,polyester sweatshirt for sublimation,82007,B072QRN7HS,us,S,1,1,train,validation
+1609786,polyester sweatshirt for sublimation,82007,B071WWYQNG,us,E,1,1,train,validation
+1609787,polyester sweatshirt for sublimation,82007,B07BN78SMG,us,E,1,1,train,validation
+1642891,proteam spa ph increaser,83722,B01NBFKMY0,us,I,1,1,train,validation
+1642892,proteam spa ph increaser,83722,B01N3D4K44,us,E,1,1,train,validation
+1642893,proteam spa ph increaser,83722,B01MXT4Q5S,us,E,1,1,train,validation
+1642894,proteam spa ph increaser,83722,B01MSUO85Q,us,I,1,1,train,validation
+1642895,proteam spa ph increaser,83722,B01MSU2KAX,us,S,1,1,train,validation
+1642896,proteam spa ph increaser,83722,B01MSU19KB,us,I,1,1,train,validation
+1642897,proteam spa ph increaser,83722,B01MRT03ZO,us,E,1,1,train,validation
+1642898,proteam spa ph increaser,83722,B09DJ2D67D,us,S,1,1,train,validation
+1642899,proteam spa ph increaser,83722,B01BF8DYKI,us,S,1,1,train,validation
+1642900,proteam spa ph increaser,83722,B015P3XKWG,us,S,1,1,train,validation
+1642901,proteam spa ph increaser,83722,B00PZZFVFE,us,S,1,1,train,validation
+1642902,proteam spa ph increaser,83722,B00HZM95ES,us,I,1,1,train,validation
+1642903,proteam spa ph increaser,83722,B00BFKXYLQ,us,I,1,1,train,validation
+1642904,proteam spa ph increaser,83722,B000NCON80,us,S,1,1,train,validation
+1642905,proteam spa ph increaser,83722,B000LO0M3U,us,S,1,1,train,validation
+1642906,proteam spa ph increaser,83722,B01MQQYGFY,us,I,1,1,train,validation
+1684129,rc boat camera,85846,B085DKWFCS,us,I,1,1,train,validation
+1684130,rc boat camera,85846,B082STBPXG,us,E,1,1,train,validation
+1684131,rc boat camera,85846,B07X94MKQS,us,E,1,1,train,validation
+1684132,rc boat camera,85846,B07TD8KNDV,us,E,1,1,train,validation
+1684133,rc boat camera,85846,B07RTHD8WJ,us,I,1,1,train,validation
+1684134,rc boat camera,85846,B07R27LWVJ,us,I,1,1,train,validation
+1684135,rc boat camera,85846,B07QS2GJKK,us,E,1,1,train,validation
+1684136,rc boat camera,85846,B07PN8RJ3H,us,E,1,1,train,validation
+1684137,rc boat camera,85846,B07F1HG4QP,us,I,1,1,train,validation
+1684138,rc boat camera,85846,B07CDQL3T1,us,I,1,1,train,validation
+1684139,rc boat camera,85846,B074X2FYH1,us,I,1,1,train,validation
+1684140,rc boat camera,85846,B073WJGD8V,us,E,1,1,train,validation
+1684141,rc boat camera,85846,B01BL3DRVI,us,I,1,1,train,validation
+1684142,rc boat camera,85846,B009OM50K0,us,E,1,1,train,validation
+1684143,rc boat camera,85846,B002S3UF9I,us,E,1,1,train,validation
+1684144,rc boat camera,85846,B002HATGMO,us,E,1,1,train,validation
+1697286,red wing style 606,86536,B01G5FRLJ6,us,E,1,1,train,validation
+1697287,red wing style 606,86536,B08CVQNFRZ,us,I,1,1,train,validation
+1697288,red wing style 606,86536,B08CSPHNP1,us,I,1,1,train,validation
+1697289,red wing style 606,86536,B07WDFJL6Z,us,I,1,1,train,validation
+1697290,red wing style 606,86536,B077FQ52R8,us,E,1,1,train,validation
+1697291,red wing style 606,86536,B0721DCF9M,us,E,1,1,train,validation
+1697292,red wing style 606,86536,B0199GUMOY,us,E,1,1,train,validation
+1697293,red wing style 606,86536,B000XEVBHY,us,S,1,1,train,validation
+1697294,red wing style 606,86536,B0058Z1WKO,us,S,1,1,train,validation
+1697295,red wing style 606,86536,B0039J2P48,us,I,1,1,train,validation
+1697296,red wing style 606,86536,B001UGOQB2,us,S,1,1,train,validation
+1697297,red wing style 606,86536,B001IOLGI2,us,E,1,1,train,validation
+1697298,red wing style 606,86536,B0018DZDF0,us,S,1,1,train,validation
+1697299,red wing style 606,86536,B0018DVYDA,us,E,1,1,train,validation
+1697300,red wing style 606,86536,B018TL53PI,us,E,1,1,train,validation
+1726049,robot lawn mower 1 acre,88003,B099ZB91FV,us,E,1,1,train,validation
+1726050,robot lawn mower 1 acre,88003,B099YWZ1K4,us,E,1,1,train,validation
+1726051,robot lawn mower 1 acre,88003,B096T6FNWJ,us,E,1,1,train,validation
+1726052,robot lawn mower 1 acre,88003,B09595K4T8,us,S,1,1,train,validation
+1726053,robot lawn mower 1 acre,88003,B08W8T76GP,us,S,1,1,train,validation
+1726054,robot lawn mower 1 acre,88003,B08V9GPN14,us,E,1,1,train,validation
+1726055,robot lawn mower 1 acre,88003,B08NXQPZPG,us,S,1,1,train,validation
+1726056,robot lawn mower 1 acre,88003,B07WNXPKBK,us,I,1,1,train,validation
+1726057,robot lawn mower 1 acre,88003,B07W6B8BQF,us,E,1,1,train,validation
+1726058,robot lawn mower 1 acre,88003,B07TXGTTHQ,us,E,1,1,train,validation
+1726059,robot lawn mower 1 acre,88003,B07TXD9RXT,us,E,1,1,train,validation
+1726060,robot lawn mower 1 acre,88003,B07TS69X9J,us,E,1,1,train,validation
+1726061,robot lawn mower 1 acre,88003,B07PGBSGXQ,us,E,1,1,train,validation
+1726062,robot lawn mower 1 acre,88003,B078WHCKWT,us,E,1,1,train,validation
+1726063,robot lawn mower 1 acre,88003,B00GX9WNP2,us,E,1,1,train,validation
+1726064,robot lawn mower 1 acre,88003,B00BBQVL5U,us,E,1,1,train,validation
+1731362,roller bearings for pipe,88280,B018V16I82,us,I,1,1,train,validation
+1731363,roller bearings for pipe,88280,B07ZHYWPGN,us,S,1,1,train,validation
+1731364,roller bearings for pipe,88280,B07QYJ1DG3,us,I,1,1,train,validation
+1731365,roller bearings for pipe,88280,B0761MNW7Z,us,S,1,1,train,validation
+1731366,roller bearings for pipe,88280,B01N9WVPN7,us,I,1,1,train,validation
+1731367,roller bearings for pipe,88280,B01IUV4AOW,us,I,1,1,train,validation
+1731368,roller bearings for pipe,88280,B00MBVHZS6,us,S,1,1,train,validation
+1731369,roller bearings for pipe,88280,B08128QSNL,us,I,1,1,train,validation
+1731370,roller bearings for pipe,88280,B00LBFPGDE,us,E,1,1,train,validation
+1731371,roller bearings for pipe,88280,B00J4YJJQY,us,I,1,1,train,validation
+1731372,roller bearings for pipe,88280,B00HG0L5C4,us,S,1,1,train,validation
+1731373,roller bearings for pipe,88280,B004FHB0B2,us,I,1,1,train,validation
+1731374,roller bearings for pipe,88280,B003T0FVLG,us,E,1,1,train,validation
+1731375,roller bearings for pipe,88280,B0001LQXLS,us,I,1,1,train,validation
+1731376,roller bearings for pipe,88280,B0001LQXKY,us,S,1,1,train,validation
+1731377,roller bearings for pipe,88280,B00MBVHZ2C,us,S,1,1,train,validation
+1759387,saints football jersey,89728,B07TMRFSQD,us,E,1,1,train,validation
+1759388,saints football jersey,89728,B07TKN5728,us,E,1,1,train,validation
+1759389,saints football jersey,89728,B07TCR7HR2,us,E,1,1,train,validation
+1759390,saints football jersey,89728,B07RZJ4T12,us,S,1,1,train,validation
+1759391,saints football jersey,89728,B07L1Y5G63,us,S,1,1,train,validation
+1759392,saints football jersey,89728,B07KRQ8X5C,us,S,1,1,train,validation
+1759393,saints football jersey,89728,B07DGLJDGR,us,S,1,1,train,validation
+1759394,saints football jersey,89728,B07CT12367,us,E,1,1,train,validation
+1759395,saints football jersey,89728,B0797LNVHD,us,S,1,1,train,validation
+1759396,saints football jersey,89728,B0797KRKW9,us,S,1,1,train,validation
+1759397,saints football jersey,89728,B076WRV9W4,us,S,1,1,train,validation
+1759398,saints football jersey,89728,B073XGFYXL,us,I,1,1,train,validation
+1759399,saints football jersey,89728,B01CLYYHFQ,us,S,1,1,train,validation
+1759400,saints football jersey,89728,B00G33FNF0,us,S,1,1,train,validation
+1759401,saints football jersey,89728,B003L9OMY2,us,E,1,1,train,validation
+1759402,saints football jersey,89728,B0797NGQXD,us,S,1,1,train,validation
+1770864,san marco graduated necklace,90384,B07FBCDG2G,us,E,1,1,train,validation
+1770865,san marco graduated necklace,90384,B07FSQCP7T,us,S,1,1,train,validation
+1770866,san marco graduated necklace,90384,B07HP8136F,us,S,1,1,train,validation
+1770867,san marco graduated necklace,90384,B07J4RNDN3,us,S,1,1,train,validation
+1770868,san marco graduated necklace,90384,B07NY2TR28,us,S,1,1,train,validation
+1770869,san marco graduated necklace,90384,B07RVDRHWQ,us,S,1,1,train,validation
+1770870,san marco graduated necklace,90384,B07S44QQK4,us,E,1,1,train,validation
+1770871,san marco graduated necklace,90384,B07T1C9GPJ,us,E,1,1,train,validation
+1770872,san marco graduated necklace,90384,B08HQ1J1WL,us,S,1,1,train,validation
+1770873,san marco graduated necklace,90384,B07TKTFXB2,us,S,1,1,train,validation
+1770874,san marco graduated necklace,90384,B081THXVCL,us,S,1,1,train,validation
+1770875,san marco graduated necklace,90384,B07DMXSCCL,us,S,1,1,train,validation
+1770876,san marco graduated necklace,90384,B08SCD7QJ1,us,I,1,1,train,validation
+1770877,san marco graduated necklace,90384,B08Y96G177,us,E,1,1,train,validation
+1770878,san marco graduated necklace,90384,B08YFCS7D5,us,S,1,1,train,validation
+1770879,san marco graduated necklace,90384,B09638TFZD,us,S,1,1,train,validation
+1770880,san marco graduated necklace,90384,B098F67G8Z,us,E,1,1,train,validation
+1770881,san marco graduated necklace,90384,B07T241Q6D,us,S,1,1,train,validation
+1770882,san marco graduated necklace,90384,B07BKQFZWV,us,S,1,1,train,validation
+1770883,san marco graduated necklace,90384,B08Q7QHSWY,us,S,1,1,train,validation
+1770884,san marco graduated necklace,90384,B07BB2HZYF,us,S,1,1,train,validation
+1770885,san marco graduated necklace,90384,B003LU1C12,us,E,1,1,train,validation
+1770886,san marco graduated necklace,90384,B00J33HXDW,us,S,1,1,train,validation
+1770887,san marco graduated necklace,90384,B00MRWAP5E,us,S,1,1,train,validation
+1770888,san marco graduated necklace,90384,B00NC1EV7C,us,S,1,1,train,validation
+1770889,san marco graduated necklace,90384,B00NC1FDQ0,us,E,1,1,train,validation
+1770890,san marco graduated necklace,90384,B015GVGEOI,us,C,1,1,train,validation
+1770891,san marco graduated necklace,90384,B016N7L70A,us,S,1,1,train,validation
+1770892,san marco graduated necklace,90384,B019XEN3J8,us,S,1,1,train,validation
+1770893,san marco graduated necklace,90384,B011X08S4U,us,S,1,1,train,validation
+1770894,san marco graduated necklace,90384,B01M21DE8X,us,E,1,1,train,validation
+1770895,san marco graduated necklace,90384,B01MSCZZL0,us,S,1,1,train,validation
+1770896,san marco graduated necklace,90384,B06XJWWGF5,us,S,1,1,train,validation
+1770897,san marco graduated necklace,90384,B072BH8R7Z,us,S,1,1,train,validation
+1770898,san marco graduated necklace,90384,B073T9H214,us,S,1,1,train,validation
+1770899,san marco graduated necklace,90384,B076BMJ2Y3,us,E,1,1,train,validation
+1770900,san marco graduated necklace,90384,B0777TDFW2,us,S,1,1,train,validation
+1770901,san marco graduated necklace,90384,B01C36QPI4,us,E,1,1,train,validation
+1770902,san marco graduated necklace,90384,B07BKQ5CHT,us,S,1,1,train,validation
+1780403,scheduled delivery items,90886,B08SGHVNZW,us,E,1,1,train,validation
+1780404,scheduled delivery items,90886,B0888WJXJX,us,I,1,1,train,validation
+1780405,scheduled delivery items,90886,B07BNS7T6V,us,E,1,1,train,validation
+1780406,scheduled delivery items,90886,B07V1J6X3Q,us,E,1,1,train,validation
+1780407,scheduled delivery items,90886,B074QWX9V9,us,I,1,1,train,validation
+1780408,scheduled delivery items,90886,B012H0K6KO,us,E,1,1,train,validation
+1780409,scheduled delivery items,90886,B00GTCAY04,us,I,1,1,train,validation
+1780410,scheduled delivery items,90886,B0777K9RGX,us,I,1,1,train,validation
+1805070,shades for men,92178,B07ZCS5M3X,us,S,1,1,train,validation
+1805071,shades for men,92178,B07VSFKVB5,us,S,1,1,train,validation
+1805072,shades for men,92178,B07PXKR5PB,us,S,1,1,train,validation
+1805073,shades for men,92178,B07MW461V7,us,E,1,1,train,validation
+1805074,shades for men,92178,B07HY6FBJJ,us,S,1,1,train,validation
+1805075,shades for men,92178,B07DXNPLWF,us,S,1,1,train,validation
+1805076,shades for men,92178,B07C317WPZ,us,E,1,1,train,validation
+1805077,shades for men,92178,B07GM4PF8P,us,S,1,1,train,validation
+1805078,shades for men,92178,B076V4B6FJ,us,I,1,1,train,validation
+1805079,shades for men,92178,B0721JLP33,us,S,1,1,train,validation
+1805080,shades for men,92178,B0713NTMBQ,us,S,1,1,train,validation
+1805081,shades for men,92178,B01LYQK0YX,us,S,1,1,train,validation
+1805082,shades for men,92178,B01IQWC4KW,us,S,1,1,train,validation
+1805083,shades for men,92178,B01E0MMUAQ,us,I,1,1,train,validation
+1805084,shades for men,92178,B00B5LMAAG,us,S,1,1,train,validation
+1805085,shades for men,92178,B078NLDMP7,us,E,1,1,train,validation
+1813098,shiny powder,92600,B087QB2XSK,us,E,1,1,train,validation
+1813099,shiny powder,92600,B087Q5PBJX,us,E,1,1,train,validation
+1813100,shiny powder,92600,B087B8JBS2,us,E,1,1,train,validation
+1813101,shiny powder,92600,B087B14RVX,us,E,1,1,train,validation
+1813102,shiny powder,92600,B0874K6F87,us,E,1,1,train,validation
+1813103,shiny powder,92600,B086VXRFLW,us,E,1,1,train,validation
+1813104,shiny powder,92600,B086V8YN35,us,S,1,1,train,validation
+1813105,shiny powder,92600,B088NLN7QL,us,E,1,1,train,validation
+1813106,shiny powder,92600,B07PKKBCRC,us,S,1,1,train,validation
+1813107,shiny powder,92600,B07HG9YL1Q,us,I,1,1,train,validation
+1813108,shiny powder,92600,B07F714Z95,us,S,1,1,train,validation
+1813109,shiny powder,92600,B0777PF9DS,us,E,1,1,train,validation
+1813110,shiny powder,92600,B01HO2MONC,us,I,1,1,train,validation
+1813111,shiny powder,92600,B00RGHKZUA,us,E,1,1,train,validation
+1813112,shiny powder,92600,B000BNG4VU,us,I,1,1,train,validation
+1813113,shiny powder,92600,B08132D34Y,us,E,1,1,train,validation
+1822204,shutter switch plates,93075,B082FRFN6Y,us,S,1,1,train,validation
+1822205,shutter switch plates,93075,B0821SJFNB,us,S,1,1,train,validation
+1822206,shutter switch plates,93075,B07WMNWHK9,us,I,1,1,train,validation
+1822207,shutter switch plates,93075,B07VFT1S4N,us,I,1,1,train,validation
+1822208,shutter switch plates,93075,B07SPHX9NS,us,I,1,1,train,validation
+1822209,shutter switch plates,93075,B07KQN7WND,us,I,1,1,train,validation
+1822210,shutter switch plates,93075,B07KMKJ9D6,us,E,1,1,train,validation
+1822211,shutter switch plates,93075,B07WMNYNH2,us,I,1,1,train,validation
+1822212,shutter switch plates,93075,B07JP9G1RY,us,I,1,1,train,validation
+1822213,shutter switch plates,93075,B07G4DX15T,us,C,1,1,train,validation
+1822214,shutter switch plates,93075,B07CWNZCGZ,us,E,1,1,train,validation
+1822215,shutter switch plates,93075,B076PKVPHQ,us,I,1,1,train,validation
+1822216,shutter switch plates,93075,B015PA5T6O,us,I,1,1,train,validation
+1822217,shutter switch plates,93075,B008KO5D1E,us,E,1,1,train,validation
+1822218,shutter switch plates,93075,B005BTA0PA,us,E,1,1,train,validation
+1822219,shutter switch plates,93075,B07KCCV63M,us,I,1,1,train,validation
+1834295,sinead oconnor i do not want,93706,B01KG31KNG,us,E,1,1,train,validation
+1834296,sinead oconnor i do not want,93706,B07CFKRCDG,us,S,1,1,train,validation
+1834297,sinead oconnor i do not want,93706,B01KJYVU1Y,us,E,1,1,train,validation
+1834298,sinead oconnor i do not want,93706,B01KJYVP0A,us,E,1,1,train,validation
+1834299,sinead oconnor i do not want,93706,B01KJYVJ7E,us,E,1,1,train,validation
+1834300,sinead oconnor i do not want,93706,B01KJYT7YQ,us,E,1,1,train,validation
+1834301,sinead oconnor i do not want,93706,B01KG31HB6,us,E,1,1,train,validation
+1834302,sinead oconnor i do not want,93706,B01KG31ILK,us,E,1,1,train,validation
+1834303,sinead oconnor i do not want,93706,B01KG31AL8,us,E,1,1,train,validation
+1834304,sinead oconnor i do not want,93706,B01KG31FEA,us,E,1,1,train,validation
+1834305,sinead oconnor i do not want,93706,B01KG315VS,us,I,1,1,train,validation
+1834306,sinead oconnor i do not want,93706,B01KG313M4,us,E,1,1,train,validation
+1834307,sinead oconnor i do not want,93706,B01KG30ZLE,us,E,1,1,train,validation
+1834308,sinead oconnor i do not want,93706,B01KG30YB0,us,E,1,1,train,validation
+1834309,sinead oconnor i do not want,93706,B00KSR4D7G,us,S,1,1,train,validation
+1834310,sinead oconnor i do not want,93706,B000003JBI,us,S,1,1,train,validation
+1869973,social problems joel best,95602,B076TVXYS3,us,E,1,1,train,validation
+1869974,social problems joel best,95602,B073RQXDHW,us,I,1,1,train,validation
+1869975,social problems joel best,95602,B015X51QPO,us,E,1,1,train,validation
+1869976,social problems joel best,95602,B00XWQTZ5A,us,E,1,1,train,validation
+1869977,social problems joel best,95602,B00FARZYX6,us,E,1,1,train,validation
+1869978,social problems joel best,95602,B00DWYQD52,us,E,1,1,train,validation
+1869979,social problems joel best,95602,B0012QYCFK,us,I,1,1,train,validation
+1869980,social problems joel best,95602,1943200734,us,I,1,1,train,validation
+1869981,social problems joel best,95602,1588268551,us,E,1,1,train,validation
+1869982,social problems joel best,95602,0609809539,us,I,1,1,train,validation
+1869983,social problems joel best,95602,0520287525,us,E,1,1,train,validation
+1869984,social problems joel best,95602,0520274709,us,E,1,1,train,validation
+1869985,social problems joel best,95602,0520219783,us,E,1,1,train,validation
+1869986,social problems joel best,95602,0393918637,us,E,1,1,train,validation
+1869987,social problems joel best,95602,0393283410,us,E,1,1,train,validation
+1869988,social problems joel best,95602,0202306534,us,I,1,1,train,validation
+1878714,"sonicare brush, w",96032,B079H6L89L,us,E,1,1,train,validation
+1878715,"sonicare brush, w",96032,B083316JPN,us,E,1,1,train,validation
+1878716,"sonicare brush, w",96032,B07WDLTJFG,us,I,1,1,train,validation
+1878717,"sonicare brush, w",96032,B07S9VHL6F,us,E,1,1,train,validation
+1878718,"sonicare brush, w",96032,B07S8VVW21,us,I,1,1,train,validation
+1878719,"sonicare brush, w",96032,B07BJT4MQR,us,E,1,1,train,validation
+1878720,"sonicare brush, w",96032,B079H8G39B,us,E,1,1,train,validation
+1878721,"sonicare brush, w",96032,B078BDD1BB,us,E,1,1,train,validation
+1878722,"sonicare brush, w",96032,B00EXPSFMS,us,I,1,1,train,validation
+1878723,"sonicare brush, w",96032,B071L9QVFQ,us,I,1,1,train,validation
+1878724,"sonicare brush, w",96032,B071HQF6D7,us,I,1,1,train,validation
+1878725,"sonicare brush, w",96032,B0719D46NY,us,I,1,1,train,validation
+1878726,"sonicare brush, w",96032,B00FS2N32M,us,I,1,1,train,validation
+1878727,"sonicare brush, w",96032,B00CXKY4H0,us,E,1,1,train,validation
+1878728,"sonicare brush, w",96032,B0086VIA3O,us,E,1,1,train,validation
+1878729,"sonicare brush, w",96032,B0725KKXQW,us,C,1,1,train,validation
+1896126,spooky hourglass,96969,B087CQTQGV,us,I,1,1,train,validation
+1896127,spooky hourglass,96969,B087BWPF5N,us,I,1,1,train,validation
+1896128,spooky hourglass,96969,B086939VDW,us,I,1,1,train,validation
+1896129,spooky hourglass,96969,B0829D95NH,us,I,1,1,train,validation
+1896130,spooky hourglass,96969,B07ZKPK4ZP,us,I,1,1,train,validation
+1896131,spooky hourglass,96969,B07X1NTYGV,us,I,1,1,train,validation
+1896132,spooky hourglass,96969,B07WN8VNQL,us,E,1,1,train,validation
+1896133,spooky hourglass,96969,B07VSY5QHL,us,S,1,1,train,validation
+1896134,spooky hourglass,96969,B07TXD6W3H,us,S,1,1,train,validation
+1896135,spooky hourglass,96969,B07TJR8CW7,us,E,1,1,train,validation
+1896136,spooky hourglass,96969,B07R2JR1SD,us,E,1,1,train,validation
+1896137,spooky hourglass,96969,B07BBFFHW8,us,S,1,1,train,validation
+1896138,spooky hourglass,96969,B01N3NNK2H,us,E,1,1,train,validation
+1896139,spooky hourglass,96969,0897471237,us,I,1,1,train,validation
+1896140,spooky hourglass,96969,0061284483,us,S,1,1,train,validation
+1896141,spooky hourglass,96969,B07V5M9756,us,S,1,1,train,validation
+2014968,timely alarm,103221,B07Q61PKLF,us,I,1,1,train,validation
+2014969,timely alarm,103221,B07VLQ7SH6,us,E,1,1,train,validation
+2014970,timely alarm,103221,B07WML1QM4,us,I,1,1,train,validation
+2014971,timely alarm,103221,B07YDH9H5S,us,E,1,1,train,validation
+2014972,timely alarm,103221,B07YTS1KWP,us,E,1,1,train,validation
+2014973,timely alarm,103221,B07ZPMCW64,us,E,1,1,train,validation
+2014974,timely alarm,103221,B081CHLF46,us,E,1,1,train,validation
+2014975,timely alarm,103221,B081D8F33X,us,I,1,1,train,validation
+2014976,timely alarm,103221,B08CZFJDVY,us,E,1,1,train,validation
+2014977,timely alarm,103221,B0887SMPKK,us,I,1,1,train,validation
+2014978,timely alarm,103221,B08B1GLM1L,us,E,1,1,train,validation
+2014979,timely alarm,103221,B08LKXCL65,us,E,1,1,train,validation
+2014980,timely alarm,103221,B08TT47Y99,us,E,1,1,train,validation
+2014981,timely alarm,103221,B08YQT31CW,us,I,1,1,train,validation
+2014982,timely alarm,103221,B092DFJ6NC,us,S,1,1,train,validation
+2014983,timely alarm,103221,B098TYKD69,us,S,1,1,train,validation
+2014984,timely alarm,103221,B07PGXQYC9,us,I,1,1,train,validation
+2014985,timely alarm,103221,B084X9D9HY,us,I,1,1,train,validation
+2014986,timely alarm,103221,B07HMX118W,us,I,1,1,train,validation
+2014987,timely alarm,103221,B07H153VVS,us,I,1,1,train,validation
+2014988,timely alarm,103221,B0001654K4,us,E,1,1,train,validation
+2014989,timely alarm,103221,B07F1TQRYK,us,I,1,1,train,validation
+2014990,timely alarm,103221,B000KNJQRK,us,I,1,1,train,validation
+2014991,timely alarm,103221,B000KNLRA4,us,I,1,1,train,validation
+2014992,timely alarm,103221,B00178HMCI,us,E,1,1,train,validation
+2014993,timely alarm,103221,B00E3DNHLO,us,I,1,1,train,validation
+2014994,timely alarm,103221,B00FGPM1SS,us,E,1,1,train,validation
+2014995,timely alarm,103221,B00U0K3Q10,us,E,1,1,train,validation
+2014996,timely alarm,103221,B00ZQG30AK,us,E,1,1,train,validation
+2014997,timely alarm,103221,B016WZ5OAW,us,I,1,1,train,validation
+2014998,timely alarm,103221,B00FKL3FYW,us,E,1,1,train,validation
+2014999,timely alarm,103221,B06XQTHDRR,us,I,1,1,train,validation
+2015000,timely alarm,103221,B0727QX9SC,us,I,1,1,train,validation
+2015001,timely alarm,103221,B073RR8LFY,us,I,1,1,train,validation
+2015002,timely alarm,103221,B074F2H9VT,us,E,1,1,train,validation
+2015003,timely alarm,103221,B076FVX6S1,us,E,1,1,train,validation
+2015004,timely alarm,103221,B077SYPD5K,us,I,1,1,train,validation
+2015005,timely alarm,103221,B07C38HT49,us,I,1,1,train,validation
+2015006,timely alarm,103221,B01MV8GC3F,us,S,1,1,train,validation
+2015007,timely alarm,103221,B07DM2YMT4,us,E,1,1,train,validation
+2018803,tires 6in,103394,B07WFLNF1K,us,I,1,1,train,validation
+2018804,tires 6in,103394,B07WFKFP2L,us,I,1,1,train,validation
+2018805,tires 6in,103394,B07SWB3WXQ,us,I,1,1,train,validation
+2018806,tires 6in,103394,B07NX3HG1F,us,I,1,1,train,validation
+2018807,tires 6in,103394,B07M5Z8CCC,us,E,1,1,train,validation
+2018808,tires 6in,103394,B07HMV75L6,us,E,1,1,train,validation
+2018809,tires 6in,103394,B074F4Y6GC,us,E,1,1,train,validation
+2018810,tires 6in,103394,B06WGXZG9R,us,I,1,1,train,validation
+2018811,tires 6in,103394,B011O2IOBO,us,I,1,1,train,validation
+2018812,tires 6in,103394,B00TGUAS02,us,I,1,1,train,validation
+2018813,tires 6in,103394,B005O5Y3QI,us,I,1,1,train,validation
+2018814,tires 6in,103394,B005O5VDHK,us,I,1,1,train,validation
+2018815,tires 6in,103394,B0021BOPZC,us,E,1,1,train,validation
+2018816,tires 6in,103394,B001THCJDE,us,I,1,1,train,validation
+2018817,tires 6in,103394,B0018TWDOI,us,I,1,1,train,validation
+2018818,tires 6in,103394,B01MDSI8PN,us,I,1,1,train,validation
+2041385,toy story alien costume,104549,B07WHDBBYZ,us,E,1,1,train,validation
+2041386,toy story alien costume,104549,B07GPCLDSQ,us,S,1,1,train,validation
+2041387,toy story alien costume,104549,B07TMYZFN3,us,C,1,1,train,validation
+2041388,toy story alien costume,104549,B07TDNJM9T,us,E,1,1,train,validation
+2041389,toy story alien costume,104549,B07SD11KBZ,us,E,1,1,train,validation
+2041390,toy story alien costume,104549,B07RF9M9GW,us,C,1,1,train,validation
+2041391,toy story alien costume,104549,B07PSQ2V8K,us,E,1,1,train,validation
+2041392,toy story alien costume,104549,B07JNFYMLK,us,E,1,1,train,validation
+2041393,toy story alien costume,104549,B07GN1CJ9B,us,E,1,1,train,validation
+2041394,toy story alien costume,104549,B07DT7JPKM,us,I,1,1,train,validation
+2041395,toy story alien costume,104549,B07CT8379B,us,E,1,1,train,validation
+2041396,toy story alien costume,104549,B0762K66WH,us,S,1,1,train,validation
+2041397,toy story alien costume,104549,B0071IKPG8,us,S,1,1,train,validation
+2041398,toy story alien costume,104549,B00411VV9I,us,S,1,1,train,validation
+2041399,toy story alien costume,104549,B003JO2MWS,us,E,1,1,train,validation
+2041400,toy story alien costume,104549,B07F5XD1Z9,us,C,1,1,train,validation
+2061519,tube guy,105601,B07BZVQJDP,us,E,1,1,train,validation
+2061520,tube guy,105601,B07C3D5MBV,us,E,1,1,train,validation
+2061521,tube guy,105601,B07D82R1LP,us,E,1,1,train,validation
+2061522,tube guy,105601,B07D97982L,us,E,1,1,train,validation
+2061523,tube guy,105601,B07J5QC1MV,us,E,1,1,train,validation
+2061524,tube guy,105601,B07QJ3HCB4,us,E,1,1,train,validation
+2061525,tube guy,105601,B07PZKN7Z1,us,E,1,1,train,validation
+2061526,tube guy,105601,B07BNFNPCN,us,E,1,1,train,validation
+2061527,tube guy,105601,B07VF7HSRC,us,E,1,1,train,validation
+2061528,tube guy,105601,B083LSRV8F,us,E,1,1,train,validation
+2061529,tube guy,105601,B07KS1XYPP,us,E,1,1,train,validation
+2061530,tube guy,105601,B0728NCC3R,us,E,1,1,train,validation
+2061531,tube guy,105601,B01N4A1B9L,us,E,1,1,train,validation
+2061532,tube guy,105601,B00THMGD9E,us,E,1,1,train,validation
+2061533,tube guy,105601,0762459301,us,I,1,1,train,validation
+2061534,tube guy,105601,0762459816,us,I,1,1,train,validation
+2061535,tube guy,105601,0762460814,us,I,1,1,train,validation
+2061536,tube guy,105601,0762462876,us,E,1,1,train,validation
+2061537,tube guy,105601,0762463910,us,I,1,1,train,validation
+2061538,tube guy,105601,0762460806,us,I,1,1,train,validation
+2061539,tube guy,105601,0762471360,us,E,1,1,train,validation
+2061540,tube guy,105601,0762495529,us,E,1,1,train,validation
+2061541,tube guy,105601,0762497874,us,E,1,1,train,validation
+2061542,tube guy,105601,B00ASSF6R6,us,E,1,1,train,validation
+2061543,tube guy,105601,0762470372,us,C,1,1,train,validation
+2092056,usb 3.0 type a to micro a,107191,B07WG2TPC8,us,E,1,1,train,validation
+2092057,usb 3.0 type a to micro a,107191,B07VSG93G3,us,I,1,1,train,validation
+2092058,usb 3.0 type a to micro a,107191,B07S1TV83G,us,S,1,1,train,validation
+2092059,usb 3.0 type a to micro a,107191,B07M6PCKRR,us,S,1,1,train,validation
+2092060,usb 3.0 type a to micro a,107191,B07KG4PNC2,us,I,1,1,train,validation
+2092061,usb 3.0 type a to micro a,107191,B076FN2GSQ,us,I,1,1,train,validation
+2092062,usb 3.0 type a to micro a,107191,B074V3GD2S,us,I,1,1,train,validation
+2092063,usb 3.0 type a to micro a,107191,B07KF7JVD3,us,S,1,1,train,validation
+2092064,usb 3.0 type a to micro a,107191,B01GGKYIHS,us,S,1,1,train,validation
+2092065,usb 3.0 type a to micro a,107191,B01C6032G0,us,I,1,1,train,validation
+2092066,usb 3.0 type a to micro a,107191,B012V56992,us,S,1,1,train,validation
+2092067,usb 3.0 type a to micro a,107191,B00T4AX9VY,us,I,1,1,train,validation
+2092068,usb 3.0 type a to micro a,107191,B00P0GI68M,us,I,1,1,train,validation
+2092069,usb 3.0 type a to micro a,107191,B00P0C4MGG,us,E,1,1,train,validation
+2092070,usb 3.0 type a to micro a,107191,B00C7T78H0,us,I,1,1,train,validation
+2092071,usb 3.0 type a to micro a,107191,B01I4ZOIQY,us,S,1,1,train,validation
+2097820,usha village,107500,B07XVRTFS5,us,I,1,1,train,validation
+2097821,usha village,107500,B088N4V5ZQ,us,I,1,1,train,validation
+2097822,usha village,107500,B088KTDMBG,us,I,1,1,train,validation
+2097823,usha village,107500,B086Q9GLZ7,us,I,1,1,train,validation
+2097824,usha village,107500,B0812D2L3T,us,I,1,1,train,validation
+2097825,usha village,107500,B07YNDZ6R4,us,I,1,1,train,validation
+2097826,usha village,107500,B07W6D6F1L,us,I,1,1,train,validation
+2097827,usha village,107500,B07W6FDFL7,us,I,1,1,train,validation
+2097828,usha village,107500,B07MNV49CP,us,E,1,1,train,validation
+2097829,usha village,107500,B07MCB83BV,us,I,1,1,train,validation
+2097830,usha village,107500,B07D318RJT,us,E,1,1,train,validation
+2097831,usha village,107500,B06Y49QCVM,us,E,1,1,train,validation
+2097832,usha village,107500,B01N19TQV3,us,I,1,1,train,validation
+2097833,usha village,107500,B0189SLAIA,us,E,1,1,train,validation
+2097834,usha village,107500,1535431660,us,I,1,1,train,validation
+2097835,usha village,107500,B07QPCGTVQ,us,E,1,1,train,validation
+2141430,waring grill brush,109700,B07KQYWX1T,us,S,1,1,train,validation
+2141431,waring grill brush,109700,B07F731D86,us,S,1,1,train,validation
+2141432,waring grill brush,109700,B075NC2MYB,us,S,1,1,train,validation
+2141433,waring grill brush,109700,B072BCTCYV,us,S,1,1,train,validation
+2141434,waring grill brush,109700,B0728DK4F1,us,I,1,1,train,validation
+2141435,waring grill brush,109700,B00MPC424Q,us,I,1,1,train,validation
+2141436,waring grill brush,109700,B00M8Y9X1S,us,S,1,1,train,validation
+2141437,waring grill brush,109700,B08KYHTX4B,us,E,1,1,train,validation
+2141438,waring grill brush,109700,B00BHQT0BQ,us,E,1,1,train,validation
+2141439,waring grill brush,109700,B00B58A3OO,us,E,1,1,train,validation
+2141440,waring grill brush,109700,B007L4NANC,us,E,1,1,train,validation
+2141441,waring grill brush,109700,B004WSJKZM,us,I,1,1,train,validation
+2141442,waring grill brush,109700,B004WSJKXO,us,I,1,1,train,validation
+2141443,waring grill brush,109700,B003OSJ38A,us,I,1,1,train,validation
+2141444,waring grill brush,109700,B003A5VBYG,us,I,1,1,train,validation
+2141445,waring grill brush,109700,B00IJ3C28I,us,S,1,1,train,validation
+2145366,water case,109910,B07Y5TYNF2,us,S,1,1,train,validation
+2145367,water case,109910,B07V43XKBD,us,E,1,1,train,validation
+2145368,water case,109910,B07NQK969F,us,S,1,1,train,validation
+2145369,water case,109910,B07GBJTM8V,us,I,1,1,train,validation
+2145370,water case,109910,B078VBWKGP,us,E,1,1,train,validation
+2145371,water case,109910,B073WWZ22T,us,E,1,1,train,validation
+2145372,water case,109910,B06VV18HZP,us,E,1,1,train,validation
+2145373,water case,109910,B01MQ3ZO6B,us,E,1,1,train,validation
+2145374,water case,109910,B01KCNJHYO,us,E,1,1,train,validation
+2145375,water case,109910,B014P1GKHG,us,E,1,1,train,validation
+2145376,water case,109910,B00RQPUV0Q,us,S,1,1,train,validation
+2145377,water case,109910,B00NP79AI8,us,S,1,1,train,validation
+2145378,water case,109910,B00FX6NXNC,us,S,1,1,train,validation
+2145379,water case,109910,B00COR1HHW,us,E,1,1,train,validation
+2145380,water case,109910,B005HG9ERW,us,E,1,1,train,validation
+2145381,water case,109910,B00567AQG0,us,E,1,1,train,validation
+2145382,water case,109910,B004CQWWKY,us,S,1,1,train,validation
+2145383,water case,109910,B0013T5YO4,us,E,1,1,train,validation
+2145384,water case,109910,B00SAX0MLQ,us,E,1,1,train,validation
+2171673,white star tights,111329,B07KFRS8KV,us,S,1,1,train,validation
+2171674,white star tights,111329,B07K2WTZNF,us,S,1,1,train,validation
+2171675,white star tights,111329,B07K21K697,us,S,1,1,train,validation
+2171676,white star tights,111329,B07G322DZC,us,S,1,1,train,validation
+2171677,white star tights,111329,B07DC36GZ2,us,S,1,1,train,validation
+2171678,white star tights,111329,B07CL7YBNJ,us,I,1,1,train,validation
+2171679,white star tights,111329,B07C7MKVCS,us,S,1,1,train,validation
+2171680,white star tights,111329,B07QZN915D,us,S,1,1,train,validation
+2171681,white star tights,111329,B079GTQGTL,us,S,1,1,train,validation
+2171682,white star tights,111329,B077HQK2B8,us,S,1,1,train,validation
+2171683,white star tights,111329,B074JZL3MB,us,S,1,1,train,validation
+2171684,white star tights,111329,B01B5BIRNO,us,E,1,1,train,validation
+2171685,white star tights,111329,B00W8KBGEY,us,S,1,1,train,validation
+2171686,white star tights,111329,B001U88UA8,us,S,1,1,train,validation
+2171687,white star tights,111329,B000NQIDTQ,us,S,1,1,train,validation
+2171688,white star tights,111329,B07BGCNXND,us,I,1,1,train,validation
+2183879,winning is not everything,111986,1641524960,us,I,1,1,train,validation
+2183880,winning is not everything,111986,B07KKP62FW,us,I,1,1,train,validation
+2183881,winning is not everything,111986,B004ZUWYOQ,us,E,1,1,train,validation
+2183882,winning is not everything,111986,B003TSEEFM,us,I,1,1,train,validation
+2183883,winning is not everything,111986,7122188515,us,E,1,1,train,validation
+2183884,winning is not everything,111986,4907838247,us,E,1,1,train,validation
+2183885,winning is not everything,111986,142319957X,us,I,1,1,train,validation
+2183886,winning is not everything,111986,0553496719,us,I,1,1,train,validation
+2183887,winning is not everything,111986,1400226562,us,I,1,1,train,validation
+2183888,winning is not everything,111986,099708619X,us,I,1,1,train,validation
+2183889,winning is not everything,111986,0763655996,us,I,1,1,train,validation
+2183890,winning is not everything,111986,0735219109,us,E,1,1,train,validation
+2183891,winning is not everything,111986,1423106865,us,I,1,1,train,validation
+2183892,winning is not everything,111986,0525553363,us,I,1,1,train,validation
+2183893,winning is not everything,111986,0062962434,us,S,1,1,train,validation
+2188571,wireless presenter hdmi,112237,B097H4VZ6W,us,E,1,1,train,validation
+2188572,wireless presenter hdmi,112237,B08N1M6HSD,us,C,1,1,train,validation
+2188573,wireless presenter hdmi,112237,B07VC5RLD9,us,E,1,1,train,validation
+2188574,wireless presenter hdmi,112237,B07V9LH1BN,us,S,1,1,train,validation
+2188575,wireless presenter hdmi,112237,B07QGW33DF,us,I,1,1,train,validation
+2188576,wireless presenter hdmi,112237,B07L9723ZF,us,E,1,1,train,validation
+2188577,wireless presenter hdmi,112237,B07DYJKX2T,us,S,1,1,train,validation
+2188578,wireless presenter hdmi,112237,B07L4LXF2Q,us,I,1,1,train,validation
+2188579,wireless presenter hdmi,112237,B075NRXJHP,us,C,1,1,train,validation
+2188580,wireless presenter hdmi,112237,B074L2H54P,us,C,1,1,train,validation
+2188581,wireless presenter hdmi,112237,B01N3A7MXH,us,I,1,1,train,validation
+2188582,wireless presenter hdmi,112237,B01410YNAM,us,I,1,1,train,validation
+2188583,wireless presenter hdmi,112237,B012FB0VM8,us,E,1,1,train,validation
+2188584,wireless presenter hdmi,112237,B00XVW6UJO,us,E,1,1,train,validation
+2188585,wireless presenter hdmi,112237,B002L3TSLQ,us,S,1,1,train,validation
+2188586,wireless presenter hdmi,112237,B07D7X7X2M,us,S,1,1,train,validation
+2213878,wood vent a hood,113588,B07PHGPMGQ,us,E,1,1,train,validation
+2213879,wood vent a hood,113588,B07P38K8YD,us,S,1,1,train,validation
+2213880,wood vent a hood,113588,B07K7W7RQ8,us,E,1,1,train,validation
+2213881,wood vent a hood,113588,B07JG6B5MK,us,E,1,1,train,validation
+2213882,wood vent a hood,113588,B07FV18H4H,us,S,1,1,train,validation
+2213883,wood vent a hood,113588,B07DMGGSPR,us,I,1,1,train,validation
+2213884,wood vent a hood,113588,B077BPDF8S,us,S,1,1,train,validation
+2213885,wood vent a hood,113588,B084JN8Q2C,us,S,1,1,train,validation
+2213886,wood vent a hood,113588,B01DN00K0S,us,S,1,1,train,validation
+2213887,wood vent a hood,113588,B00VWL40YS,us,S,1,1,train,validation
+2213888,wood vent a hood,113588,B00N59IM7Q,us,E,1,1,train,validation
+2213889,wood vent a hood,113588,B00ACXVDEM,us,E,1,1,train,validation
+2213890,wood vent a hood,113588,B0040TOF8U,us,E,1,1,train,validation
+2213891,wood vent a hood,113588,B001ASD77O,us,S,1,1,train,validation
+2213892,wood vent a hood,113588,B000R9CFL6,us,C,1,1,train,validation
+2213893,wood vent a hood,113588,B01G0X7FVC,us,E,1,1,train,validation
+2237921,yellow bathroom accessories d3t,114820,B07ZS2R7L3,us,E,1,1,train,validation
+2237922,yellow bathroom accessories d3t,114820,B07R77WN2C,us,E,1,1,train,validation
+2237923,yellow bathroom accessories d3t,114820,B07KWMPFJ3,us,E,1,1,train,validation
+2237924,yellow bathroom accessories d3t,114820,B07H28S9K2,us,I,1,1,train,validation
+2237925,yellow bathroom accessories d3t,114820,B07CWMN9KP,us,I,1,1,train,validation
+2237926,yellow bathroom accessories d3t,114820,B073Z93RZS,us,S,1,1,train,validation
+2237927,yellow bathroom accessories d3t,114820,B06XQJFPR1,us,E,1,1,train,validation
+2237928,yellow bathroom accessories d3t,114820,B01MXLNOA8,us,E,1,1,train,validation
+2237929,yellow bathroom accessories d3t,114820,B00SC94N4K,us,I,1,1,train,validation
+2237930,yellow bathroom accessories d3t,114820,B00PBKDUTW,us,I,1,1,train,validation
+2237931,yellow bathroom accessories d3t,114820,B00MBEKAFI,us,I,1,1,train,validation
+2237932,yellow bathroom accessories d3t,114820,B00GBPEO0A,us,E,1,1,train,validation
+2237933,yellow bathroom accessories d3t,114820,B072LTDZZP,us,E,1,1,train,validation

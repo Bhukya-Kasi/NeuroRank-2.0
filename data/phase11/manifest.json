@@ -1,0 +1,18 @@
+{
+  "seed": 202611,
+  "query_counts": {
+    "test": 100,
+    "train": 400,
+    "validation": 100
+  },
+  "total_judgments": 13238,
+  "catalog_products": 13083,
+  "previous_queries_excluded": true,
+  "label_mapping": {
+    "I": 0,
+    "C": 1,
+    "S": 2,
+    "E": 3
+  },
+  "warning": "Unjudged products are not verified negatives."
+}

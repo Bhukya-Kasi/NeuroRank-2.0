@@ -1,0 +1,37 @@
+{
+  "evaluation": "held_out_end_to_end",
+  "queries_evaluated": 100,
+  "catalog_products": 13083,
+  "candidate_depth_per_retriever": 100,
+  "mean_candidate_pool_recall": 0.7945968316680712,
+  "lambda_selected_queries": 10,
+  "metrics": {
+    "bm25": {
+      "ndcg10": 0.4981,
+      "recall10": 0.3589,
+      "recall100": 0.6432
+    },
+    "semantic": {
+      "ndcg10": 0.5407,
+      "recall10": 0.3965,
+      "recall100": 0.7538
+    },
+    "rrf": {
+      "ndcg10": 0.5445,
+      "recall10": 0.4018,
+      "recall100": 0.7682
+    },
+    "lambdamart": {
+      "ndcg10": 0.5008,
+      "recall10": 0.3692,
+      "recall100": 0.7536
+    },
+    "adaptive": {
+      "ndcg10": 0.5325,
+      "recall10": 0.3885,
+      "recall100": 0.7549
+    }
+  },
+  "judgment_policy": "Unjudged returned products assigned zero gain for end-to-end evaluation.",
+  "selection_policy": "Frozen Phase 11B ranker and Phase 11C gate; no test-based tuning."
+}

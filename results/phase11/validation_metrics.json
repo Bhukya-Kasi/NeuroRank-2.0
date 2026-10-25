@@ -1,0 +1,11 @@
+{
+  "bm25": 0.7576,
+  "semantic": 0.7795,
+  "lambdamart": 0.7708,
+  "train_queries": 389,
+  "validation_queries": 97,
+  "scope": "judged_retrieved_candidates_only",
+  "candidate_pool": "BM25 top100 union MiniLM top100",
+  "test_split_used": false,
+  "warning": "Judged-subset NDCG is not end-to-end NDCG."
+}

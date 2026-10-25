@@ -1,35 +1,34 @@
-
-# Python
+# Python environment
 .venv/
 venv/
 __pycache__/
 *.pyc
 .pytest_cache/
 
-# Local datasets
+# Datasets
 data/raw/
 data/*.csv
-data/*.parquet
+data/phase11/
+*.parquet
 
-# Generated model artifacts
+# Trained models and embeddings
 artifacts/
+*.npy
+*.faiss
 *.joblib
 *.pkl
-*.faiss
-*.npy
 
-# Experiment outputs
-results/*.csv
-
-# Private settings
+# Private files
 .env
 .env.*
 !.env.example
 
-# System files
+# Experimental CSV files
+results/*.csv
+results/phase11/*.csv
+
+# System and editor files
 .DS_Store
 Thumbs.db
-
-# IDE
 .vscode/
 .idea/

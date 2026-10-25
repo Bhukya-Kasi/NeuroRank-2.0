@@ -1,0 +1,6 @@
+experiment,ndcg10,feature_count,removed_features,delta_vs_full
+full_model,0.7708,8,none,0.0
+without_lexical,0.7768,6,"bm25, bm25_rank",0.006
+without_semantic,0.7652,6,"semantic, semantic_rank",-0.0056
+without_text_matching,0.7693,6,"title_overlap, exact_phrase",-0.0015
+without_length,0.7781,6,"title_length, query_length",0.0073

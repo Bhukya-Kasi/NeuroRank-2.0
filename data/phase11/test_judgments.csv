@@ -1,0 +1,2110 @@
+example_id,query,query_id,product_id,product_locale,label,small_version,large_version,split,research_split
+1583,#i am not chinese,50,B07RV7JV7Z,us,I,1,1,train,test
+1584,#i am not chinese,50,B0778TLRZV,us,I,1,1,train,test
+1585,#i am not chinese,50,B07BYZ47RF,us,I,1,1,train,test
+1586,#i am not chinese,50,B07CSPS3MT,us,E,1,1,train,test
+1587,#i am not chinese,50,B07G5HXWV3,us,I,1,1,train,test
+1588,#i am not chinese,50,B07GL4MHBK,us,I,1,1,train,test
+1589,#i am not chinese,50,B07KXHVGWJ,us,I,1,1,train,test
+1590,#i am not chinese,50,B07RW8S38X,us,I,1,1,train,test
+1591,#i am not chinese,50,B088CSRN9W,us,I,1,1,train,test
+1592,#i am not chinese,50,B07SGBZXQX,us,I,1,1,train,test
+1593,#i am not chinese,50,B07YMKK4Q5,us,I,1,1,train,test
+1594,#i am not chinese,50,B082YKSNC2,us,I,1,1,train,test
+1595,#i am not chinese,50,B086KMYNSS,us,I,1,1,train,test
+1596,#i am not chinese,50,B089344XZF,us,I,1,1,train,test
+1597,#i am not chinese,50,B08DSTHKQB,us,I,1,1,train,test
+1598,#i am not chinese,50,B08KRL1BL7,us,I,1,1,train,test
+1599,#i am not chinese,50,B076DLLMXD,us,I,1,1,train,test
+1600,#i am not chinese,50,B07S92BMMW,us,I,1,1,train,test
+1601,#i am not chinese,50,B0754N33D4,us,I,1,1,train,test
+1602,#i am not chinese,50,B089CQVGYV,us,E,1,1,train,test
+1603,#i am not chinese,50,B01HFKH0EQ,us,I,1,1,train,test
+1604,#i am not chinese,50,0316322407,us,I,1,1,train,test
+1605,#i am not chinese,50,B073TW7T7K,us,I,1,1,train,test
+1606,#i am not chinese,50,0890871175,us,I,1,1,train,test
+1607,#i am not chinese,50,0937539384,us,I,1,1,train,test
+1608,#i am not chinese,50,0998434981,us,I,1,1,train,test
+1609,#i am not chinese,50,136802131X,us,I,1,1,train,test
+1610,#i am not chinese,50,141694737X,us,I,1,1,train,test
+1611,#i am not chinese,50,164152815X,us,I,1,1,train,test
+1612,#i am not chinese,50,1677880597,us,I,1,1,train,test
+1613,#i am not chinese,50,0316388378,us,I,1,1,train,test
+1614,#i am not chinese,50,1732596344,us,I,1,1,train,test
+1615,#i am not chinese,50,753548672X,us,I,1,1,train,test
+1616,#i am not chinese,50,9387779262,us,I,1,1,train,test
+1617,#i am not chinese,50,B0012YG7PK,us,I,1,1,train,test
+1618,#i am not chinese,50,B007R0L47O,us,I,1,1,train,test
+1619,#i am not chinese,50,B00L2RN6Z6,us,I,1,1,train,test
+1620,#i am not chinese,50,B00SDR9U0S,us,I,1,1,train,test
+1621,#i am not chinese,50,B00Y1NQW2M,us,I,1,1,train,test
+1622,#i am not chinese,50,1724181610,us,I,1,1,train,test
+13068,0.5cc syringe without needle,450,B08QFGYYPH,us,E,1,1,train,test
+13069,0.5cc syringe without needle,450,B08L1KD91R,us,E,1,1,train,test
+13070,0.5cc syringe without needle,450,B08FFR6L7K,us,S,1,1,train,test
+13071,0.5cc syringe without needle,450,B07SFK6Z5J,us,S,1,1,train,test
+13072,0.5cc syringe without needle,450,B07S8YF6KK,us,E,1,1,train,test
+13073,0.5cc syringe without needle,450,B07QM74NWG,us,S,1,1,train,test
+13074,0.5cc syringe without needle,450,B07PY77BHF,us,S,1,1,train,test
+13075,0.5cc syringe without needle,450,B07P26ZY8C,us,E,1,1,train,test
+13076,0.5cc syringe without needle,450,B07P25XH8Z,us,S,1,1,train,test
+13077,0.5cc syringe without needle,450,B07JZ2HMJ7,us,I,1,1,train,test
+13078,0.5cc syringe without needle,450,B07GX4RJF3,us,S,1,1,train,test
+13079,0.5cc syringe without needle,450,B07C71C1LH,us,S,1,1,train,test
+13080,0.5cc syringe without needle,450,B07BQFTHMQ,us,I,1,1,train,test
+13081,0.5cc syringe without needle,450,B07BQDRDC2,us,E,1,1,train,test
+13082,0.5cc syringe without needle,450,B01MQYE9RO,us,E,1,1,train,test
+13083,0.5cc syringe without needle,450,B01LX9TPC8,us,I,1,1,train,test
+24561,1 pound grain scoop,867,B01MQRNWDF,us,I,1,1,train,test
+24562,1 pound grain scoop,867,B07SMRJNHQ,us,I,1,1,train,test
+24563,1 pound grain scoop,867,B07N7D4HWK,us,I,1,1,train,test
+24564,1 pound grain scoop,867,B07D4QW6DZ,us,I,1,1,train,test
+24565,1 pound grain scoop,867,B07D3PWMSY,us,I,1,1,train,test
+24566,1 pound grain scoop,867,B079HY58ZT,us,I,1,1,train,test
+24567,1 pound grain scoop,867,B071ZTFGFT,us,I,1,1,train,test
+24568,1 pound grain scoop,867,B01N7DTD98,us,I,1,1,train,test
+24569,1 pound grain scoop,867,B01HCKQG7G,us,I,1,1,train,test
+24570,1 pound grain scoop,867,B0177EV7E4,us,I,1,1,train,test
+24571,1 pound grain scoop,867,B00UFUYTMK,us,I,1,1,train,test
+24572,1 pound grain scoop,867,B00MPQ5ZOS,us,I,1,1,train,test
+24573,1 pound grain scoop,867,B009L5HXL4,us,E,1,1,train,test
+24574,1 pound grain scoop,867,B00476WCQS,us,I,1,1,train,test
+24575,1 pound grain scoop,867,B00004OCLX,us,I,1,1,train,test
+24576,1 pound grain scoop,867,B01E6RE3A0,us,I,1,1,train,test
+36671,10 subwoofer home audio without built in amp,1308,B07Z58GD12,us,E,1,1,train,test
+36672,10 subwoofer home audio without built in amp,1308,B085G4PPX7,us,E,1,1,train,test
+36673,10 subwoofer home audio without built in amp,1308,B08M16HKV9,us,S,1,1,train,test
+36674,10 subwoofer home audio without built in amp,1308,B0913NCKFW,us,S,1,1,train,test
+36675,10 subwoofer home audio without built in amp,1308,B09132KF1M,us,S,1,1,train,test
+36676,10 subwoofer home audio without built in amp,1308,B07KPB1KL4,us,S,1,1,train,test
+36677,10 subwoofer home audio without built in amp,1308,B08RYJKY94,us,S,1,1,train,test
+36678,10 subwoofer home audio without built in amp,1308,B07G9Y3ZMC,us,I,1,1,train,test
+36679,10 subwoofer home audio without built in amp,1308,B00MJ1YR8Y,us,E,1,1,train,test
+36680,10 subwoofer home audio without built in amp,1308,B0798GJVTR,us,C,1,1,train,test
+36681,10 subwoofer home audio without built in amp,1308,B01NCTOOH6,us,E,1,1,train,test
+36682,10 subwoofer home audio without built in amp,1308,B01MY6O73I,us,E,1,1,train,test
+36683,10 subwoofer home audio without built in amp,1308,B016P9HJIA,us,C,1,1,train,test
+36684,10 subwoofer home audio without built in amp,1308,B00O8YLIY6,us,E,1,1,train,test
+36685,10 subwoofer home audio without built in amp,1308,B0036CGZEE,us,E,1,1,train,test
+36686,10 subwoofer home audio without built in amp,1308,B07DBGFCWY,us,E,1,1,train,test
+44405,10lb resistance band without handles,1594,B0872XGDWJ,us,S,1,1,train,test
+44406,10lb resistance band without handles,1594,B0875R4KHS,us,E,1,1,train,test
+44407,10lb resistance band without handles,1594,B087MC63YH,us,S,1,1,train,test
+44408,10lb resistance band without handles,1594,B087R2Q4HM,us,E,1,1,train,test
+44409,10lb resistance band without handles,1594,B087V4YV6R,us,C,1,1,train,test
+44410,10lb resistance band without handles,1594,B08862FBV6,us,E,1,1,train,test
+44411,10lb resistance band without handles,1594,B088NFJDWM,us,S,1,1,train,test
+44412,10lb resistance band without handles,1594,B088WCYS38,us,I,1,1,train,test
+44413,10lb resistance band without handles,1594,B08971XTVD,us,S,1,1,train,test
+44414,10lb resistance band without handles,1594,B08B3DFVPS,us,S,1,1,train,test
+44415,10lb resistance band without handles,1594,B081L9MDC8,us,E,1,1,train,test
+44416,10lb resistance band without handles,1594,B08J8DZD5S,us,S,1,1,train,test
+44417,10lb resistance band without handles,1594,B08PBM6VT1,us,I,1,1,train,test
+44418,10lb resistance band without handles,1594,B08Q434V6R,us,S,1,1,train,test
+44419,10lb resistance band without handles,1594,B08R6RJRHR,us,S,1,1,train,test
+44420,10lb resistance band without handles,1594,B08Z367MRZ,us,S,1,1,train,test
+44421,10lb resistance band without handles,1594,B0992SSPNP,us,S,1,1,train,test
+44422,10lb resistance band without handles,1594,B0895RSZM8,us,S,1,1,train,test
+44423,10lb resistance band without handles,1594,B07WFB5GSH,us,S,1,1,train,test
+44424,10lb resistance band without handles,1594,B08G859S3V,us,S,1,1,train,test
+44425,10lb resistance band without handles,1594,B07V6JRWX3,us,E,1,1,train,test
+44426,10lb resistance band without handles,1594,7245456313,us,E,1,1,train,test
+44427,10lb resistance band without handles,1594,B000LX4KRA,us,I,1,1,train,test
+44428,10lb resistance band without handles,1594,B003KPQ1RI,us,S,1,1,train,test
+44429,10lb resistance band without handles,1594,B005D7GJQE,us,E,1,1,train,test
+44430,10lb resistance band without handles,1594,B007Q5TRQ0,us,S,1,1,train,test
+44431,10lb resistance band without handles,1594,B0136PR5TO,us,E,1,1,train,test
+44432,10lb resistance band without handles,1594,B01A58FHQ8,us,E,1,1,train,test
+44433,10lb resistance band without handles,1594,B01AVDVHTI,us,E,1,1,train,test
+44434,10lb resistance band without handles,1594,B00P6E9V6E,us,I,1,1,train,test
+44435,10lb resistance band without handles,1594,B074GMV3FP,us,S,1,1,train,test
+44436,10lb resistance band without handles,1594,B01DONM9QW,us,S,1,1,train,test
+44437,10lb resistance band without handles,1594,B07K1823XB,us,E,1,1,train,test
+44438,10lb resistance band without handles,1594,B07HFDNL3F,us,E,1,1,train,test
+44439,10lb resistance band without handles,1594,B07H7QT6BN,us,S,1,1,train,test
+44440,10lb resistance band without handles,1594,B07KFSCD47,us,E,1,1,train,test
+44441,10lb resistance band without handles,1594,B07DR9BT5G,us,E,1,1,train,test
+44442,10lb resistance band without handles,1594,B07DPNNDX4,us,S,1,1,train,test
+44443,10lb resistance band without handles,1594,B07DWSPQQY,us,S,1,1,train,test
+44444,10lb resistance band without handles,1594,B07VK3FF14,us,E,1,1,train,test
+48959,116pc stoneware dinnerware set without cups,1761,B07NGRZMWS,us,E,1,1,train,test
+48960,116pc stoneware dinnerware set without cups,1761,B07KQR6DW1,us,S,1,1,train,test
+48961,116pc stoneware dinnerware set without cups,1761,B07JGF1R1S,us,S,1,1,train,test
+48962,116pc stoneware dinnerware set without cups,1761,B07F7SP7PY,us,S,1,1,train,test
+48963,116pc stoneware dinnerware set without cups,1761,B07FT5J9X8,us,S,1,1,train,test
+48964,116pc stoneware dinnerware set without cups,1761,B07FHDSQGQ,us,S,1,1,train,test
+48965,116pc stoneware dinnerware set without cups,1761,B07PPD3WRL,us,E,1,1,train,test
+48966,116pc stoneware dinnerware set without cups,1761,B07JFFVQ93,us,S,1,1,train,test
+48967,116pc stoneware dinnerware set without cups,1761,B07Q8Z74MQ,us,S,1,1,train,test
+48968,116pc stoneware dinnerware set without cups,1761,B08WLF6PRH,us,S,1,1,train,test
+48969,116pc stoneware dinnerware set without cups,1761,B07R77Q12M,us,S,1,1,train,test
+48970,116pc stoneware dinnerware set without cups,1761,B07XKXQL79,us,E,1,1,train,test
+48971,116pc stoneware dinnerware set without cups,1761,B082PTH6J4,us,S,1,1,train,test
+48972,116pc stoneware dinnerware set without cups,1761,B082PTN13P,us,S,1,1,train,test
+48973,116pc stoneware dinnerware set without cups,1761,B086M93X34,us,E,1,1,train,test
+48974,116pc stoneware dinnerware set without cups,1761,B08G4N8VTX,us,S,1,1,train,test
+48975,116pc stoneware dinnerware set without cups,1761,B08KFXY52K,us,I,1,1,train,test
+48976,116pc stoneware dinnerware set without cups,1761,B07F2S71G5,us,E,1,1,train,test
+48977,116pc stoneware dinnerware set without cups,1761,B07QCD5QX2,us,S,1,1,train,test
+48978,116pc stoneware dinnerware set without cups,1761,B07DPNYBS5,us,S,1,1,train,test
+48979,116pc stoneware dinnerware set without cups,1761,B00QH06Q3C,us,I,1,1,train,test
+48980,116pc stoneware dinnerware set without cups,1761,B0794V1CB8,us,S,1,1,train,test
+48981,116pc stoneware dinnerware set without cups,1761,B00CM9JMCY,us,S,1,1,train,test
+48982,116pc stoneware dinnerware set without cups,1761,B00GMC8V42,us,S,1,1,train,test
+48983,116pc stoneware dinnerware set without cups,1761,B079KHYNZ8,us,S,1,1,train,test
+48984,116pc stoneware dinnerware set without cups,1761,B00R790CLY,us,E,1,1,train,test
+48985,116pc stoneware dinnerware set without cups,1761,B0119IOLQU,us,S,1,1,train,test
+48986,116pc stoneware dinnerware set without cups,1761,B018AD45CM,us,S,1,1,train,test
+48987,116pc stoneware dinnerware set without cups,1761,B0198HHT0Y,us,E,1,1,train,test
+48988,116pc stoneware dinnerware set without cups,1761,B019EEUQ2O,us,S,1,1,train,test
+48989,116pc stoneware dinnerware set without cups,1761,B001OCBVZ6,us,S,1,1,train,test
+48990,116pc stoneware dinnerware set without cups,1761,B01M3YICP2,us,E,1,1,train,test
+48991,116pc stoneware dinnerware set without cups,1761,B01M7Y6N2L,us,S,1,1,train,test
+48992,116pc stoneware dinnerware set without cups,1761,B01N6Q1A0Y,us,E,1,1,train,test
+48993,116pc stoneware dinnerware set without cups,1761,B071JY6FC4,us,S,1,1,train,test
+48994,116pc stoneware dinnerware set without cups,1761,B075RJ1YLF,us,S,1,1,train,test
+48995,116pc stoneware dinnerware set without cups,1761,B075ZX9G4H,us,E,1,1,train,test
+48996,116pc stoneware dinnerware set without cups,1761,B0765851FN,us,E,1,1,train,test
+48997,116pc stoneware dinnerware set without cups,1761,B078MTNHQ9,us,E,1,1,train,test
+48998,116pc stoneware dinnerware set without cups,1761,B01CUDHRP0,us,S,1,1,train,test
+60185,16gb ram for macbook pro,2263,B091V55WNY,us,I,1,1,train,test
+60186,16gb ram for macbook pro,2263,B08T4R9D7M,us,I,1,1,train,test
+60187,16gb ram for macbook pro,2263,B08QMB94YW,us,I,1,1,train,test
+60188,16gb ram for macbook pro,2263,B08HY5QNTJ,us,E,1,1,train,test
+60189,16gb ram for macbook pro,2263,B08HKQJ5D3,us,I,1,1,train,test
+60190,16gb ram for macbook pro,2263,B08HJ23D97,us,I,1,1,train,test
+60191,16gb ram for macbook pro,2263,B08HHNXW8Y,us,E,1,1,train,test
+60192,16gb ram for macbook pro,2263,B08R137N2S,us,E,1,1,train,test
+60193,16gb ram for macbook pro,2263,B082P8N4KJ,us,I,1,1,train,test
+60194,16gb ram for macbook pro,2263,B07ZFZ33SK,us,I,1,1,train,test
+60195,16gb ram for macbook pro,2263,B07YVLKF7T,us,I,1,1,train,test
+60196,16gb ram for macbook pro,2263,B07J2Q4N2G,us,I,1,1,train,test
+60197,16gb ram for macbook pro,2263,B07B8YBX7V,us,I,1,1,train,test
+60198,16gb ram for macbook pro,2263,B00SNSKH7M,us,E,1,1,train,test
+60199,16gb ram for macbook pro,2263,B00L3QE8G2,us,E,1,1,train,test
+60200,16gb ram for macbook pro,2263,B0881Z844Y,us,I,1,1,train,test
+113538,50 inch monitor,4630,B08613DZ9D,us,I,1,1,train,test
+113539,50 inch monitor,4630,B07S7YLRJR,us,E,1,1,train,test
+113540,50 inch monitor,4630,B07PZR2YY4,us,S,1,1,train,test
+113541,50 inch monitor,4630,B07NC9SPBF,us,E,1,1,train,test
+113542,50 inch monitor,4630,B07JK98NNQ,us,E,1,1,train,test
+113543,50 inch monitor,4630,B07HLC2JTY,us,E,1,1,train,test
+113544,50 inch monitor,4630,B07GV6F19F,us,C,1,1,train,test
+113545,50 inch monitor,4630,B07GFRP5HT,us,C,1,1,train,test
+113546,50 inch monitor,4630,B07FP7V42X,us,E,1,1,train,test
+113547,50 inch monitor,4630,B07CS4KF7J,us,S,1,1,train,test
+113548,50 inch monitor,4630,B076DJ9NZ8,us,C,1,1,train,test
+113549,50 inch monitor,4630,B074TB5MG5,us,C,1,1,train,test
+113550,50 inch monitor,4630,B072JBMNDC,us,S,1,1,train,test
+113551,50 inch monitor,4630,B01E18XRY2,us,S,1,1,train,test
+113552,50 inch monitor,4630,B007FH7GAS,us,S,1,1,train,test
+113553,50 inch monitor,4630,B07D1ZS95R,us,E,1,1,train,test
+136204,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07VTH625H,us,I,1,1,train,test
+136205,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07Z44BDJJ,us,I,1,1,train,test
+136206,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B081LYFFP3,us,S,1,1,train,test
+136207,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B08LQ6P9NT,us,I,1,1,train,test
+136208,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B097P2QKW8,us,I,1,1,train,test
+136209,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B08SHRRMNZ,us,C,1,1,train,test
+136210,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07S2Z9433,us,I,1,1,train,test
+136211,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B099J24HLC,us,I,1,1,train,test
+136212,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B08NDYFYHQ,us,E,1,1,train,test
+136213,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07Q7QNP3S,us,S,1,1,train,test
+136214,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07JD9L9Z7,us,I,1,1,train,test
+136215,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07HCPBCYG,us,S,1,1,train,test
+136216,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07CVLLC8F,us,I,1,1,train,test
+136217,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B077SFVB33,us,I,1,1,train,test
+136218,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B07734YMGQ,us,I,1,1,train,test
+136219,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B075X2JJNT,us,I,1,1,train,test
+136220,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B015G0EWLG,us,I,1,1,train,test
+136221,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B00QSNAAIK,us,I,1,1,train,test
+136222,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B00NMFTWD6,us,I,1,1,train,test
+136223,I would replace it with a soft gray wool sweater. The sweater should be warm but functional in all weather. The jacket should also be fashionable. ,5719,B00NMFHWLK,us,I,1,1,train,test
+139020,a life without water kindle,5843,B087ZXSPGJ,us,S,1,1,train,test
+139021,a life without water kindle,5843,B09JF7P6XZ,us,I,1,1,train,test
+139022,a life without water kindle,5843,B08PZ3J3RX,us,E,1,1,train,test
+139023,a life without water kindle,5843,B08M45T2VP,us,S,1,1,train,test
+139024,a life without water kindle,5843,B08LDY1MKW,us,I,1,1,train,test
+139025,a life without water kindle,5843,B08F9XYGD1,us,S,1,1,train,test
+139026,a life without water kindle,5843,B08CB3ZSJS,us,S,1,1,train,test
+139027,a life without water kindle,5843,B086VS9C8D,us,E,1,1,train,test
+139028,a life without water kindle,5843,B004XFYN74,us,I,1,1,train,test
+139029,a life without water kindle,5843,B07YJ6SYXK,us,S,1,1,train,test
+139030,a life without water kindle,5843,B07T4HMNWG,us,E,1,1,train,test
+139031,a life without water kindle,5843,B0719WQT7H,us,S,1,1,train,test
+139032,a life without water kindle,5843,B01HMXV0UQ,us,I,1,1,train,test
+139033,a life without water kindle,5843,B01CXE9M5E,us,I,1,1,train,test
+139034,a life without water kindle,5843,B00TCI5312,us,S,1,1,train,test
+139035,a life without water kindle,5843,B085B7GHPY,us,S,1,1,train,test
+165719,aiiko band,7223,B00CBVJ8HM,us,S,1,1,train,test
+165720,aiiko band,7223,B00TTZH8IO,us,E,1,1,train,test
+165721,aiiko band,7223,B00I1KW2FW,us,I,1,1,train,test
+165722,aiiko band,7223,B01N5M2MYO,us,S,1,1,train,test
+165723,aiiko band,7223,B00I1KSQ6Q,us,I,1,1,train,test
+165724,aiiko band,7223,B00GMBZ8SU,us,E,1,1,train,test
+165725,aiiko band,7223,B00DRHQN8Q,us,S,1,1,train,test
+165726,aiiko band,7223,B006CHML4I,us,E,1,1,train,test
+165727,aiiko band,7223,B001M9KYRM,us,E,1,1,train,test
+165728,aiiko band,7223,B004OJK2F6,us,I,1,1,train,test
+165729,aiiko band,7223,B001PMER2O,us,S,1,1,train,test
+165730,aiiko band,7223,B001P7OM1A,us,S,1,1,train,test
+165731,aiiko band,7223,B001M9MS7Q,us,E,1,1,train,test
+165732,aiiko band,7223,B000P6AUGI,us,S,1,1,train,test
+165733,aiiko band,7223,B0007L44EA,us,S,1,1,train,test
+165734,aiiko band,7223,B0068ETYAY,us,E,1,1,train,test
+200812,andy johnson missions,9077,B086WC31GP,us,I,1,1,train,test
+200813,andy johnson missions,9077,B0846VLY66,us,E,1,1,train,test
+200814,andy johnson missions,9077,B07XSLSWBJ,us,E,1,1,train,test
+200815,andy johnson missions,9077,B07377ZVCL,us,S,1,1,train,test
+200816,andy johnson missions,9077,B01M7MDBRK,us,E,1,1,train,test
+200817,andy johnson missions,9077,B0000CERI0,us,I,1,1,train,test
+200818,andy johnson missions,9077,1951474171,us,E,1,1,train,test
+200819,andy johnson missions,9077,B00LLI5LM2,us,I,1,1,train,test
+200820,andy johnson missions,9077,1536898600,us,E,1,1,train,test
+200821,andy johnson missions,9077,1498221610,us,E,1,1,train,test
+200822,andy johnson missions,9077,1433555700,us,E,1,1,train,test
+200823,andy johnson missions,9077,0802876374,us,I,1,1,train,test
+200824,andy johnson missions,9077,0802825524,us,S,1,1,train,test
+200825,andy johnson missions,9077,0800794389,us,S,1,1,train,test
+200826,andy johnson missions,9077,1950396576,us,E,1,1,train,test
+200827,andy johnson missions,9077,1986065715,us,E,1,1,train,test
+254190,baby blues hair vitamins,11773,B085S8DGWT,us,S,1,1,train,test
+254191,baby blues hair vitamins,11773,B085KG3BZ7,us,S,1,1,train,test
+254192,baby blues hair vitamins,11773,B084KNDK4Z,us,I,1,1,train,test
+254193,baby blues hair vitamins,11773,B07SK8X1ZQ,us,I,1,1,train,test
+254194,baby blues hair vitamins,11773,B07WMX9N2D,us,S,1,1,train,test
+254195,baby blues hair vitamins,11773,B07SKLCLW7,us,S,1,1,train,test
+254196,baby blues hair vitamins,11773,B08CNKCQ9X,us,S,1,1,train,test
+254197,baby blues hair vitamins,11773,B0849NJTTR,us,S,1,1,train,test
+254198,baby blues hair vitamins,11773,B08LQZNF8H,us,S,1,1,train,test
+254199,baby blues hair vitamins,11773,B07QZ5CTTF,us,S,1,1,train,test
+254200,baby blues hair vitamins,11773,B08S7P465L,us,S,1,1,train,test
+254201,baby blues hair vitamins,11773,B08WJNNT53,us,E,1,1,train,test
+254202,baby blues hair vitamins,11773,B08WLHRPYL,us,S,1,1,train,test
+254203,baby blues hair vitamins,11773,B08X4ZNVQ5,us,I,1,1,train,test
+254204,baby blues hair vitamins,11773,B08Y5PY847,us,S,1,1,train,test
+254205,baby blues hair vitamins,11773,B08Z6HTM12,us,I,1,1,train,test
+254206,baby blues hair vitamins,11773,B0948BT4X7,us,S,1,1,train,test
+254207,baby blues hair vitamins,11773,B0984X73CJ,us,C,1,1,train,test
+254208,baby blues hair vitamins,11773,B08QJQ6CD6,us,S,1,1,train,test
+254209,baby blues hair vitamins,11773,B07NQPBXLH,us,S,1,1,train,test
+254210,baby blues hair vitamins,11773,B019ZZB3O2,us,S,1,1,train,test
+254211,baby blues hair vitamins,11773,B07L8KPCFY,us,S,1,1,train,test
+254212,baby blues hair vitamins,11773,B003CT36NE,us,I,1,1,train,test
+254213,baby blues hair vitamins,11773,B004PVR6V6,us,S,1,1,train,test
+254214,baby blues hair vitamins,11773,B004QQ9LVS,us,S,1,1,train,test
+254215,baby blues hair vitamins,11773,B0072F8D7S,us,S,1,1,train,test
+254216,baby blues hair vitamins,11773,B009SZXM4E,us,S,1,1,train,test
+254217,baby blues hair vitamins,11773,B00BFFQMBA,us,S,1,1,train,test
+254218,baby blues hair vitamins,11773,B00IOZWC2M,us,S,1,1,train,test
+254219,baby blues hair vitamins,11773,B00NLR1PX0,us,S,1,1,train,test
+254220,baby blues hair vitamins,11773,B00VFYYAC4,us,I,1,1,train,test
+254221,baby blues hair vitamins,11773,B0007A2FNI,us,S,1,1,train,test
+254222,baby blues hair vitamins,11773,B01B1JPXBE,us,I,1,1,train,test
+254223,baby blues hair vitamins,11773,B01CQ3E6HG,us,S,1,1,train,test
+254224,baby blues hair vitamins,11773,B074WZLRKZ,us,E,1,1,train,test
+254225,baby blues hair vitamins,11773,B079YJF9TG,us,I,1,1,train,test
+254226,baby blues hair vitamins,11773,B07B6KC1PQ,us,I,1,1,train,test
+254227,baby blues hair vitamins,11773,B07FB7ZLGY,us,I,1,1,train,test
+254228,baby blues hair vitamins,11773,B07GFCW7KJ,us,S,1,1,train,test
+254229,baby blues hair vitamins,11773,B07H11JBLB,us,S,1,1,train,test
+254230,baby blues hair vitamins,11773,B07MDH92YC,us,E,1,1,train,test
+291756,bathroom drug cabinet,13716,B06WD31BQ5,us,E,1,1,train,test
+291757,bathroom drug cabinet,13716,B07TSJ3NNX,us,E,1,1,train,test
+291758,bathroom drug cabinet,13716,B07P7JCWCW,us,E,1,1,train,test
+291759,bathroom drug cabinet,13716,B07NVVD765,us,E,1,1,train,test
+291760,bathroom drug cabinet,13716,B07NVT72P9,us,E,1,1,train,test
+291761,bathroom drug cabinet,13716,B07DF55HSD,us,E,1,1,train,test
+291762,bathroom drug cabinet,13716,B06WLK9TBT,us,E,1,1,train,test
+291763,bathroom drug cabinet,13716,B01N6LJHCD,us,S,1,1,train,test
+291764,bathroom drug cabinet,13716,B00C97JY2M,us,E,1,1,train,test
+291765,bathroom drug cabinet,13716,B009Q0MEYK,us,S,1,1,train,test
+291766,bathroom drug cabinet,13716,B005Q0EALE,us,E,1,1,train,test
+291767,bathroom drug cabinet,13716,B00569DG5Q,us,E,1,1,train,test
+291768,bathroom drug cabinet,13716,B001UTPW2Q,us,S,1,1,train,test
+291769,bathroom drug cabinet,13716,B0018SGX6I,us,I,1,1,train,test
+291770,bathroom drug cabinet,13716,B000Q5ZOCS,us,E,1,1,train,test
+291771,bathroom drug cabinet,13716,B00R3FTN1M,us,I,1,1,train,test
+299179,bcn3d,14099,B08GSJZG3Q,us,E,1,1,train,test
+299180,bcn3d,14099,B09DTD1LY1,us,E,1,1,train,test
+299181,bcn3d,14099,B08PKG2Q2W,us,S,1,1,train,test
+299182,bcn3d,14099,B08NB3BXT4,us,S,1,1,train,test
+299183,bcn3d,14099,B08L9JM11J,us,S,1,1,train,test
+299184,bcn3d,14099,B08JPFK2JB,us,S,1,1,train,test
+299185,bcn3d,14099,B08JGH83VS,us,I,1,1,train,test
+299186,bcn3d,14099,B08GJ44T6Q,us,S,1,1,train,test
+299187,bcn3d,14099,B07JBXVCWG,us,E,1,1,train,test
+299188,bcn3d,14099,B085B9M7QJ,us,E,1,1,train,test
+299189,bcn3d,14099,B085B96RHQ,us,E,1,1,train,test
+299190,bcn3d,14099,B07TYRGWSQ,us,S,1,1,train,test
+299191,bcn3d,14099,B07GJQHZ3P,us,C,1,1,train,test
+299192,bcn3d,14099,B07D9KPL94,us,S,1,1,train,test
+299193,bcn3d,14099,B01LZSUQKL,us,I,1,1,train,test
+299194,bcn3d,14099,B08CY3TD2Z,us,I,1,1,train,test
+323289,bibble,15358,B085ZGMZ2J,us,I,1,1,train,test
+323290,bibble,15358,B07Z2896JN,us,E,1,1,train,test
+323291,bibble,15358,B07Y2MX7PS,us,I,1,1,train,test
+323292,bibble,15358,B07X5N3DHC,us,E,1,1,train,test
+323293,bibble,15358,B07GTTCJ5M,us,I,1,1,train,test
+323294,bibble,15358,B0743KXQJ5,us,I,1,1,train,test
+323295,bibble,15358,B072HJ6FXP,us,I,1,1,train,test
+323296,bibble,15358,B01N7YJNP8,us,I,1,1,train,test
+323297,bibble,15358,B00D2H6LOW,us,I,1,1,train,test
+323298,bibble,15358,B00U2ELI6Y,us,I,1,1,train,test
+323299,bibble,15358,B00BD41H1S,us,I,1,1,train,test
+323300,bibble,15358,B004MC8CA2,us,E,1,1,train,test
+323301,bibble,15358,B004KPX6V6,us,I,1,1,train,test
+323302,bibble,15358,1885217951,us,E,1,1,train,test
+323303,bibble,15358,1432105493,us,E,1,1,train,test
+323304,bibble,15358,B01LW88ZFL,us,I,1,1,train,test
+349575,black oval toilet tank cover,16700,B07XXNFFTQ,us,S,1,1,train,test
+349576,black oval toilet tank cover,16700,B07SRXNVXV,us,S,1,1,train,test
+349577,black oval toilet tank cover,16700,B07Q2FL82S,us,E,1,1,train,test
+349578,black oval toilet tank cover,16700,B07LF1TMKX,us,E,1,1,train,test
+349579,black oval toilet tank cover,16700,B07CK3WF2J,us,E,1,1,train,test
+349580,black oval toilet tank cover,16700,B07CG9C6GS,us,E,1,1,train,test
+349581,black oval toilet tank cover,16700,B075T5GX3R,us,E,1,1,train,test
+349582,black oval toilet tank cover,16700,B01AMWUO1U,us,I,1,1,train,test
+349583,black oval toilet tank cover,16700,B0119URHVO,us,I,1,1,train,test
+349584,black oval toilet tank cover,16700,B0119UQZOY,us,I,1,1,train,test
+349585,black oval toilet tank cover,16700,B00AIIERAI,us,I,1,1,train,test
+349586,black oval toilet tank cover,16700,B009WVTWN4,us,S,1,1,train,test
+349587,black oval toilet tank cover,16700,B002MYCIOS,us,S,1,1,train,test
+349588,black oval toilet tank cover,16700,B001AHMDAW,us,I,1,1,train,test
+349589,black oval toilet tank cover,16700,B000ZU9QL4,us,I,1,1,train,test
+349590,black oval toilet tank cover,16700,B000TFHN56,us,I,1,1,train,test
+355294,bladeless fan without filter,17011,B08888VZBR,us,E,1,1,train,test
+355295,bladeless fan without filter,17011,B0888R3QDR,us,E,1,1,train,test
+355296,bladeless fan without filter,17011,B088H3DJDX,us,E,1,1,train,test
+355297,bladeless fan without filter,17011,B08CRMGYG8,us,I,1,1,train,test
+355298,bladeless fan without filter,17011,B08P4Z3B5X,us,E,1,1,train,test
+355299,bladeless fan without filter,17011,B08P5NNNL5,us,E,1,1,train,test
+355300,bladeless fan without filter,17011,B08PDDSDHY,us,E,1,1,train,test
+355301,bladeless fan without filter,17011,B08R697SHF,us,E,1,1,train,test
+355302,bladeless fan without filter,17011,B08T1YQTNZ,us,E,1,1,train,test
+355303,bladeless fan without filter,17011,B087LTQJF8,us,E,1,1,train,test
+355304,bladeless fan without filter,17011,B0925RSCSW,us,E,1,1,train,test
+355305,bladeless fan without filter,17011,B0928JNZYD,us,E,1,1,train,test
+355306,bladeless fan without filter,17011,B092CQRYK3,us,C,1,1,train,test
+355307,bladeless fan without filter,17011,B092DT57Y1,us,E,1,1,train,test
+355308,bladeless fan without filter,17011,B097R8HG7S,us,E,1,1,train,test
+355309,bladeless fan without filter,17011,B09B54FZ49,us,E,1,1,train,test
+355310,bladeless fan without filter,17011,B08T9RHCFQ,us,E,1,1,train,test
+355311,bladeless fan without filter,17011,B091FB11FH,us,E,1,1,train,test
+355312,bladeless fan without filter,17011,B087D65HVK,us,E,1,1,train,test
+355313,bladeless fan without filter,17011,B082WZHMND,us,E,1,1,train,test
+355314,bladeless fan without filter,17011,B000E5WAUO,us,E,1,1,train,test
+355315,bladeless fan without filter,17011,B000RL1WNQ,us,E,1,1,train,test
+355316,bladeless fan without filter,17011,B000RL3UJA,us,E,1,1,train,test
+355317,bladeless fan without filter,17011,B000RMJANY,us,S,1,1,train,test
+355318,bladeless fan without filter,17011,B082WZYFJV,us,E,1,1,train,test
+355319,bladeless fan without filter,17011,B007XWNT74,us,E,1,1,train,test
+355320,bladeless fan without filter,17011,B01N2P6V5P,us,E,1,1,train,test
+355321,bladeless fan without filter,17011,B072PS3FR1,us,E,1,1,train,test
+355322,bladeless fan without filter,17011,B002M0HU04,us,E,1,1,train,test
+355323,bladeless fan without filter,17011,B0792KWMF5,us,E,1,1,train,test
+355324,bladeless fan without filter,17011,B07GBV8KCB,us,C,1,1,train,test
+355325,bladeless fan without filter,17011,B07M5N3KFQ,us,E,1,1,train,test
+355326,bladeless fan without filter,17011,B07MHV47LR,us,E,1,1,train,test
+355327,bladeless fan without filter,17011,B07QHG97RZ,us,E,1,1,train,test
+355328,bladeless fan without filter,17011,B07RGMW8MX,us,E,1,1,train,test
+355329,bladeless fan without filter,17011,B07RKNRS8Q,us,E,1,1,train,test
+355330,bladeless fan without filter,17011,B07WNYB65S,us,E,1,1,train,test
+355331,bladeless fan without filter,17011,B075SRW48D,us,I,1,1,train,test
+369454,bmx bike green and blue,17736,B079KMW6CX,us,I,1,1,train,test
+369455,bmx bike green and blue,17736,B07WLJR515,us,E,1,1,train,test
+369456,bmx bike green and blue,17736,B07PM44CDJ,us,I,1,1,train,test
+369457,bmx bike green and blue,17736,B07PFXVBJH,us,E,1,1,train,test
+369458,bmx bike green and blue,17736,B07G5TMDLJ,us,I,1,1,train,test
+369459,bmx bike green and blue,17736,B07D1P1ZBW,us,E,1,1,train,test
+369460,bmx bike green and blue,17736,B07CD49B9Y,us,S,1,1,train,test
+369461,bmx bike green and blue,17736,B073Z6K4ZP,us,I,1,1,train,test
+369462,bmx bike green and blue,17736,B00BD45NIQ,us,E,1,1,train,test
+369463,bmx bike green and blue,17736,B01EHD8X7M,us,E,1,1,train,test
+369464,bmx bike green and blue,17736,B01EFTWS74,us,E,1,1,train,test
+369465,bmx bike green and blue,17736,B00PL9LBTO,us,E,1,1,train,test
+369466,bmx bike green and blue,17736,B00O58F422,us,E,1,1,train,test
+369467,bmx bike green and blue,17736,B00KNL5AFG,us,E,1,1,train,test
+369468,bmx bike green and blue,17736,B00ABQU1G6,us,I,1,1,train,test
+369469,bmx bike green and blue,17736,B073PXJ5NT,us,I,1,1,train,test
+380151,bone headband,18261,B07T6FNLQV,us,I,1,1,train,test
+380152,bone headband,18261,B07Q72HWWT,us,E,1,1,train,test
+380153,bone headband,18261,B07Q3JGRL2,us,I,1,1,train,test
+380154,bone headband,18261,B07DMDD776,us,I,1,1,train,test
+380155,bone headband,18261,B074BCHCBB,us,I,1,1,train,test
+380156,bone headband,18261,B071XF43B8,us,S,1,1,train,test
+380157,bone headband,18261,B06X9X4GM3,us,E,1,1,train,test
+380158,bone headband,18261,B07WCBHMC3,us,I,1,1,train,test
+380159,bone headband,18261,B00Q5A2L2Y,us,I,1,1,train,test
+380160,bone headband,18261,B00OM0SLFU,us,I,1,1,train,test
+380161,bone headband,18261,B00EALEY4I,us,S,1,1,train,test
+380162,bone headband,18261,B00CLRHAYO,us,I,1,1,train,test
+380163,bone headband,18261,B005OQMI1Y,us,E,1,1,train,test
+380164,bone headband,18261,B000VOESE4,us,I,1,1,train,test
+380165,bone headband,18261,B000NK78NO,us,I,1,1,train,test
+380166,bone headband,18261,B01E72IJPO,us,I,1,1,train,test
+408535,breville hand mixer,19712,B082SKDF96,us,S,1,1,train,test
+408536,breville hand mixer,19712,B07NY8VX89,us,S,1,1,train,test
+408537,breville hand mixer,19712,B07NPWVVSV,us,I,1,1,train,test
+408538,breville hand mixer,19712,B07FMHHRWJ,us,S,1,1,train,test
+408539,breville hand mixer,19712,B077JBQZPX,us,I,1,1,train,test
+408540,breville hand mixer,19712,B01H7R1EJY,us,S,1,1,train,test
+408541,breville hand mixer,19712,B016J1ICDU,us,I,1,1,train,test
+408542,breville hand mixer,19712,B00XBOXUWC,us,E,1,1,train,test
+408543,breville hand mixer,19712,B00CT9Y6J6,us,S,1,1,train,test
+408544,breville hand mixer,19712,B008P8LAK8,us,I,1,1,train,test
+408545,breville hand mixer,19712,B004RCNJ9Q,us,I,1,1,train,test
+408546,breville hand mixer,19712,B004MTAWEO,us,S,1,1,train,test
+408547,breville hand mixer,19712,B003R28HWQ,us,I,1,1,train,test
+408548,breville hand mixer,19712,B003922L12,us,S,1,1,train,test
+408549,breville hand mixer,19712,B001DYERBK,us,I,1,1,train,test
+408550,breville hand mixer,19712,B00C0QJY40,us,S,1,1,train,test
+431364,buzz lightyear pillow,20940,B07PQMC3L9,us,E,1,1,train,test
+431365,buzz lightyear pillow,20940,B07YKMT9ND,us,E,1,1,train,test
+431366,buzz lightyear pillow,20940,B07XLG9QKX,us,I,1,1,train,test
+431367,buzz lightyear pillow,20940,B07WQ5LTYF,us,E,1,1,train,test
+431368,buzz lightyear pillow,20940,B07TVPGB2S,us,E,1,1,train,test
+431369,buzz lightyear pillow,20940,B07RW4FGSJ,us,E,1,1,train,test
+431370,buzz lightyear pillow,20940,B07RCBV6DR,us,E,1,1,train,test
+431371,buzz lightyear pillow,20940,B07PPBHQDK,us,I,1,1,train,test
+431372,buzz lightyear pillow,20940,B005TEOD14,us,E,1,1,train,test
+431373,buzz lightyear pillow,20940,B07GQ61LTW,us,I,1,1,train,test
+431374,buzz lightyear pillow,20940,B07FHRFH9Y,us,I,1,1,train,test
+431375,buzz lightyear pillow,20940,B07FFLMV3Q,us,I,1,1,train,test
+431376,buzz lightyear pillow,20940,B07BLNNPD2,us,I,1,1,train,test
+431377,buzz lightyear pillow,20940,B07BB83QL8,us,I,1,1,train,test
+431378,buzz lightyear pillow,20940,B01I2C059I,us,E,1,1,train,test
+431379,buzz lightyear pillow,20940,B07P98N5VT,us,E,1,1,train,test
+446137,calvin klein tuxedo,21701,B07NJQBYRT,us,S,1,1,train,test
+446138,calvin klein tuxedo,21701,B07CLRXSM3,us,E,1,1,train,test
+446139,calvin klein tuxedo,21701,B076JJBN39,us,E,1,1,train,test
+446140,calvin klein tuxedo,21701,B071945R4V,us,E,1,1,train,test
+446141,calvin klein tuxedo,21701,B01N1UD5I6,us,E,1,1,train,test
+446142,calvin klein tuxedo,21701,B00UUGBC56,us,I,1,1,train,test
+446143,calvin klein tuxedo,21701,B00SZXFWYS,us,E,1,1,train,test
+446144,calvin klein tuxedo,21701,B00RY3RHVQ,us,E,1,1,train,test
+446145,calvin klein tuxedo,21701,B00RSGOH4E,us,E,1,1,train,test
+446146,calvin klein tuxedo,21701,B00M3FFNUM,us,I,1,1,train,test
+446147,calvin klein tuxedo,21701,B00J46MQ1C,us,I,1,1,train,test
+446148,calvin klein tuxedo,21701,B003A1UURO,us,I,1,1,train,test
+446149,calvin klein tuxedo,21701,B001F7V0M4,us,E,1,1,train,test
+446150,calvin klein tuxedo,21701,B0018EGD0S,us,E,1,1,train,test
+446151,calvin klein tuxedo,21701,B000GF4HS0,us,I,1,1,train,test
+446152,calvin klein tuxedo,21701,B00PO21S9Q,us,E,1,1,train,test
+457121,cancer fighting kitchen cookbook rebecca katz,22246,1942411251,us,S,1,1,train,test
+457122,cancer fighting kitchen cookbook rebecca katz,22246,1936303809,us,E,1,1,train,test
+457123,cancer fighting kitchen cookbook rebecca katz,22246,1732327300,us,E,1,1,train,test
+457124,cancer fighting kitchen cookbook rebecca katz,22246,1648764193,us,C,1,1,train,test
+457125,cancer fighting kitchen cookbook rebecca katz,22246,1647392543,us,S,1,1,train,test
+457126,cancer fighting kitchen cookbook rebecca katz,22246,1623159040,us,E,1,1,train,test
+457127,cancer fighting kitchen cookbook rebecca katz,22246,1587613441,us,E,1,1,train,test
+457128,cancer fighting kitchen cookbook rebecca katz,22246,1548008176,us,S,1,1,train,test
+457129,cancer fighting kitchen cookbook rebecca katz,22246,1515252159,us,S,1,1,train,test
+457130,cancer fighting kitchen cookbook rebecca katz,22246,1401956130,us,S,1,1,train,test
+457131,cancer fighting kitchen cookbook rebecca katz,22246,1250066115,us,I,1,1,train,test
+457132,cancer fighting kitchen cookbook rebecca katz,22246,0951951734,us,S,1,1,train,test
+457133,cancer fighting kitchen cookbook rebecca katz,22246,0525611479,us,S,1,1,train,test
+457134,cancer fighting kitchen cookbook rebecca katz,22246,0399578714,us,E,1,1,train,test
+457135,cancer fighting kitchen cookbook rebecca katz,22246,0062268740,us,S,1,1,train,test
+457136,cancer fighting kitchen cookbook rebecca katz,22246,1401961967,us,S,1,1,train,test
+464561,captain toad treasure tracker switch,22645,B088MYGMPJ,us,I,1,1,train,test
+464562,captain toad treasure tracker switch,22645,B083MX7RDR,us,E,1,1,train,test
+464563,captain toad treasure tracker switch,22645,B07NWRMJVG,us,E,1,1,train,test
+464564,captain toad treasure tracker switch,22645,B07HXQ788N,us,E,1,1,train,test
+464565,captain toad treasure tracker switch,22645,B07HKP28TP,us,E,1,1,train,test
+464566,captain toad treasure tracker switch,22645,B07H47FRL3,us,E,1,1,train,test
+464567,captain toad treasure tracker switch,22645,B07CDQDPDX,us,E,1,1,train,test
+464568,captain toad treasure tracker switch,22645,B07C9743CT,us,E,1,1,train,test
+464569,captain toad treasure tracker switch,22645,B078Y4FLCL,us,I,1,1,train,test
+464570,captain toad treasure tracker switch,22645,B078WZJFFC,us,I,1,1,train,test
+464571,captain toad treasure tracker switch,22645,B072JYTJCH,us,I,1,1,train,test
+464572,captain toad treasure tracker switch,22645,B01N5OKGLH,us,I,1,1,train,test
+464573,captain toad treasure tracker switch,22645,B01MY7GHKJ,us,I,1,1,train,test
+464574,captain toad treasure tracker switch,22645,B01MS6MO77,us,I,1,1,train,test
+464575,captain toad treasure tracker switch,22645,B01JT7ZX7Y,us,E,1,1,train,test
+464576,captain toad treasure tracker switch,22645,B078Y3HVK8,us,I,1,1,train,test
+492162,cbs app,24088,B018IOV40E,us,I,1,1,train,test
+492163,cbs app,24088,B07CRTS29P,us,E,1,1,train,test
+492164,cbs app,24088,B0756SWC8J,us,I,1,1,train,test
+492165,cbs app,24088,B01MDKA8EH,us,E,1,1,train,test
+492166,cbs app,24088,B019DCHDZK,us,I,1,1,train,test
+492167,cbs app,24088,B07DWGKBRR,us,I,1,1,train,test
+492168,cbs app,24088,B017250D16,us,E,1,1,train,test
+492169,cbs app,24088,B01LXOU5PM,us,I,1,1,train,test
+492170,cbs app,24088,B00TJ105C4,us,I,1,1,train,test
+492171,cbs app,24088,B00MEQI4T2,us,I,1,1,train,test
+492172,cbs app,24088,B00K5A0TKG,us,I,1,1,train,test
+492173,cbs app,24088,B00EOUGFNS,us,E,1,1,train,test
+492174,cbs app,24088,B00BYJ6BUO,us,I,1,1,train,test
+492175,cbs app,24088,B009P8EMCK,us,I,1,1,train,test
+492176,cbs app,24088,B004SYNIJ4,us,E,1,1,train,test
+492177,cbs app,24088,B00V8X7XTO,us,I,1,1,train,test
+551514,coat,27192,B07C8T335B,us,E,1,1,train,test
+551515,coat,27192,B07F12SZDS,us,E,1,1,train,test
+551516,coat,27192,B07GG53YGF,us,S,1,1,train,test
+551517,coat,27192,B07GRT2M2C,us,E,1,1,train,test
+551518,coat,27192,B07H2BCCYH,us,E,1,1,train,test
+551519,coat,27192,B07J51TZMC,us,E,1,1,train,test
+551520,coat,27192,B07R54B5WX,us,S,1,1,train,test
+551521,coat,27192,B07QZ99YDG,us,I,1,1,train,test
+551522,coat,27192,B07R4C5Q97,us,S,1,1,train,test
+551523,coat,27192,B07RS4T8CW,us,E,1,1,train,test
+551524,coat,27192,B07ZKQ65Z2,us,E,1,1,train,test
+551525,coat,27192,B077XFXGSQ,us,E,1,1,train,test
+551526,coat,27192,B07K6WR3W9,us,S,1,1,train,test
+551527,coat,27192,B076CLQDR4,us,E,1,1,train,test
+551528,coat,27192,B07BNM287Z,us,E,1,1,train,test
+551529,coat,27192,B071X7V9PQ,us,I,1,1,train,test
+551530,coat,27192,B0751WHNWK,us,E,1,1,train,test
+551531,coat,27192,0991433106,us,E,1,1,train,test
+551532,coat,27192,B0076ZVB64,us,E,1,1,train,test
+551533,coat,27192,B00G273UC0,us,I,1,1,train,test
+551534,coat,27192,B00L3EU5DY,us,E,1,1,train,test
+551535,coat,27192,B010TVHJFI,us,S,1,1,train,test
+551536,coat,27192,B00HHOXREI,us,E,1,1,train,test
+551537,coat,27192,B017XSA2CW,us,E,1,1,train,test
+551538,coat,27192,B019IYPMS8,us,E,1,1,train,test
+551539,coat,27192,B01MQGUFUZ,us,E,1,1,train,test
+551540,coat,27192,B01MYXDSKM,us,I,1,1,train,test
+551541,coat,27192,B071932JFX,us,E,1,1,train,test
+551542,coat,27192,B013LAZ8U2,us,I,1,1,train,test
+568521,comfortable walking shoes for women,28069,B07PJVNTGQ,us,I,1,1,train,test
+568522,comfortable walking shoes for women,28069,B07N13GJ8X,us,E,1,1,train,test
+568523,comfortable walking shoes for women,28069,B07M8P6R2F,us,I,1,1,train,test
+568524,comfortable walking shoes for women,28069,B07J3JBVQ1,us,I,1,1,train,test
+568525,comfortable walking shoes for women,28069,B07GXKK6MX,us,S,1,1,train,test
+568526,comfortable walking shoes for women,28069,B077SP79MK,us,I,1,1,train,test
+568527,comfortable walking shoes for women,28069,B071HTNVV7,us,S,1,1,train,test
+568528,comfortable walking shoes for women,28069,B071GB9FC6,us,S,1,1,train,test
+568529,comfortable walking shoes for women,28069,B0716SJCYB,us,E,1,1,train,test
+568530,comfortable walking shoes for women,28069,B0714G61N2,us,S,1,1,train,test
+568531,comfortable walking shoes for women,28069,B01EOQC32S,us,I,1,1,train,test
+568532,comfortable walking shoes for women,28069,B014GN5BNW,us,S,1,1,train,test
+568533,comfortable walking shoes for women,28069,B00YDI60CW,us,S,1,1,train,test
+568534,comfortable walking shoes for women,28069,B00E4FHERY,us,I,1,1,train,test
+568535,comfortable walking shoes for women,28069,B005ATNMGA,us,S,1,1,train,test
+568536,comfortable walking shoes for women,28069,B06Y5L9B28,us,E,1,1,train,test
+602516,crafts for 4 year old,29831,B07X3WF49J,us,E,1,1,train,test
+602517,crafts for 4 year old,29831,B083BFVB9R,us,S,1,1,train,test
+602518,crafts for 4 year old,29831,B082983HDV,us,E,1,1,train,test
+602519,crafts for 4 year old,29831,B07X6SMDCF,us,S,1,1,train,test
+602520,crafts for 4 year old,29831,B07FFR185G,us,E,1,1,train,test
+602521,crafts for 4 year old,29831,B00HUBBDIK,us,I,1,1,train,test
+602522,crafts for 4 year old,29831,B01MYSOJYX,us,E,1,1,train,test
+602523,crafts for 4 year old,29831,B01BHMJKAA,us,S,1,1,train,test
+602524,crafts for 4 year old,29831,B012WE5C40,us,I,1,1,train,test
+602525,crafts for 4 year old,29831,B0748DZRQR,us,E,1,1,train,test
+606254,cremo hair clay,30024,B07MYF6JHY,us,I,1,1,train,test
+606255,cremo hair clay,30024,B07MYJPDMQ,us,S,1,1,train,test
+606256,cremo hair clay,30024,B07MYJR69D,us,I,1,1,train,test
+606257,cremo hair clay,30024,B08NMRGSWN,us,I,1,1,train,test
+606258,cremo hair clay,30024,B07S96MGL3,us,I,1,1,train,test
+606259,cremo hair clay,30024,B08C9QFD3Y,us,I,1,1,train,test
+606260,cremo hair clay,30024,B07MNZ7WQF,us,I,1,1,train,test
+606261,cremo hair clay,30024,B07NSR3J3T,us,E,1,1,train,test
+606262,cremo hair clay,30024,B07MKLLWMB,us,S,1,1,train,test
+606263,cremo hair clay,30024,B07FXWFW8R,us,S,1,1,train,test
+606264,cremo hair clay,30024,B07F95TH4T,us,S,1,1,train,test
+606265,cremo hair clay,30024,B07C8XGF63,us,I,1,1,train,test
+606266,cremo hair clay,30024,B07BN1H7GW,us,I,1,1,train,test
+606267,cremo hair clay,30024,B079WBBYKB,us,E,1,1,train,test
+606268,cremo hair clay,30024,B0769WTGXM,us,E,1,1,train,test
+606269,cremo hair clay,30024,B06XNXM7Z2,us,C,1,1,train,test
+606270,cremo hair clay,30024,B01JQXA664,us,I,1,1,train,test
+606271,cremo hair clay,30024,B003FVWRCK,us,I,1,1,train,test
+640765,days of the weeks clips,31787,B07FNG5GYV,us,S,1,1,train,test
+640766,days of the weeks clips,31787,B07QP229Y2,us,I,1,1,train,test
+640767,days of the weeks clips,31787,B086HFPNB1,us,I,1,1,train,test
+640768,days of the weeks clips,31787,B082YBCPTD,us,I,1,1,train,test
+640769,days of the weeks clips,31787,B07DWJ3PY6,us,I,1,1,train,test
+640770,days of the weeks clips,31787,B082WR2GYD,us,E,1,1,train,test
+640771,days of the weeks clips,31787,B078NH65R1,us,E,1,1,train,test
+640772,days of the weeks clips,31787,B07SYYY7K7,us,E,1,1,train,test
+640773,days of the weeks clips,31787,B01HQOHTHE,us,E,1,1,train,test
+640774,days of the weeks clips,31787,B00V5ZITGG,us,E,1,1,train,test
+640775,days of the weeks clips,31787,B00V5ZIT2U,us,S,1,1,train,test
+640776,days of the weeks clips,31787,B00L2A5JRG,us,I,1,1,train,test
+640777,days of the weeks clips,31787,B00B93UJVM,us,E,1,1,train,test
+640778,days of the weeks clips,31787,B004K4GULU,us,E,1,1,train,test
+640779,days of the weeks clips,31787,B004K4CO0G,us,E,1,1,train,test
+640780,days of the weeks clips,31787,B077R5MSV3,us,I,1,1,train,test
+661164,dewalt dwx726 rolling miter saw stand,32835,B01382VOYM,us,S,1,1,train,test
+661165,dewalt dwx726 rolling miter saw stand,32835,B01FV86X2Y,us,S,1,1,train,test
+661166,dewalt dwx726 rolling miter saw stand,32835,B01HBXHI26,us,C,1,1,train,test
+661167,dewalt dwx726 rolling miter saw stand,32835,B01HBXHI44,us,C,1,1,train,test
+661168,dewalt dwx726 rolling miter saw stand,32835,B01LT4MIZU,us,S,1,1,train,test
+661169,dewalt dwx726 rolling miter saw stand,32835,B01MY0O144,us,S,1,1,train,test
+661170,dewalt dwx726 rolling miter saw stand,32835,B074NCFBQK,us,C,1,1,train,test
+661171,dewalt dwx726 rolling miter saw stand,32835,B074NCHGVZ,us,S,1,1,train,test
+661172,dewalt dwx726 rolling miter saw stand,32835,B07P7LX9DF,us,I,1,1,train,test
+661173,dewalt dwx726 rolling miter saw stand,32835,B07K51C5SV,us,S,1,1,train,test
+661174,dewalt dwx726 rolling miter saw stand,32835,B00YEWX4SK,us,E,1,1,train,test
+661175,dewalt dwx726 rolling miter saw stand,32835,B07S9GD5JY,us,I,1,1,train,test
+661176,dewalt dwx726 rolling miter saw stand,32835,B07SHJTPMY,us,I,1,1,train,test
+661177,dewalt dwx726 rolling miter saw stand,32835,B0842QDW95,us,E,1,1,train,test
+661178,dewalt dwx726 rolling miter saw stand,32835,B08526D2PK,us,I,1,1,train,test
+661179,dewalt dwx726 rolling miter saw stand,32835,B08DY3JRTF,us,I,1,1,train,test
+661180,dewalt dwx726 rolling miter saw stand,32835,B08DY4TX9F,us,E,1,1,train,test
+661181,dewalt dwx726 rolling miter saw stand,32835,B07B2MZRTJ,us,S,1,1,train,test
+661182,dewalt dwx726 rolling miter saw stand,32835,B00NJPUYI6,us,E,1,1,train,test
+661183,dewalt dwx726 rolling miter saw stand,32835,B071DZ8CVJ,us,S,1,1,train,test
+661184,dewalt dwx726 rolling miter saw stand,32835,B006TVPAZE,us,I,1,1,train,test
+661185,dewalt dwx726 rolling miter saw stand,32835,B00F2CGXGG,us,S,1,1,train,test
+661186,dewalt dwx726 rolling miter saw stand,32835,B0000302QS,us,I,1,1,train,test
+661187,dewalt dwx726 rolling miter saw stand,32835,B00005RHPY,us,S,1,1,train,test
+661188,dewalt dwx726 rolling miter saw stand,32835,B0007Z6D86,us,E,1,1,train,test
+661189,dewalt dwx726 rolling miter saw stand,32835,B0007Z6D8G,us,C,1,1,train,test
+661190,dewalt dwx726 rolling miter saw stand,32835,B000ASG8A8,us,I,1,1,train,test
+661191,dewalt dwx726 rolling miter saw stand,32835,B000WR18XY,us,S,1,1,train,test
+661192,dewalt dwx726 rolling miter saw stand,32835,B0015YJ9HA,us,S,1,1,train,test
+661193,dewalt dwx726 rolling miter saw stand,32835,B000ASDN60,us,E,1,1,train,test
+661194,dewalt dwx726 rolling miter saw stand,32835,B004RPY3FM,us,S,1,1,train,test
+661195,dewalt dwx726 rolling miter saw stand,32835,B004U4S7S4,us,S,1,1,train,test
+661196,dewalt dwx726 rolling miter saw stand,32835,B004U4S7UC,us,S,1,1,train,test
+661197,dewalt dwx726 rolling miter saw stand,32835,B004UOG4H0,us,I,1,1,train,test
+661198,dewalt dwx726 rolling miter saw stand,32835,B004UOG4P2,us,C,1,1,train,test
+661199,dewalt dwx726 rolling miter saw stand,32835,B004UOG4V6,us,E,1,1,train,test
+661200,dewalt dwx726 rolling miter saw stand,32835,B00540JS7C,us,I,1,1,train,test
+661201,dewalt dwx726 rolling miter saw stand,32835,B0019VKEM8,us,I,1,1,train,test
+661202,dewalt dwx726 rolling miter saw stand,32835,B0066N7C74,us,E,1,1,train,test
+690047,dog beds without stuffing,34294,B07N1GBV55,us,E,1,1,train,test
+690048,dog beds without stuffing,34294,B07NSB37KX,us,E,1,1,train,test
+690049,dog beds without stuffing,34294,B07PNG986F,us,S,1,1,train,test
+690050,dog beds without stuffing,34294,B07PVFQXTV,us,E,1,1,train,test
+690051,dog beds without stuffing,34294,B07Q4T9TSF,us,E,1,1,train,test
+690052,dog beds without stuffing,34294,B07QD2R2G9,us,E,1,1,train,test
+690053,dog beds without stuffing,34294,B07QHFRTQS,us,E,1,1,train,test
+690054,dog beds without stuffing,34294,B07ZGMGTCJ,us,E,1,1,train,test
+690055,dog beds without stuffing,34294,B08CCV2HCQ,us,E,1,1,train,test
+690056,dog beds without stuffing,34294,B0872S89DV,us,E,1,1,train,test
+690057,dog beds without stuffing,34294,B0878V9WJN,us,E,1,1,train,test
+690058,dog beds without stuffing,34294,B07MYZGBJ9,us,E,1,1,train,test
+690059,dog beds without stuffing,34294,B08LSM3GRD,us,E,1,1,train,test
+690060,dog beds without stuffing,34294,B08LYQSTRV,us,E,1,1,train,test
+690061,dog beds without stuffing,34294,B08Q3FWKY5,us,E,1,1,train,test
+690062,dog beds without stuffing,34294,B08QHXVPRT,us,S,1,1,train,test
+690063,dog beds without stuffing,34294,B098L86G3F,us,E,1,1,train,test
+690064,dog beds without stuffing,34294,B0828MKKYG,us,E,1,1,train,test
+690065,dog beds without stuffing,34294,B07L4M9K7Z,us,S,1,1,train,test
+690066,dog beds without stuffing,34294,B07Q9PPZXQ,us,E,1,1,train,test
+690067,dog beds without stuffing,34294,B07FDDNXG3,us,E,1,1,train,test
+690068,dog beds without stuffing,34294,B07JLXBVD4,us,S,1,1,train,test
+690069,dog beds without stuffing,34294,B000P7JKD6,us,E,1,1,train,test
+690070,dog beds without stuffing,34294,B001CQTOMG,us,E,1,1,train,test
+690071,dog beds without stuffing,34294,B001FVNTH4,us,I,1,1,train,test
+690072,dog beds without stuffing,34294,B003D7LCT0,us,E,1,1,train,test
+690073,dog beds without stuffing,34294,B005OTJIZK,us,E,1,1,train,test
+690074,dog beds without stuffing,34294,B005OWWSFY,us,S,1,1,train,test
+690075,dog beds without stuffing,34294,B01HJ1ICLQ,us,E,1,1,train,test
+690076,dog beds without stuffing,34294,B01MTO9KGY,us,E,1,1,train,test
+690077,dog beds without stuffing,34294,B00TQ47CPW,us,E,1,1,train,test
+690078,dog beds without stuffing,34294,B06ZYJ2FJ9,us,S,1,1,train,test
+690079,dog beds without stuffing,34294,B07F1BK675,us,E,1,1,train,test
+690080,dog beds without stuffing,34294,B01MV2YF39,us,E,1,1,train,test
+690081,dog beds without stuffing,34294,B076VSFRV3,us,E,1,1,train,test
+690082,dog beds without stuffing,34294,B075YG3SYL,us,E,1,1,train,test
+690083,dog beds without stuffing,34294,B077F6WCDK,us,E,1,1,train,test
+690084,dog beds without stuffing,34294,B0759KRD1B,us,E,1,1,train,test
+690085,dog beds without stuffing,34294,B072N4GCQB,us,E,1,1,train,test
+690086,dog beds without stuffing,34294,B0759N3X6L,us,S,1,1,train,test
+759705,eora 3d builds iphone-powered 3d laser scanner,37831,B07GJHX9W8,us,E,1,1,train,test
+759706,eora 3d builds iphone-powered 3d laser scanner,37831,B07YHPPX66,us,I,1,1,train,test
+759707,eora 3d builds iphone-powered 3d laser scanner,37831,B07PHGXMRW,us,I,1,1,train,test
+759708,eora 3d builds iphone-powered 3d laser scanner,37831,B07NY7G8MT,us,I,1,1,train,test
+759709,eora 3d builds iphone-powered 3d laser scanner,37831,B07N8MG38F,us,E,1,1,train,test
+759710,eora 3d builds iphone-powered 3d laser scanner,37831,B07N1MB1JH,us,I,1,1,train,test
+759711,eora 3d builds iphone-powered 3d laser scanner,37831,B07FYXCCDQ,us,E,1,1,train,test
+759712,eora 3d builds iphone-powered 3d laser scanner,37831,B01MRLRVCI,us,E,1,1,train,test
+759713,eora 3d builds iphone-powered 3d laser scanner,37831,B078SQ91FB,us,E,1,1,train,test
+759714,eora 3d builds iphone-powered 3d laser scanner,37831,B074W55KK5,us,E,1,1,train,test
+759715,eora 3d builds iphone-powered 3d laser scanner,37831,B06Y2X5HVP,us,E,1,1,train,test
+759716,eora 3d builds iphone-powered 3d laser scanner,37831,B06Y2TVCDC,us,I,1,1,train,test
+759717,eora 3d builds iphone-powered 3d laser scanner,37831,B07CBS52KJ,us,I,1,1,train,test
+759718,eora 3d builds iphone-powered 3d laser scanner,37831,B01GDJ2BH6,us,I,1,1,train,test
+759719,eora 3d builds iphone-powered 3d laser scanner,37831,B00406YZGK,us,E,1,1,train,test
+783773,f-450 rear brakes,39042,B085HQRZMT,us,I,1,1,train,test
+783774,f-450 rear brakes,39042,B07Y8B5PB9,us,I,1,1,train,test
+783775,f-450 rear brakes,39042,B07SZD7D6F,us,I,1,1,train,test
+783776,f-450 rear brakes,39042,B07SYJN75G,us,I,1,1,train,test
+783777,f-450 rear brakes,39042,B07NVZFYRK,us,I,1,1,train,test
+783778,f-450 rear brakes,39042,B07L9G4HSF,us,E,1,1,train,test
+783779,f-450 rear brakes,39042,B0796N8RCT,us,I,1,1,train,test
+783780,f-450 rear brakes,39042,B082CN5187,us,I,1,1,train,test
+783781,f-450 rear brakes,39042,B073RNX6L9,us,I,1,1,train,test
+783782,f-450 rear brakes,39042,B072FK31RQ,us,I,1,1,train,test
+783783,f-450 rear brakes,39042,B071Y58YNR,us,I,1,1,train,test
+783784,f-450 rear brakes,39042,B06XRCBSL3,us,C,1,1,train,test
+783785,f-450 rear brakes,39042,B01708ZRKC,us,I,1,1,train,test
+783786,f-450 rear brakes,39042,B00O6PVFH2,us,I,1,1,train,test
+783787,f-450 rear brakes,39042,B00E1SPDJA,us,I,1,1,train,test
+783788,f-450 rear brakes,39042,B075R724BR,us,I,1,1,train,test
+789845,fake elf,39349,B01N074ELB,us,E,1,1,train,test
+789846,fake elf,39349,B07WRQLYPB,us,I,1,1,train,test
+789847,fake elf,39349,B07W6TM11H,us,E,1,1,train,test
+789848,fake elf,39349,B07TKP8X3D,us,E,1,1,train,test
+789849,fake elf,39349,B07SG3LZ6F,us,E,1,1,train,test
+789850,fake elf,39349,B07DKWTTGJ,us,E,1,1,train,test
+789851,fake elf,39349,B07BGDJC79,us,E,1,1,train,test
+789852,fake elf,39349,B01M0YC7J8,us,E,1,1,train,test
+789853,fake elf,39349,0976990709,us,E,1,1,train,test
+789854,fake elf,39349,B015K0AEJG,us,E,1,1,train,test
+789855,fake elf,39349,B00RBH0V8Q,us,E,1,1,train,test
+789856,fake elf,39349,B00QMUJ9PY,us,E,1,1,train,test
+789857,fake elf,39349,B0088260TC,us,E,1,1,train,test
+789858,fake elf,39349,B002TIU1ZU,us,E,1,1,train,test
+789859,fake elf,39349,0976990792,us,E,1,1,train,test
+789860,fake elf,39349,B01LZLS038,us,E,1,1,train,test
+810338,fire emblem 3 houses merch,40438,B07VY1GSRS,us,E,1,1,train,test
+810339,fire emblem 3 houses merch,40438,B0848CCQBK,us,S,1,1,train,test
+810340,fire emblem 3 houses merch,40438,B0847VG7XX,us,S,1,1,train,test
+810341,fire emblem 3 houses merch,40438,B07ZLQVTBL,us,S,1,1,train,test
+810342,fire emblem 3 houses merch,40438,B07Z614422,us,I,1,1,train,test
+810343,fire emblem 3 houses merch,40438,B07WWY5VTR,us,E,1,1,train,test
+810344,fire emblem 3 houses merch,40438,B07W1HTLYT,us,E,1,1,train,test
+810345,fire emblem 3 houses merch,40438,B07VTV81BG,us,E,1,1,train,test
+810346,fire emblem 3 houses merch,40438,B012L2QFB2,us,I,1,1,train,test
+810347,fire emblem 3 houses merch,40438,B07L62PBXQ,us,I,1,1,train,test
+810348,fire emblem 3 houses merch,40438,B07DM7KD4W,us,E,1,1,train,test
+810349,fire emblem 3 houses merch,40438,B07B3ZN9Z7,us,I,1,1,train,test
+810350,fire emblem 3 houses merch,40438,B079VTRHSF,us,I,1,1,train,test
+810351,fire emblem 3 houses merch,40438,B013VP85MK,us,I,1,1,train,test
+810352,fire emblem 3 houses merch,40438,B01158N8XG,us,I,1,1,train,test
+810353,fire emblem 3 houses merch,40438,B07L7524JT,us,E,1,1,train,test
+824621,fleece blanket bb8,41179,B07PMMZNBL,us,E,1,1,train,test
+824622,fleece blanket bb8,41179,B07F9YRZQ7,us,E,1,1,train,test
+824623,fleece blanket bb8,41179,B07BXYH8J3,us,S,1,1,train,test
+824624,fleece blanket bb8,41179,B0775GLN8Y,us,E,1,1,train,test
+824625,fleece blanket bb8,41179,B0775G3TDF,us,S,1,1,train,test
+824626,fleece blanket bb8,41179,B0725F9NRP,us,E,1,1,train,test
+824627,fleece blanket bb8,41179,B0725CQ7KC,us,S,1,1,train,test
+824628,fleece blanket bb8,41179,B071YWMFMW,us,S,1,1,train,test
+824629,fleece blanket bb8,41179,B0711XX996,us,S,1,1,train,test
+824630,fleece blanket bb8,41179,B01G8UP3KC,us,E,1,1,train,test
+824631,fleece blanket bb8,41179,B018A41PG0,us,E,1,1,train,test
+824632,fleece blanket bb8,41179,B017KOD884,us,S,1,1,train,test
+824633,fleece blanket bb8,41179,B015EVLUYO,us,I,1,1,train,test
+824634,fleece blanket bb8,41179,B00V75PRIW,us,S,1,1,train,test
+824635,fleece blanket bb8,41179,B071YR4Q3P,us,S,1,1,train,test
+825303,fleshlight,41216,B07S16Y6R7,us,S,1,1,train,test
+825304,fleshlight,41216,B07H8GC6WL,us,S,1,1,train,test
+825305,fleshlight,41216,B07F6R875C,us,E,1,1,train,test
+825306,fleshlight,41216,B079HTCFQS,us,S,1,1,train,test
+825307,fleshlight,41216,B072JL6DHT,us,E,1,1,train,test
+825308,fleshlight,41216,B076J7MKJM,us,I,1,1,train,test
+825309,fleshlight,41216,B073BWJ392,us,E,1,1,train,test
+825310,fleshlight,41216,B079F9RR9N,us,I,1,1,train,test
+825311,fleshlight,41216,B07ZR8M9F3,us,S,1,1,train,test
+825312,fleshlight,41216,B0713XTBJQ,us,I,1,1,train,test
+825313,fleshlight,41216,B0819GJHJK,us,S,1,1,train,test
+825314,fleshlight,41216,B0821QNJRD,us,E,1,1,train,test
+825315,fleshlight,41216,B082KV9MXN,us,S,1,1,train,test
+825316,fleshlight,41216,B082TNVKF6,us,S,1,1,train,test
+825317,fleshlight,41216,B086YG9TH1,us,S,1,1,train,test
+825318,fleshlight,41216,B08BK3TD54,us,I,1,1,train,test
+825319,fleshlight,41216,B08BP629DQ,us,E,1,1,train,test
+825320,fleshlight,41216,B08BP6N7FZ,us,I,1,1,train,test
+825321,fleshlight,41216,B08BYVNBMZ,us,E,1,1,train,test
+825322,fleshlight,41216,B07ZRSVS82,us,S,1,1,train,test
+825323,fleshlight,41216,B01N6SEX6X,us,E,1,1,train,test
+825324,fleshlight,41216,B003VDQWAK,us,E,1,1,train,test
+825325,fleshlight,41216,B01GK5DX34,us,I,1,1,train,test
+825326,fleshlight,41216,1780664257,us,I,1,1,train,test
+825327,fleshlight,41216,B000IXAJVY,us,I,1,1,train,test
+825328,fleshlight,41216,B001F2B3P8,us,I,1,1,train,test
+825329,fleshlight,41216,B001FSAVWS,us,I,1,1,train,test
+825330,fleshlight,41216,B0026P3P7M,us,E,1,1,train,test
+825331,fleshlight,41216,B002SQJIXO,us,E,1,1,train,test
+825332,fleshlight,41216,B01J74B3QE,us,I,1,1,train,test
+825333,fleshlight,41216,B004VTBI8O,us,E,1,1,train,test
+825334,fleshlight,41216,B006BV60CY,us,E,1,1,train,test
+825335,fleshlight,41216,B004C43H14,us,I,1,1,train,test
+825336,fleshlight,41216,B00G5K7L24,us,C,1,1,train,test
+825337,fleshlight,41216,B01A61A8S6,us,E,1,1,train,test
+825338,fleshlight,41216,B00F3KO0ZI,us,E,1,1,train,test
+825339,fleshlight,41216,B0124BJIGE,us,E,1,1,train,test
+825340,fleshlight,41216,B010R6I8V4,us,S,1,1,train,test
+825341,fleshlight,41216,B0161NZJVY,us,E,1,1,train,test
+825342,fleshlight,41216,B00KOQFKKA,us,I,1,1,train,test
+825343,fleshlight,41216,B00JR1IMR6,us,I,1,1,train,test
+825344,fleshlight,41216,B00JR1IGFE,us,I,1,1,train,test
+825345,fleshlight,41216,B00VAL8SJ8,us,E,1,1,train,test
+827466,floating glass shelf 10 inches wide,41324,B0861MG9XX,us,C,1,1,train,test
+827467,floating glass shelf 10 inches wide,41324,B083DWP486,us,C,1,1,train,test
+827468,floating glass shelf 10 inches wide,41324,B07VJ5G5RK,us,C,1,1,train,test
+827469,floating glass shelf 10 inches wide,41324,B07V5WXJ43,us,I,1,1,train,test
+827470,floating glass shelf 10 inches wide,41324,B07L7SY9Y6,us,C,1,1,train,test
+827471,floating glass shelf 10 inches wide,41324,B07D724484,us,I,1,1,train,test
+827472,floating glass shelf 10 inches wide,41324,B078X5X8KM,us,S,1,1,train,test
+827473,floating glass shelf 10 inches wide,41324,B07XC75B69,us,I,1,1,train,test
+827474,floating glass shelf 10 inches wide,41324,B01MU2SV7G,us,S,1,1,train,test
+827475,floating glass shelf 10 inches wide,41324,B01MRVUMVD,us,S,1,1,train,test
+827476,floating glass shelf 10 inches wide,41324,B01B66U50Q,us,E,1,1,train,test
+827477,floating glass shelf 10 inches wide,41324,B011747O9C,us,E,1,1,train,test
+827478,floating glass shelf 10 inches wide,41324,B00B8Y4QUW,us,E,1,1,train,test
+827479,floating glass shelf 10 inches wide,41324,B009S83YPS,us,E,1,1,train,test
+827480,floating glass shelf 10 inches wide,41324,B004KMW0WK,us,E,1,1,train,test
+827481,floating glass shelf 10 inches wide,41324,B077J4M2YD,us,S,1,1,train,test
+840944,football locker,42034,B082T1CDR9,us,I,1,1,train,test
+840945,football locker,42034,B07Z4N4W16,us,S,1,1,train,test
+840946,football locker,42034,B07YBLYCCY,us,I,1,1,train,test
+840947,football locker,42034,B07YBKR9DC,us,I,1,1,train,test
+840948,football locker,42034,B07YBKMF2G,us,I,1,1,train,test
+840949,football locker,42034,B07YBKLKQV,us,I,1,1,train,test
+840950,football locker,42034,B07YBKCS99,us,I,1,1,train,test
+840951,football locker,42034,B0843RJ2DG,us,E,1,1,train,test
+840952,football locker,42034,B07Q28WGDF,us,S,1,1,train,test
+840953,football locker,42034,B0787PGGL6,us,E,1,1,train,test
+840954,football locker,42034,B077BXG1HD,us,S,1,1,train,test
+840955,football locker,42034,B0772SXXPT,us,I,1,1,train,test
+840956,football locker,42034,B07623L1S2,us,E,1,1,train,test
+840957,football locker,42034,B01M0XXGLZ,us,I,1,1,train,test
+840958,football locker,42034,B005LOSPDO,us,E,1,1,train,test
+840959,football locker,42034,B07XBV3TJP,us,S,1,1,train,test
+842183,ford jackets,42108,B07G7GLT32,us,E,1,1,train,test
+842184,ford jackets,42108,B084P8JZ6C,us,E,1,1,train,test
+842185,ford jackets,42108,B07N49DBW4,us,S,1,1,train,test
+842186,ford jackets,42108,B07LFK3B92,us,S,1,1,train,test
+842187,ford jackets,42108,B07JX7X5NY,us,E,1,1,train,test
+842188,ford jackets,42108,B07JMDPS1J,us,E,1,1,train,test
+842189,ford jackets,42108,B07HGJL91K,us,E,1,1,train,test
+842190,ford jackets,42108,B07CTBNXRY,us,I,1,1,train,test
+842191,ford jackets,42108,B073GGQ2VN,us,S,1,1,train,test
+842192,ford jackets,42108,B07CC9Z7ZM,us,I,1,1,train,test
+842193,ford jackets,42108,B071CK36Z8,us,E,1,1,train,test
+842194,ford jackets,42108,B06ZYDJY31,us,E,1,1,train,test
+842195,ford jackets,42108,B06XSYMQKJ,us,S,1,1,train,test
+842196,ford jackets,42108,B01L5SNDWW,us,I,1,1,train,test
+842197,ford jackets,42108,B00SAHVVC6,us,S,1,1,train,test
+842198,ford jackets,42108,B002R0GS1Q,us,S,1,1,train,test
+861993,fumio sasaki goodbye things,43147,B06Y2HHWJW,us,E,1,1,train,test
+861994,fumio sasaki goodbye things,43147,B07R8MQKJS,us,S,1,1,train,test
+861995,fumio sasaki goodbye things,43147,B07SFZVBLW,us,S,1,1,train,test
+861996,fumio sasaki goodbye things,43147,B085GFC1BF,us,C,1,1,train,test
+861997,fumio sasaki goodbye things,43147,B084299QXS,us,S,1,1,train,test
+861998,fumio sasaki goodbye things,43147,B01MAYE893,us,S,1,1,train,test
+861999,fumio sasaki goodbye things,43147,B07YMK3X5J,us,E,1,1,train,test
+862000,fumio sasaki goodbye things,43147,B00TDGRVCW,us,I,1,1,train,test
+862001,fumio sasaki goodbye things,43147,1568364342,us,S,1,1,train,test
+862002,fumio sasaki goodbye things,43147,8416867488,us,E,1,1,train,test
+862003,fumio sasaki goodbye things,43147,4805315237,us,S,1,1,train,test
+862004,fumio sasaki goodbye things,43147,4805310006,us,S,1,1,train,test
+862005,fumio sasaki goodbye things,43147,1646153162,us,S,1,1,train,test
+862006,fumio sasaki goodbye things,43147,1607747308,us,S,1,1,train,test
+862007,fumio sasaki goodbye things,43147,0789310651,us,S,1,1,train,test
+862008,fumio sasaki goodbye things,43147,9123772352,us,S,1,1,train,test
+891586,ge stackable washer and dryer handle,44698,B07QHCP9ZY,us,I,1,1,train,test
+891587,ge stackable washer and dryer handle,44698,B07GBGCT85,us,I,1,1,train,test
+891588,ge stackable washer and dryer handle,44698,B07DVMN9R6,us,I,1,1,train,test
+891589,ge stackable washer and dryer handle,44698,B07DNKKY9Q,us,C,1,1,train,test
+891590,ge stackable washer and dryer handle,44698,B07BDRM9DN,us,I,1,1,train,test
+891591,ge stackable washer and dryer handle,44698,B07B5H15HP,us,I,1,1,train,test
+891592,ge stackable washer and dryer handle,44698,B079Y4XMGX,us,I,1,1,train,test
+891593,ge stackable washer and dryer handle,44698,B07T1L36P3,us,C,1,1,train,test
+891594,ge stackable washer and dryer handle,44698,B00OMR1G1Y,us,I,1,1,train,test
+891595,ge stackable washer and dryer handle,44698,B00MOD1ER4,us,I,1,1,train,test
+891596,ge stackable washer and dryer handle,44698,B00MNMS81Q,us,I,1,1,train,test
+891597,ge stackable washer and dryer handle,44698,B00MNMS3WU,us,E,1,1,train,test
+891598,ge stackable washer and dryer handle,44698,B00JFG6YOG,us,I,1,1,train,test
+891599,ge stackable washer and dryer handle,44698,B00A8O0FGC,us,E,1,1,train,test
+891600,ge stackable washer and dryer handle,44698,B003BIGCZU,us,I,1,1,train,test
+891601,ge stackable washer and dryer handle,44698,B0145UP6MC,us,E,1,1,train,test
+910346,girls sz 12 pajamas,45702,B07GKMPMD4,us,I,1,1,train,test
+910347,girls sz 12 pajamas,45702,B07GQHTHVF,us,I,1,1,train,test
+910348,girls sz 12 pajamas,45702,B07CLQZPL2,us,I,1,1,train,test
+910349,girls sz 12 pajamas,45702,B07MXY58VH,us,I,1,1,train,test
+910350,girls sz 12 pajamas,45702,B07PZQNVN6,us,I,1,1,train,test
+910351,girls sz 12 pajamas,45702,B07LCFVQ8L,us,E,1,1,train,test
+910352,girls sz 12 pajamas,45702,B07CKZTX2B,us,I,1,1,train,test
+910353,girls sz 12 pajamas,45702,B07N6JKVYB,us,E,1,1,train,test
+910354,girls sz 12 pajamas,45702,B0744PCHMB,us,I,1,1,train,test
+910355,girls sz 12 pajamas,45702,B07CKYHY88,us,I,1,1,train,test
+910356,girls sz 12 pajamas,45702,B00VTV5QHQ,us,I,1,1,train,test
+910357,girls sz 12 pajamas,45702,B00XIOKYSS,us,I,1,1,train,test
+910358,girls sz 12 pajamas,45702,B07MTGS4SB,us,E,1,1,train,test
+910359,girls sz 12 pajamas,45702,B00YRR3ZP4,us,I,1,1,train,test
+910360,girls sz 12 pajamas,45702,B018SXGW5M,us,E,1,1,train,test
+910361,girls sz 12 pajamas,45702,B01IE1JCJQ,us,I,1,1,train,test
+919066,gmk striker keycaps,46158,B0912ZTNYB,us,E,1,1,train,test
+919067,gmk striker keycaps,46158,B09CDL7KJH,us,E,1,1,train,test
+919068,gmk striker keycaps,46158,B09BYNSTCH,us,E,1,1,train,test
+919069,gmk striker keycaps,46158,B09838GK1F,us,S,1,1,train,test
+919070,gmk striker keycaps,46158,B09699XBH4,us,S,1,1,train,test
+919071,gmk striker keycaps,46158,B091CDNWBJ,us,S,1,1,train,test
+919072,gmk striker keycaps,46158,B08YR8KDSL,us,S,1,1,train,test
+919073,gmk striker keycaps,46158,B08VH4ZCDH,us,E,1,1,train,test
+919074,gmk striker keycaps,46158,B08SW9JLZY,us,E,1,1,train,test
+919075,gmk striker keycaps,46158,B08QTSTKYH,us,S,1,1,train,test
+919076,gmk striker keycaps,46158,B08QJG97HC,us,S,1,1,train,test
+919077,gmk striker keycaps,46158,B08PVTZV2C,us,S,1,1,train,test
+919078,gmk striker keycaps,46158,B08L7YXQ43,us,S,1,1,train,test
+919079,gmk striker keycaps,46158,B07ZPRL49Y,us,S,1,1,train,test
+919080,gmk striker keycaps,46158,B07W7HNM7G,us,I,1,1,train,test
+919081,gmk striker keycaps,46158,B08VGR4XML,us,S,1,1,train,test
+926172,golden apple pear gfuel,46537,B08TQDGNVY,us,S,1,1,train,test
+926173,golden apple pear gfuel,46537,B0857KPWD7,us,S,1,1,train,test
+926174,golden apple pear gfuel,46537,B0868VSJ3R,us,S,1,1,train,test
+926175,golden apple pear gfuel,46537,B086WQJH4W,us,S,1,1,train,test
+926176,golden apple pear gfuel,46537,B08CBPVBQH,us,S,1,1,train,test
+926177,golden apple pear gfuel,46537,B08D2PCRG4,us,S,1,1,train,test
+926178,golden apple pear gfuel,46537,B08HR994NJ,us,I,1,1,train,test
+926179,golden apple pear gfuel,46537,B08HY7VNTF,us,S,1,1,train,test
+926180,golden apple pear gfuel,46537,B08L5B9NQZ,us,E,1,1,train,test
+926181,golden apple pear gfuel,46537,B08TQV25X2,us,S,1,1,train,test
+926182,golden apple pear gfuel,46537,B08NRCW499,us,S,1,1,train,test
+926183,golden apple pear gfuel,46537,B08TQGCKH7,us,I,1,1,train,test
+926184,golden apple pear gfuel,46537,B07X448MY5,us,S,1,1,train,test
+926185,golden apple pear gfuel,46537,B08TW3JNPK,us,I,1,1,train,test
+926186,golden apple pear gfuel,46537,B08XSTJBL6,us,S,1,1,train,test
+926187,golden apple pear gfuel,46537,B0939SKZTQ,us,S,1,1,train,test
+926188,golden apple pear gfuel,46537,B0949M4VP6,us,S,1,1,train,test
+926189,golden apple pear gfuel,46537,B08LCPZMV5,us,S,1,1,train,test
+926190,golden apple pear gfuel,46537,B07V1XXHBV,us,S,1,1,train,test
+926191,golden apple pear gfuel,46537,B08GHC2111,us,S,1,1,train,test
+926192,golden apple pear gfuel,46537,B07SFKYKVX,us,S,1,1,train,test
+926193,golden apple pear gfuel,46537,B009KML6RK,us,S,1,1,train,test
+926194,golden apple pear gfuel,46537,B012BNS79O,us,S,1,1,train,test
+926195,golden apple pear gfuel,46537,B013LS7R62,us,E,1,1,train,test
+926196,golden apple pear gfuel,46537,B01H0MTUHO,us,S,1,1,train,test
+926197,golden apple pear gfuel,46537,B06W9F3X88,us,I,1,1,train,test
+926198,golden apple pear gfuel,46537,B0743J21SF,us,I,1,1,train,test
+926199,golden apple pear gfuel,46537,B0763BKLXQ,us,E,1,1,train,test
+926200,golden apple pear gfuel,46537,B07TXBF4DW,us,S,1,1,train,test
+926201,golden apple pear gfuel,46537,B079P6D4CX,us,S,1,1,train,test
+926202,golden apple pear gfuel,46537,B077DXYCJG,us,S,1,1,train,test
+926203,golden apple pear gfuel,46537,B07KCFQF2L,us,S,1,1,train,test
+926204,golden apple pear gfuel,46537,B009KML5PS,us,S,1,1,train,test
+926205,golden apple pear gfuel,46537,B07KDRL5ZD,us,S,1,1,train,test
+926206,golden apple pear gfuel,46537,B07LB91R58,us,S,1,1,train,test
+926207,golden apple pear gfuel,46537,B07N11DX62,us,S,1,1,train,test
+926208,golden apple pear gfuel,46537,B07NR8FBMT,us,S,1,1,train,test
+926209,golden apple pear gfuel,46537,B07R8GD47V,us,I,1,1,train,test
+926210,golden apple pear gfuel,46537,B07SD82Q98,us,S,1,1,train,test
+926211,golden apple pear gfuel,46537,B07FWN8YFH,us,S,1,1,train,test
+935254,graffix bong water pipe,47009,B087J9155J,us,E,1,1,train,test
+935255,graffix bong water pipe,47009,B081H66ZL7,us,S,1,1,train,test
+935256,graffix bong water pipe,47009,B07X2N7L48,us,E,1,1,train,test
+935257,graffix bong water pipe,47009,B07RDD9R1L,us,I,1,1,train,test
+935258,graffix bong water pipe,47009,B07PQPZZH9,us,E,1,1,train,test
+935259,graffix bong water pipe,47009,B07L1RWZN8,us,E,1,1,train,test
+935260,graffix bong water pipe,47009,B07BS2FSMS,us,I,1,1,train,test
+935261,graffix bong water pipe,47009,B07Y7R1F38,us,I,1,1,train,test
+935262,graffix bong water pipe,47009,B01F8T4WG0,us,I,1,1,train,test
+935263,graffix bong water pipe,47009,B011SHKNYQ,us,I,1,1,train,test
+935264,graffix bong water pipe,47009,B00XPU1YTS,us,I,1,1,train,test
+935265,graffix bong water pipe,47009,B00Q2FAEYO,us,I,1,1,train,test
+935266,graffix bong water pipe,47009,B004QKTLNC,us,I,1,1,train,test
+935267,graffix bong water pipe,47009,B001K7Q6Z0,us,I,1,1,train,test
+935268,graffix bong water pipe,47009,B000W5R6UA,us,I,1,1,train,test
+935269,graffix bong water pipe,47009,B01NH9O4C6,us,S,1,1,train,test
+942895,greenbay in pink,47401,B07W6Z11G3,us,E,1,1,train,test
+942896,greenbay in pink,47401,B07S855XL3,us,I,1,1,train,test
+942897,greenbay in pink,47401,B07R7J4R9B,us,I,1,1,train,test
+942898,greenbay in pink,47401,B07H2Q319Z,us,E,1,1,train,test
+942899,greenbay in pink,47401,B07D8GT4W5,us,I,1,1,train,test
+942900,greenbay in pink,47401,B07B9LYXKG,us,I,1,1,train,test
+942901,greenbay in pink,47401,B07B9L72GH,us,I,1,1,train,test
+942902,greenbay in pink,47401,B079VWRVCR,us,I,1,1,train,test
+942903,greenbay in pink,47401,B0781Z7Y3S,us,I,1,1,train,test
+942904,greenbay in pink,47401,B07576NZFW,us,I,1,1,train,test
+942905,greenbay in pink,47401,B073ZQJH1N,us,S,1,1,train,test
+942906,greenbay in pink,47401,B01KX6L2PC,us,I,1,1,train,test
+942907,greenbay in pink,47401,B01IF7KODW,us,I,1,1,train,test
+942908,greenbay in pink,47401,B00YJL2LBC,us,E,1,1,train,test
+942909,greenbay in pink,47401,B00JBGB76K,us,S,1,1,train,test
+942910,greenbay in pink,47401,B00FO5XO9K,us,E,1,1,train,test
+962499,hair salon color rack,48396,B0838MCZ43,us,I,1,1,train,test
+962500,hair salon color rack,48396,B07WF6CQ9R,us,I,1,1,train,test
+962501,hair salon color rack,48396,B07VMJ138R,us,I,1,1,train,test
+962502,hair salon color rack,48396,B07V2MPG52,us,I,1,1,train,test
+962503,hair salon color rack,48396,B07K112MP7,us,I,1,1,train,test
+962504,hair salon color rack,48396,B07BFST77D,us,I,1,1,train,test
+962505,hair salon color rack,48396,B0798DB257,us,I,1,1,train,test
+962506,hair salon color rack,48396,B07584HTKG,us,I,1,1,train,test
+962507,hair salon color rack,48396,B07535DSYL,us,E,1,1,train,test
+962508,hair salon color rack,48396,B06Y2RRWP8,us,I,1,1,train,test
+962509,hair salon color rack,48396,B00VXDMUD8,us,I,1,1,train,test
+962510,hair salon color rack,48396,B00ED8NF0C,us,I,1,1,train,test
+962511,hair salon color rack,48396,B00CJ0TZ2S,us,E,1,1,train,test
+962512,hair salon color rack,48396,B00CF435PQ,us,E,1,1,train,test
+962513,hair salon color rack,48396,B00B9RKDNW,us,I,1,1,train,test
+962514,hair salon color rack,48396,B008FOIUYQ,us,I,1,1,train,test
+994650,helen butler,50095,B085T99SHB,us,E,1,1,train,test
+994651,helen butler,50095,B081SS9S59,us,I,1,1,train,test
+994652,helen butler,50095,B07YQQZCXN,us,E,1,1,train,test
+994653,helen butler,50095,B07WWXBYJK,us,E,1,1,train,test
+994654,helen butler,50095,B07W52XMBP,us,E,1,1,train,test
+994655,helen butler,50095,B07VV6H3N6,us,I,1,1,train,test
+994656,helen butler,50095,B07H383ZFV,us,S,1,1,train,test
+994657,helen butler,50095,B07DZJK5KH,us,I,1,1,train,test
+994658,helen butler,50095,B01GUP38BG,us,I,1,1,train,test
+994659,helen butler,50095,B00AOAZTHK,us,I,1,1,train,test
+994660,helen butler,50095,B00AFXBUEC,us,I,1,1,train,test
+994661,helen butler,50095,B00AFU0YJC,us,I,1,1,train,test
+994662,helen butler,50095,B003E9SDBW,us,I,1,1,train,test
+994663,helen butler,50095,B000G1ALGQ,us,I,1,1,train,test
+994664,helen butler,50095,1946160008,us,I,1,1,train,test
+994665,helen butler,50095,1476775559,us,I,1,1,train,test
+1033429,husquarvana snowblower feet,52164,B01M6X7FEU,us,E,1,1,train,test
+1033430,husquarvana snowblower feet,52164,B07V2XL5RQ,us,E,1,1,train,test
+1033431,husquarvana snowblower feet,52164,B07H526CPJ,us,I,1,1,train,test
+1033432,husquarvana snowblower feet,52164,B07GTZ8FG6,us,E,1,1,train,test
+1033433,husquarvana snowblower feet,52164,B07F5BGZXS,us,E,1,1,train,test
+1033434,husquarvana snowblower feet,52164,B077NQFGBS,us,I,1,1,train,test
+1033435,husquarvana snowblower feet,52164,B076F7R21K,us,E,1,1,train,test
+1033436,husquarvana snowblower feet,52164,B01BAASN9I,us,I,1,1,train,test
+1033437,husquarvana snowblower feet,52164,B0178HZRY6,us,I,1,1,train,test
+1033438,husquarvana snowblower feet,52164,B00XJGD2S4,us,E,1,1,train,test
+1033439,husquarvana snowblower feet,52164,B00PKQD75E,us,I,1,1,train,test
+1033440,husquarvana snowblower feet,52164,B00PBGM7RM,us,I,1,1,train,test
+1033441,husquarvana snowblower feet,52164,B00LHN4MX0,us,E,1,1,train,test
+1033442,husquarvana snowblower feet,52164,B0040X4VBC,us,E,1,1,train,test
+1033443,husquarvana snowblower feet,52164,B002MRM6KQ,us,I,1,1,train,test
+1033444,husquarvana snowblower feet,52164,B00YMMCP8W,us,E,1,1,train,test
+1037061,i am not ok with this,52355,164152815X,us,I,1,1,train,test
+1037062,i am not ok with this,52355,B013LAZ5NC,us,I,1,1,train,test
+1037063,i am not ok with this,52355,B006VPAXI2,us,I,1,1,train,test
+1037064,i am not ok with this,52355,1976436184,us,I,1,1,train,test
+1037065,i am not ok with this,52355,B07NBYL9DP,us,I,1,1,train,test
+1037066,i am not ok with this,52355,1683963318,us,E,1,1,train,test
+1037067,i am not ok with this,52355,1641522631,us,I,1,1,train,test
+1037068,i am not ok with this,52355,1733852611,us,I,1,1,train,test
+1037069,i am not ok with this,52355,159285849X,us,I,1,1,train,test
+1037070,i am not ok with this,52355,150645450X,us,I,1,1,train,test
+1037071,i am not ok with this,52355,099895800X,us,I,1,1,train,test
+1037072,i am not ok with this,52355,0991248244,us,I,1,1,train,test
+1037073,i am not ok with this,52355,0973410450,us,I,1,1,train,test
+1037074,i am not ok with this,52355,0735219109,us,E,1,1,train,test
+1037075,i am not ok with this,52355,0062360167,us,I,1,1,train,test
+1037076,i am not ok with this,52355,1606999834,us,I,1,1,train,test
+1039791,i will not leave the house today,52489,B07S2Z9433,us,I,1,1,train,test
+1039792,i will not leave the house today,52489,B07JFWMQQQ,us,I,1,1,train,test
+1039793,i will not leave the house today,52489,B07DN57VB1,us,I,1,1,train,test
+1039794,i will not leave the house today,52489,B0758YVFG8,us,S,1,1,train,test
+1039795,i will not leave the house today,52489,B072QLXK2T,us,I,1,1,train,test
+1039796,i will not leave the house today,52489,B0171Q6A6I,us,E,1,1,train,test
+1039797,i will not leave the house today,52489,B015G0EWLG,us,I,1,1,train,test
+1039798,i will not leave the house today,52489,B015G0DCFS,us,I,1,1,train,test
+1039799,i will not leave the house today,52489,B00NMFDCOG,us,I,1,1,train,test
+1039800,i will not leave the house today,52489,B0090NNMB2,us,E,1,1,train,test
+1039801,i will not leave the house today,52489,B017USEA6O,us,I,1,1,train,test
+1069739,iphone 11 pro cases,54060,B07W5PK26Q,us,E,1,1,train,test
+1069740,iphone 11 pro cases,54060,B07YC39KDP,us,E,1,1,train,test
+1069741,iphone 11 pro cases,54060,B07X51VBV4,us,E,1,1,train,test
+1069742,iphone 11 pro cases,54060,B07WSBB1HX,us,E,1,1,train,test
+1069743,iphone 11 pro cases,54060,B07WR4J1GN,us,I,1,1,train,test
+1069744,iphone 11 pro cases,54060,B07WBV9J5W,us,I,1,1,train,test
+1069745,iphone 11 pro cases,54060,B07W6MV7HF,us,I,1,1,train,test
+1069746,iphone 11 pro cases,54060,B07W4HQ1L2,us,E,1,1,train,test
+1069747,iphone 11 pro cases,54060,B07VW7L6FT,us,E,1,1,train,test
+1069748,iphone 11 pro cases,54060,B07VW6BYRW,us,E,1,1,train,test
+1069749,iphone 11 pro cases,54060,B07VKQYPGS,us,E,1,1,train,test
+1069750,iphone 11 pro cases,54060,B07TS4NZT7,us,E,1,1,train,test
+1069751,iphone 11 pro cases,54060,B07T3Q37LK,us,E,1,1,train,test
+1069752,iphone 11 pro cases,54060,B07T3PTHKG,us,E,1,1,train,test
+1069753,iphone 11 pro cases,54060,B07T1P48F9,us,E,1,1,train,test
+1069754,iphone 11 pro cases,54060,B07T1N3FD2,us,I,1,1,train,test
+1083573,ipilot trolling motor saltwater,54785,B01M8L2MXT,us,E,1,1,train,test
+1083574,ipilot trolling motor saltwater,54785,B01MG1O2WF,us,S,1,1,train,test
+1083575,ipilot trolling motor saltwater,54785,B01MQ3Y0TJ,us,E,1,1,train,test
+1083576,ipilot trolling motor saltwater,54785,B01MQ4EJ1B,us,E,1,1,train,test
+1083577,ipilot trolling motor saltwater,54785,B01MQCCGAB,us,E,1,1,train,test
+1083578,ipilot trolling motor saltwater,54785,B01MS02MMJ,us,E,1,1,train,test
+1083579,ipilot trolling motor saltwater,54785,B01MZ2GEV9,us,S,1,1,train,test
+1083580,ipilot trolling motor saltwater,54785,B01N9ET0RY,us,I,1,1,train,test
+1083581,ipilot trolling motor saltwater,54785,B07B5XHLPC,us,S,1,1,train,test
+1083582,ipilot trolling motor saltwater,54785,B073RTZGTT,us,I,1,1,train,test
+1083583,ipilot trolling motor saltwater,54785,B07B46NKSB,us,S,1,1,train,test
+1083584,ipilot trolling motor saltwater,54785,B07B8H2LRL,us,E,1,1,train,test
+1083585,ipilot trolling motor saltwater,54785,B07HNZVF9H,us,S,1,1,train,test
+1083586,ipilot trolling motor saltwater,54785,B07V6CZJTL,us,S,1,1,train,test
+1083587,ipilot trolling motor saltwater,54785,B07XLFT1M8,us,C,1,1,train,test
+1083588,ipilot trolling motor saltwater,54785,B07ZPDKPT6,us,S,1,1,train,test
+1083589,ipilot trolling motor saltwater,54785,B01M8IHO7A,us,S,1,1,train,test
+1083590,ipilot trolling motor saltwater,54785,B072BK2QC4,us,S,1,1,train,test
+1083591,ipilot trolling motor saltwater,54785,B01M70PYHP,us,S,1,1,train,test
+1083592,ipilot trolling motor saltwater,54785,B01N94X60M,us,E,1,1,train,test
+1083593,ipilot trolling motor saltwater,54785,B01M4JLXN1,us,C,1,1,train,test
+1083594,ipilot trolling motor saltwater,54785,B000E8FSTQ,us,I,1,1,train,test
+1083595,ipilot trolling motor saltwater,54785,B005GRCM4O,us,S,1,1,train,test
+1083596,ipilot trolling motor saltwater,54785,B005O31WMS,us,C,1,1,train,test
+1083597,ipilot trolling motor saltwater,54785,B00EYST1L8,us,S,1,1,train,test
+1083598,ipilot trolling motor saltwater,54785,B00FPQX89Y,us,S,1,1,train,test
+1083599,ipilot trolling motor saltwater,54785,B00ID9KX5M,us,S,1,1,train,test
+1083600,ipilot trolling motor saltwater,54785,B00VYP3QWO,us,S,1,1,train,test
+1083601,ipilot trolling motor saltwater,54785,B01BL5XEBY,us,S,1,1,train,test
+1083602,ipilot trolling motor saltwater,54785,B01EMIPJE2,us,E,1,1,train,test
+1083603,ipilot trolling motor saltwater,54785,B00KJE9PDK,us,S,1,1,train,test
+1083604,ipilot trolling motor saltwater,54785,B01F6ZU75G,us,S,1,1,train,test
+1083605,ipilot trolling motor saltwater,54785,B01M4M3AJS,us,E,1,1,train,test
+1083606,ipilot trolling motor saltwater,54785,B01M30OYF5,us,S,1,1,train,test
+1083607,ipilot trolling motor saltwater,54785,B01M3063HI,us,E,1,1,train,test
+1083608,ipilot trolling motor saltwater,54785,B01M252MXD,us,E,1,1,train,test
+1083609,ipilot trolling motor saltwater,54785,B01M3SO8OJ,us,E,1,1,train,test
+1083610,ipilot trolling motor saltwater,54785,B01JKNY7EC,us,S,1,1,train,test
+1083611,ipilot trolling motor saltwater,54785,B01HB56NRA,us,S,1,1,train,test
+1083612,ipilot trolling motor saltwater,54785,B01JKPWZOE,us,S,1,1,train,test
+1083926,ipod speaker dock without blue tooth,54803,B08XT7WC8B,us,E,1,1,train,test
+1083927,ipod speaker dock without blue tooth,54803,B08TZQH6S4,us,I,1,1,train,test
+1083928,ipod speaker dock without blue tooth,54803,B08NW8QK29,us,I,1,1,train,test
+1083929,ipod speaker dock without blue tooth,54803,B08LG1M6KL,us,S,1,1,train,test
+1083930,ipod speaker dock without blue tooth,54803,B08FRGCLRX,us,C,1,1,train,test
+1083931,ipod speaker dock without blue tooth,54803,B07YC4MF6H,us,I,1,1,train,test
+1083932,ipod speaker dock without blue tooth,54803,B07T2B23Y2,us,S,1,1,train,test
+1083933,ipod speaker dock without blue tooth,54803,B07FZ8S74R,us,E,1,1,train,test
+1083934,ipod speaker dock without blue tooth,54803,B07DMMG7QY,us,I,1,1,train,test
+1083935,ipod speaker dock without blue tooth,54803,B07594HZ6Y,us,I,1,1,train,test
+1083936,ipod speaker dock without blue tooth,54803,B073BVWRSP,us,S,1,1,train,test
+1083937,ipod speaker dock without blue tooth,54803,B071WYXY6B,us,I,1,1,train,test
+1083938,ipod speaker dock without blue tooth,54803,B01MTB55WH,us,I,1,1,train,test
+1083939,ipod speaker dock without blue tooth,54803,B01CQOV3YO,us,I,1,1,train,test
+1083940,ipod speaker dock without blue tooth,54803,B016XTADG2,us,I,1,1,train,test
+1083941,ipod speaker dock without blue tooth,54803,B010OYASRG,us,I,1,1,train,test
+1127997,kawaii clothes,57060,B07XY5J222,us,S,1,1,train,test
+1127998,kawaii clothes,57060,B07XMBX9WN,us,S,1,1,train,test
+1127999,kawaii clothes,57060,B07RZYRCMN,us,I,1,1,train,test
+1128000,kawaii clothes,57060,B07RRWSZK8,us,S,1,1,train,test
+1128001,kawaii clothes,57060,B07QDSMHZ6,us,S,1,1,train,test
+1128002,kawaii clothes,57060,B07GNKNL7Z,us,E,1,1,train,test
+1128003,kawaii clothes,57060,B07FSWQC28,us,S,1,1,train,test
+1128004,kawaii clothes,57060,B07BXYBTHT,us,S,1,1,train,test
+1128005,kawaii clothes,57060,B07B2NX2X5,us,S,1,1,train,test
+1128006,kawaii clothes,57060,B079K73S9R,us,S,1,1,train,test
+1128007,kawaii clothes,57060,B075LJCPN6,us,I,1,1,train,test
+1128008,kawaii clothes,57060,B074T832ZP,us,E,1,1,train,test
+1128009,kawaii clothes,57060,B072M51V1Q,us,S,1,1,train,test
+1128010,kawaii clothes,57060,B07239S4NJ,us,S,1,1,train,test
+1128011,kawaii clothes,57060,B01M0S17I1,us,S,1,1,train,test
+1128012,kawaii clothes,57060,B076ZJ5B1Y,us,E,1,1,train,test
+1173167,lab heating & cooling equipment,59410,B07MZ79X26,us,S,1,1,train,test
+1173168,lab heating & cooling equipment,59410,B0948FTDDC,us,I,1,1,train,test
+1173169,lab heating & cooling equipment,59410,B0851QFPV5,us,E,1,1,train,test
+1173170,lab heating & cooling equipment,59410,B0849YQMY4,us,S,1,1,train,test
+1173171,lab heating & cooling equipment,59410,B07Z4F4V61,us,E,1,1,train,test
+1173172,lab heating & cooling equipment,59410,B07PRTGM4T,us,I,1,1,train,test
+1173173,lab heating & cooling equipment,59410,B07N12TR92,us,E,1,1,train,test
+1173174,lab heating & cooling equipment,59410,B07CLZRQVS,us,I,1,1,train,test
+1173175,lab heating & cooling equipment,59410,B00ARJOTSI,us,C,1,1,train,test
+1173176,lab heating & cooling equipment,59410,B072MM8DZN,us,E,1,1,train,test
+1173177,lab heating & cooling equipment,59410,B01JYRPOVY,us,E,1,1,train,test
+1173178,lab heating & cooling equipment,59410,B00KD75VHW,us,I,1,1,train,test
+1173179,lab heating & cooling equipment,59410,B075D9RZRW,us,E,1,1,train,test
+1173180,lab heating & cooling equipment,59410,B009PCIHUO,us,I,1,1,train,test
+1173181,lab heating & cooling equipment,59410,B008K9609I,us,E,1,1,train,test
+1173182,lab heating & cooling equipment,59410,B007PB0UMA,us,C,1,1,train,test
+1194111,lawn pickleball game,60496,B088TQ5LD1,us,E,1,1,train,test
+1194112,lawn pickleball game,60496,B088F1DRT8,us,E,1,1,train,test
+1194113,lawn pickleball game,60496,B083V4T95G,us,C,1,1,train,test
+1194114,lawn pickleball game,60496,B07YJL68VG,us,E,1,1,train,test
+1194115,lawn pickleball game,60496,B07ZMCPM51,us,E,1,1,train,test
+1194116,lawn pickleball game,60496,B0891MC72H,us,C,1,1,train,test
+1194117,lawn pickleball game,60496,B07YGTG1Z6,us,C,1,1,train,test
+1194118,lawn pickleball game,60496,B0823BX9GP,us,E,1,1,train,test
+1194119,lawn pickleball game,60496,B08GWPB1H7,us,E,1,1,train,test
+1194120,lawn pickleball game,60496,B08PJFSLXT,us,E,1,1,train,test
+1194121,lawn pickleball game,60496,B08LNVZ6V4,us,E,1,1,train,test
+1194122,lawn pickleball game,60496,B08MWV2G5P,us,C,1,1,train,test
+1194123,lawn pickleball game,60496,B08PKWZP31,us,E,1,1,train,test
+1194124,lawn pickleball game,60496,B08V16JTL9,us,E,1,1,train,test
+1194125,lawn pickleball game,60496,B08WR5SY33,us,E,1,1,train,test
+1194126,lawn pickleball game,60496,B096FR37G6,us,C,1,1,train,test
+1194127,lawn pickleball game,60496,B096YQP748,us,S,1,1,train,test
+1194128,lawn pickleball game,60496,B07Y7VGSX9,us,E,1,1,train,test
+1194129,lawn pickleball game,60496,B08J6GTD9V,us,E,1,1,train,test
+1194130,lawn pickleball game,60496,B07XCQBNGN,us,C,1,1,train,test
+1194131,lawn pickleball game,60496,B094FCQR9X,us,E,1,1,train,test
+1194132,lawn pickleball game,60496,B07TS96J7Q,us,I,1,1,train,test
+1194133,lawn pickleball game,60496,B0779Q3FZZ,us,E,1,1,train,test
+1194134,lawn pickleball game,60496,B08BJ4V442,us,E,1,1,train,test
+1194135,lawn pickleball game,60496,B07VKPXS8S,us,E,1,1,train,test
+1194136,lawn pickleball game,60496,B002V7A7MQ,us,I,1,1,train,test
+1194137,lawn pickleball game,60496,B005BSW2UW,us,E,1,1,train,test
+1194138,lawn pickleball game,60496,B00K8ANYZU,us,S,1,1,train,test
+1194139,lawn pickleball game,60496,B00STL38RE,us,E,1,1,train,test
+1194140,lawn pickleball game,60496,B0145IWKBE,us,I,1,1,train,test
+1194141,lawn pickleball game,60496,B071DQQW34,us,S,1,1,train,test
+1194142,lawn pickleball game,60496,B00NIJZISE,us,I,1,1,train,test
+1194143,lawn pickleball game,60496,B074WFV3X6,us,C,1,1,train,test
+1194144,lawn pickleball game,60496,B07JCDZ5VF,us,E,1,1,train,test
+1194145,lawn pickleball game,60496,B071YPVRV7,us,E,1,1,train,test
+1194146,lawn pickleball game,60496,B07GVDXW5D,us,E,1,1,train,test
+1194147,lawn pickleball game,60496,B07GJLBCVL,us,C,1,1,train,test
+1194148,lawn pickleball game,60496,B07HMXWB7C,us,E,1,1,train,test
+1194149,lawn pickleball game,60496,B07DQL5R6R,us,C,1,1,train,test
+1194150,lawn pickleball game,60496,B07DB2RSNF,us,E,1,1,train,test
+1194151,lawn pickleball game,60496,B079J4Q6FQ,us,E,1,1,train,test
+1194152,lawn pickleball game,60496,B07DVLY49J,us,I,1,1,train,test
+1196676,leap ballerina toys,60629,B07X8Z1ZM9,us,E,1,1,train,test
+1196677,leap ballerina toys,60629,B07R66HV1Z,us,I,1,1,train,test
+1196678,leap ballerina toys,60629,B07M7H8FSY,us,E,1,1,train,test
+1196679,leap ballerina toys,60629,B07C3D1KXM,us,I,1,1,train,test
+1196680,leap ballerina toys,60629,B07BXZYSDJ,us,I,1,1,train,test
+1196681,leap ballerina toys,60629,B07BXRXYHY,us,I,1,1,train,test
+1196682,leap ballerina toys,60629,B07BGHDXP8,us,E,1,1,train,test
+1196683,leap ballerina toys,60629,B07S1CR93K,us,E,1,1,train,test
+1196684,leap ballerina toys,60629,B0719KWG8H,us,I,1,1,train,test
+1196685,leap ballerina toys,60629,B01MZI62DN,us,E,1,1,train,test
+1196686,leap ballerina toys,60629,B01LMVSHVE,us,E,1,1,train,test
+1196687,leap ballerina toys,60629,B00S7ECM0W,us,E,1,1,train,test
+1196688,leap ballerina toys,60629,B00S6AEB0Q,us,E,1,1,train,test
+1196689,leap ballerina toys,60629,B005YYJLFM,us,E,1,1,train,test
+1196690,leap ballerina toys,60629,B0037UWPM6,us,E,1,1,train,test
+1196691,leap ballerina toys,60629,B079J6RTTD,us,E,1,1,train,test
+1221565,lhotse,61937,B07ZQ16MDM,us,E,1,1,train,test
+1221566,lhotse,61937,B08GNZFTT5,us,E,1,1,train,test
+1221567,lhotse,61937,B0891V6R6S,us,E,1,1,train,test
+1221568,lhotse,61937,B08913TQ5V,us,E,1,1,train,test
+1221569,lhotse,61937,B088YXV96X,us,E,1,1,train,test
+1221570,lhotse,61937,B086D7KJYB,us,E,1,1,train,test
+1221571,lhotse,61937,B0814BQNJQ,us,E,1,1,train,test
+1221572,lhotse,61937,B07RJ1KYWY,us,E,1,1,train,test
+1221573,lhotse,61937,1680512889,us,I,1,1,train,test
+1221574,lhotse,61937,B07JCGFF7Z,us,I,1,1,train,test
+1221575,lhotse,61937,B07C8GFR5Q,us,I,1,1,train,test
+1221576,lhotse,61937,B00080ZG38,us,I,1,1,train,test
+1221577,lhotse,61937,1897530048,us,E,1,1,train,test
+1221578,lhotse,61937,1771600195,us,E,1,1,train,test
+1221579,lhotse,61937,1680512927,us,I,1,1,train,test
+1221580,lhotse,61937,B07RGXC9P9,us,E,1,1,train,test
+1230335,lightbox shelf,62375,B07ZRL8BW2,us,S,1,1,train,test
+1230336,lightbox shelf,62375,B07XHKN8QL,us,C,1,1,train,test
+1230337,lightbox shelf,62375,B07VL7ZD9H,us,S,1,1,train,test
+1230338,lightbox shelf,62375,B07TN5HNPN,us,E,1,1,train,test
+1230339,lightbox shelf,62375,B07N1CMGQQ,us,C,1,1,train,test
+1230340,lightbox shelf,62375,B07MV9WP4T,us,S,1,1,train,test
+1230341,lightbox shelf,62375,B07FB3NJRP,us,I,1,1,train,test
+1230342,lightbox shelf,62375,B07281KYSS,us,S,1,1,train,test
+1230343,lightbox shelf,62375,B06WGL7N66,us,E,1,1,train,test
+1230344,lightbox shelf,62375,B01N1Z2HUS,us,S,1,1,train,test
+1230345,lightbox shelf,62375,B01N061FMZ,us,E,1,1,train,test
+1230346,lightbox shelf,62375,B01M0XLTT5,us,S,1,1,train,test
+1230347,lightbox shelf,62375,B01LYBQXRH,us,S,1,1,train,test
+1230348,lightbox shelf,62375,B018YLFJX4,us,S,1,1,train,test
+1230349,lightbox shelf,62375,B00UG9HB1Q,us,I,1,1,train,test
+1230350,lightbox shelf,62375,B00P17WZRS,us,S,1,1,train,test
+1288977,man spider costume,65364,B07GMB2FCJ,us,I,1,1,train,test
+1288978,man spider costume,65364,B082FFHMXP,us,E,1,1,train,test
+1288979,man spider costume,65364,B07QRGDPSH,us,E,1,1,train,test
+1288980,man spider costume,65364,B07NJQQKW9,us,E,1,1,train,test
+1288981,man spider costume,65364,B07L4GXLBZ,us,E,1,1,train,test
+1288982,man spider costume,65364,B07L8WKRVY,us,E,1,1,train,test
+1288983,man spider costume,65364,B087BWS1M5,us,E,1,1,train,test
+1288984,man spider costume,65364,B07GMB2M2S,us,I,1,1,train,test
+1288985,man spider costume,65364,B07NJPXKRY,us,E,1,1,train,test
+1288986,man spider costume,65364,B08C2P6PQG,us,I,1,1,train,test
+1288987,man spider costume,65364,B08KJBT4QM,us,E,1,1,train,test
+1288988,man spider costume,65364,B08JGTRRN6,us,E,1,1,train,test
+1288989,man spider costume,65364,B08K2B1G2S,us,E,1,1,train,test
+1288990,man spider costume,65364,B08NXSL5NF,us,I,1,1,train,test
+1288991,man spider costume,65364,B09FYGW2VK,us,I,1,1,train,test
+1288992,man spider costume,65364,B08NY7T9G8,us,I,1,1,train,test
+1288993,man spider costume,65364,B08TP8N3C4,us,I,1,1,train,test
+1288994,man spider costume,65364,B09BCH65L1,us,E,1,1,train,test
+1288995,man spider costume,65364,B09FYCKDFT,us,E,1,1,train,test
+1288996,man spider costume,65364,B08CC874L2,us,E,1,1,train,test
+1288997,man spider costume,65364,B07GBXND3M,us,E,1,1,train,test
+1288998,man spider costume,65364,B007782HLI,us,S,1,1,train,test
+1288999,man spider costume,65364,B07D6R9B3L,us,E,1,1,train,test
+1289000,man spider costume,65364,B00KSSHUUW,us,I,1,1,train,test
+1289001,man spider costume,65364,B00SL12TEK,us,I,1,1,train,test
+1289002,man spider costume,65364,B01N4V4EVJ,us,E,1,1,train,test
+1289003,man spider costume,65364,B003DRUGQA,us,E,1,1,train,test
+1289004,man spider costume,65364,B00HA4Z6GW,us,I,1,1,train,test
+1289005,man spider costume,65364,B00HZELANK,us,E,1,1,train,test
+1289006,man spider costume,65364,B07FTWSMTK,us,E,1,1,train,test
+1289007,man spider costume,65364,B00IP8PUR2,us,E,1,1,train,test
+1289008,man spider costume,65364,B00J3QHRPI,us,E,1,1,train,test
+1289009,man spider costume,65364,B00HZELH4W,us,I,1,1,train,test
+1289010,man spider costume,65364,B00NWGXR4K,us,E,1,1,train,test
+1289011,man spider costume,65364,B00LR4ZNO6,us,I,1,1,train,test
+1289012,man spider costume,65364,B0797LQ439,us,I,1,1,train,test
+1289013,man spider costume,65364,B06ZXSQT2W,us,I,1,1,train,test
+1289014,man spider costume,65364,B01MZGDHTU,us,I,1,1,train,test
+1289015,man spider costume,65364,B0797MHT89,us,E,1,1,train,test
+1289016,man spider costume,65364,B00SXAO8FW,us,E,1,1,train,test
+1289017,man spider costume,65364,B00SXAO7WG,us,E,1,1,train,test
+1289018,man spider costume,65364,B00NY5BBEW,us,S,1,1,train,test
+1289019,man spider costume,65364,B01MZGD3TG,us,I,1,1,train,test
+1363496,minding the gap,69232,B09D876FGJ,us,E,1,1,train,test
+1363497,minding the gap,69232,3639515773,us,E,1,1,train,test
+1363498,minding the gap,69232,B08RXGH4JR,us,E,1,1,train,test
+1363499,minding the gap,69232,B08L8W1P23,us,E,1,1,train,test
+1363500,minding the gap,69232,B07WH5H1NC,us,E,1,1,train,test
+1363501,minding the gap,69232,B07MX2FP6W,us,E,1,1,train,test
+1363502,minding the gap,69232,B074GJQ8W7,us,E,1,1,train,test
+1363503,minding the gap,69232,1921313153,us,E,1,1,train,test
+1363504,minding the gap,69232,1502503697,us,E,1,1,train,test
+1363505,minding the gap,69232,1545570000,us,E,1,1,train,test
+1363506,minding the gap,69232,1443880655,us,I,1,1,train,test
+1363507,minding the gap,69232,1433177129,us,E,1,1,train,test
+1363508,minding the gap,69232,1416613846,us,I,1,1,train,test
+1363509,minding the gap,69232,0889772924,us,E,1,1,train,test
+1363510,minding the gap,69232,0190867523,us,E,1,1,train,test
+1363511,minding the gap,69232,1891792458,us,E,1,1,train,test
+1384547,money,70330,B00ZAGVD1O,us,E,1,1,train,test
+1384548,money,70330,B0855Z1RQ3,us,E,1,1,train,test
+1384549,money,70330,B07WQYC733,us,E,1,1,train,test
+1384550,money,70330,B07TFFY9XG,us,E,1,1,train,test
+1384551,money,70330,B07NVMRPCW,us,E,1,1,train,test
+1384552,money,70330,B01MQWXEU3,us,E,1,1,train,test
+1384553,money,70330,B01929HKOI,us,E,1,1,train,test
+1384554,money,70330,B00QXOC8GQ,us,E,1,1,train,test
+1384555,money,70330,1501124021,us,I,1,1,train,test
+1384556,money,70330,B00HUNPZRI,us,E,1,1,train,test
+1384557,money,70330,B008Y6MG1I,us,I,1,1,train,test
+1384558,money,70330,B006IMY5ZU,us,E,1,1,train,test
+1384559,money,70330,1612680194,us,E,1,1,train,test
+1384560,money,70330,1523505745,us,I,1,1,train,test
+1384561,money,70330,0857197681,us,I,1,1,train,test
+1384562,money,70330,B00OPAJZGG,us,E,1,1,train,test
+1409525,munk pack keto nut and seed,71611,B097Z1G5YT,us,E,1,1,train,test
+1409526,munk pack keto nut and seed,71611,B08KFSW98Q,us,E,1,1,train,test
+1409527,munk pack keto nut and seed,71611,B08M2N3CGK,us,E,1,1,train,test
+1409528,munk pack keto nut and seed,71611,B08NXXSTT6,us,S,1,1,train,test
+1409529,munk pack keto nut and seed,71611,B08NXYCS62,us,E,1,1,train,test
+1409530,munk pack keto nut and seed,71611,B08NXYFXMG,us,E,1,1,train,test
+1409531,munk pack keto nut and seed,71611,B08NY1PNSG,us,E,1,1,train,test
+1409532,munk pack keto nut and seed,71611,B08XY676KX,us,S,1,1,train,test
+1409533,munk pack keto nut and seed,71611,B08KFQMPQG,us,S,1,1,train,test
+1409534,munk pack keto nut and seed,71611,B08XY95JJ2,us,S,1,1,train,test
+1409535,munk pack keto nut and seed,71611,B095G2JD48,us,E,1,1,train,test
+1409536,munk pack keto nut and seed,71611,B097YYVGWQ,us,E,1,1,train,test
+1409537,munk pack keto nut and seed,71611,B097Z135LP,us,E,1,1,train,test
+1409538,munk pack keto nut and seed,71611,B097Z1KRT3,us,S,1,1,train,test
+1409539,munk pack keto nut and seed,71611,B08VNS9YX9,us,E,1,1,train,test
+1409540,munk pack keto nut and seed,71611,B08KFQ5TXZ,us,E,1,1,train,test
+1409541,munk pack keto nut and seed,71611,B08KFS44G1,us,S,1,1,train,test
+1409542,munk pack keto nut and seed,71611,B088B4RL8T,us,E,1,1,train,test
+1409543,munk pack keto nut and seed,71611,B00VXQGKRM,us,S,1,1,train,test
+1409544,munk pack keto nut and seed,71611,B06XSNLTHY,us,I,1,1,train,test
+1409545,munk pack keto nut and seed,71611,B07SB2MF5R,us,E,1,1,train,test
+1409546,munk pack keto nut and seed,71611,B07YSW8SF8,us,E,1,1,train,test
+1409547,munk pack keto nut and seed,71611,B08J1MM3F6,us,S,1,1,train,test
+1409548,munk pack keto nut and seed,71611,B084JCHRD7,us,S,1,1,train,test
+1409549,munk pack keto nut and seed,71611,B084JDBWZZ,us,E,1,1,train,test
+1409550,munk pack keto nut and seed,71611,B084JJXL1T,us,E,1,1,train,test
+1409551,munk pack keto nut and seed,71611,B07YSWHWN5,us,S,1,1,train,test
+1409552,munk pack keto nut and seed,71611,B084JTZXG6,us,S,1,1,train,test
+1409553,munk pack keto nut and seed,71611,B086G5J24S,us,E,1,1,train,test
+1409554,munk pack keto nut and seed,71611,B086G94P8R,us,S,1,1,train,test
+1409555,munk pack keto nut and seed,71611,B086TS6739,us,S,1,1,train,test
+1409556,munk pack keto nut and seed,71611,B086XMKL5H,us,S,1,1,train,test
+1409557,munk pack keto nut and seed,71611,B087G4CQP2,us,E,1,1,train,test
+1409558,munk pack keto nut and seed,71611,B084JPZT61,us,S,1,1,train,test
+1430823,necklace sets for women sterling silver with bracelets,72688,B07XJ3MP93,us,E,1,1,train,test
+1430824,necklace sets for women sterling silver with bracelets,72688,B07STXRCL3,us,I,1,1,train,test
+1430825,necklace sets for women sterling silver with bracelets,72688,B07KBY6FDT,us,E,1,1,train,test
+1430826,necklace sets for women sterling silver with bracelets,72688,B07K67QQDR,us,E,1,1,train,test
+1430827,necklace sets for women sterling silver with bracelets,72688,B07JW51R2V,us,E,1,1,train,test
+1430828,necklace sets for women sterling silver with bracelets,72688,B07H9PXL1C,us,E,1,1,train,test
+1430829,necklace sets for women sterling silver with bracelets,72688,B07DWRP5DG,us,I,1,1,train,test
+1430830,necklace sets for women sterling silver with bracelets,72688,B07QL515PZ,us,E,1,1,train,test
+1430831,necklace sets for women sterling silver with bracelets,72688,B07B2QCLPX,us,E,1,1,train,test
+1430832,necklace sets for women sterling silver with bracelets,72688,B0795C7V1W,us,S,1,1,train,test
+1430833,necklace sets for women sterling silver with bracelets,72688,B078WS75MM,us,S,1,1,train,test
+1430834,necklace sets for women sterling silver with bracelets,72688,B01MY0BZOU,us,E,1,1,train,test
+1430835,necklace sets for women sterling silver with bracelets,72688,B01CYTKHZM,us,S,1,1,train,test
+1430836,necklace sets for women sterling silver with bracelets,72688,B00NFIP3Z6,us,S,1,1,train,test
+1430837,necklace sets for women sterling silver with bracelets,72688,B00200K9HW,us,I,1,1,train,test
+1430838,necklace sets for women sterling silver with bracelets,72688,B07C8ZVTCQ,us,E,1,1,train,test
+1456505,no is not enough naomi klein,74072,9123944757,us,S,1,1,train,test
+1456506,no is not enough naomi klein,74072,9601433449,us,E,1,1,train,test
+1456507,no is not enough naomi klein,74072,B089WHXBRF,us,I,1,1,train,test
+1456508,no is not enough naomi klein,74072,B07V5KBLGT,us,I,1,1,train,test
+1456509,no is not enough naomi klein,74072,B087JYFV2X,us,I,1,1,train,test
+1456510,no is not enough naomi klein,74072,1944228012,us,I,1,1,train,test
+1456511,no is not enough naomi klein,74072,B07PJ19GZF,us,I,1,1,train,test
+1456512,no is not enough naomi klein,74072,1785151339,us,I,1,1,train,test
+1456513,no is not enough naomi klein,74072,0525655301,us,I,1,1,train,test
+1456514,no is not enough naomi klein,74072,1451697392,us,S,1,1,train,test
+1456515,no is not enough naomi klein,74072,0312427999,us,S,1,1,train,test
+1456516,no is not enough naomi klein,74072,0241982391,us,I,1,1,train,test
+1456517,no is not enough naomi klein,74072,0241492912,us,S,1,1,train,test
+1456518,no is not enough naomi klein,74072,0241398274,us,I,1,1,train,test
+1456519,no is not enough naomi klein,74072,0140447601,us,E,1,1,train,test
+1456520,no is not enough naomi klein,74072,1608468909,us,E,1,1,train,test
+1479943,ohio state leggings for women,75261,B07J5TYMXS,us,E,1,1,train,test
+1479944,ohio state leggings for women,75261,B07WX8B24F,us,E,1,1,train,test
+1479945,ohio state leggings for women,75261,B07TF74Y3G,us,E,1,1,train,test
+1479946,ohio state leggings for women,75261,B07T7XRVVK,us,S,1,1,train,test
+1479947,ohio state leggings for women,75261,B07PVLZS69,us,S,1,1,train,test
+1479948,ohio state leggings for women,75261,B07L8P8LXH,us,E,1,1,train,test
+1479949,ohio state leggings for women,75261,B07L8NBMWL,us,I,1,1,train,test
+1479950,ohio state leggings for women,75261,B075V7N27M,us,S,1,1,train,test
+1479951,ohio state leggings for women,75261,B0719PH7Y5,us,S,1,1,train,test
+1479952,ohio state leggings for women,75261,B0756ZN8QK,us,S,1,1,train,test
+1479953,ohio state leggings for women,75261,B0746Y2PFT,us,E,1,1,train,test
+1479954,ohio state leggings for women,75261,B07HNL6H85,us,E,1,1,train,test
+1479955,ohio state leggings for women,75261,B01N7F2IKH,us,S,1,1,train,test
+1479956,ohio state leggings for women,75261,B01G7F60OG,us,S,1,1,train,test
+1479957,ohio state leggings for women,75261,B01G26ORR2,us,S,1,1,train,test
+1479958,ohio state leggings for women,75261,B00R0DIKEI,us,S,1,1,train,test
+1487702,one punch man figpin,75664,B083198J8J,us,I,1,1,train,test
+1487703,one punch man figpin,75664,B08DYZFWNF,us,E,1,1,train,test
+1487704,one punch man figpin,75664,B07FP9RBPB,us,I,1,1,train,test
+1487705,one punch man figpin,75664,B08DYH149W,us,E,1,1,train,test
+1487706,one punch man figpin,75664,B078PGCVLV,us,I,1,1,train,test
+1487707,one punch man figpin,75664,B076DHSB5S,us,I,1,1,train,test
+1487708,one punch man figpin,75664,B0713MCQG5,us,E,1,1,train,test
+1487709,one punch man figpin,75664,B079C2T2K3,us,I,1,1,train,test
+1493711,orange votive candles bulk,75975,B01J3S32TU,us,E,1,1,train,test
+1493712,orange votive candles bulk,75975,B07XKD35P1,us,S,1,1,train,test
+1493713,orange votive candles bulk,75975,B07WTR5VNW,us,S,1,1,train,test
+1493714,orange votive candles bulk,75975,B07W59F63H,us,S,1,1,train,test
+1493715,orange votive candles bulk,75975,B07V2WFXZX,us,E,1,1,train,test
+1493716,orange votive candles bulk,75975,B07D7K4X7C,us,I,1,1,train,test
+1493717,orange votive candles bulk,75975,B01H84H13O,us,E,1,1,train,test
+1493718,orange votive candles bulk,75975,B01M3XCXLC,us,S,1,1,train,test
+1493719,orange votive candles bulk,75975,B013W3SG34,us,S,1,1,train,test
+1493720,orange votive candles bulk,75975,B00C15OQOS,us,S,1,1,train,test
+1493721,orange votive candles bulk,75975,B01AS6NAXO,us,I,1,1,train,test
+1493722,orange votive candles bulk,75975,B0092RSKRW,us,E,1,1,train,test
+1493723,orange votive candles bulk,75975,B009143KK8,us,E,1,1,train,test
+1493724,orange votive candles bulk,75975,B007L586LC,us,S,1,1,train,test
+1493725,orange votive candles bulk,75975,B002MFDOA4,us,E,1,1,train,test
+1493726,orange votive candles bulk,75975,B002MFD198,us,E,1,1,train,test
+1559147,petsability joint,79341,B07ND85PML,us,E,1,1,train,test
+1559148,petsability joint,79341,B07ND5WMVD,us,E,1,1,train,test
+1559149,petsability joint,79341,B07H7YS8KP,us,E,1,1,train,test
+1559150,petsability joint,79341,B07DQTF6XB,us,S,1,1,train,test
+1559151,petsability joint,79341,B07771H4J8,us,S,1,1,train,test
+1559152,petsability joint,79341,B01F1OFP2W,us,S,1,1,train,test
+1559153,petsability joint,79341,B00I4SURBW,us,E,1,1,train,test
+1559154,petsability joint,79341,B003ZWLFWW,us,S,1,1,train,test
+1559155,petsability joint,79341,B0038UBFV2,us,E,1,1,train,test
+1559156,petsability joint,79341,B0021L8WNS,us,S,1,1,train,test
+1559157,petsability joint,79341,B074VBZWF4,us,I,1,1,train,test
+1565593,piano accessories,79708,B0773R5QVY,us,E,1,1,train,test
+1565594,piano accessories,79708,B07K8FQFN8,us,E,1,1,train,test
+1565595,piano accessories,79708,B09F8Y2798,us,E,1,1,train,test
+1565596,piano accessories,79708,B079JJZXJ4,us,E,1,1,train,test
+1565597,piano accessories,79708,B07D6ZVDT6,us,C,1,1,train,test
+1565598,piano accessories,79708,B07BWLQSFP,us,E,1,1,train,test
+1565599,piano accessories,79708,B07MGHK7JY,us,E,1,1,train,test
+1565600,piano accessories,79708,B07DK7PDFH,us,E,1,1,train,test
+1565601,piano accessories,79708,B07Q396457,us,E,1,1,train,test
+1565602,piano accessories,79708,B086ZJ9NMJ,us,E,1,1,train,test
+1565603,piano accessories,79708,B07ZYZS9QW,us,I,1,1,train,test
+1565604,piano accessories,79708,B0862G4SJ9,us,E,1,1,train,test
+1565605,piano accessories,79708,B08CZMZFSQ,us,E,1,1,train,test
+1565606,piano accessories,79708,B08JY6XCMY,us,E,1,1,train,test
+1565607,piano accessories,79708,B08K35P6B2,us,E,1,1,train,test
+1565608,piano accessories,79708,B08V8TBMRT,us,I,1,1,train,test
+1565609,piano accessories,79708,B08ZHHYHHS,us,E,1,1,train,test
+1565610,piano accessories,79708,B07YCVFFL3,us,E,1,1,train,test
+1565611,piano accessories,79708,B07664BNF2,us,E,1,1,train,test
+1565612,piano accessories,79708,B01F8BY2AO,us,E,1,1,train,test
+1565613,piano accessories,79708,B073PZVSQ2,us,E,1,1,train,test
+1565614,piano accessories,79708,B07574VQPQ,us,E,1,1,train,test
+1565615,piano accessories,79708,B00006M1DG,us,I,1,1,train,test
+1565616,piano accessories,79708,B00063678K,us,E,1,1,train,test
+1565617,piano accessories,79708,B001OCGGEM,us,E,1,1,train,test
+1565618,piano accessories,79708,B004MDR1F8,us,I,1,1,train,test
+1565619,piano accessories,79708,B008PIVRY2,us,E,1,1,train,test
+1565620,piano accessories,79708,B00I362NXU,us,E,1,1,train,test
+1565621,piano accessories,79708,B00LWGBP5K,us,E,1,1,train,test
+1565622,piano accessories,79708,B0077BLEBY,us,E,1,1,train,test
+1565623,piano accessories,79708,B00M9K7L8S,us,I,1,1,train,test
+1565624,piano accessories,79708,B00LWGLM08,us,C,1,1,train,test
+1565625,piano accessories,79708,B01N1WH6MG,us,E,1,1,train,test
+1565626,piano accessories,79708,B01LX1H4HC,us,E,1,1,train,test
+1565627,piano accessories,79708,B01IP8C04M,us,E,1,1,train,test
+1565628,piano accessories,79708,B01N6ZJH96,us,E,1,1,train,test
+1565629,piano accessories,79708,B01CZTOPSG,us,E,1,1,train,test
+1565630,piano accessories,79708,B00PUV6JF4,us,E,1,1,train,test
+1565631,piano accessories,79708,B01HBJ7B3Q,us,C,1,1,train,test
+1622052,post driver manual,82629,B081DHK4L8,us,I,1,1,train,test
+1622053,post driver manual,82629,B08398WXG5,us,I,1,1,train,test
+1622054,post driver manual,82629,B085DK9TQH,us,E,1,1,train,test
+1622055,post driver manual,82629,B086VNLCPW,us,E,1,1,train,test
+1622056,post driver manual,82629,B088KSPR64,us,I,1,1,train,test
+1622057,post driver manual,82629,B0896Y16QY,us,E,1,1,train,test
+1622058,post driver manual,82629,B08FRHY7JK,us,E,1,1,train,test
+1622059,post driver manual,82629,B08MPW49L3,us,E,1,1,train,test
+1622060,post driver manual,82629,B08V1NPTS9,us,I,1,1,train,test
+1622061,post driver manual,82629,B07WSDBY56,us,E,1,1,train,test
+1622062,post driver manual,82629,B08VF4MWSV,us,S,1,1,train,test
+1622063,post driver manual,82629,B08X47SFZQ,us,E,1,1,train,test
+1622064,post driver manual,82629,B08X9WNZX3,us,E,1,1,train,test
+1622065,post driver manual,82629,B0915WV73B,us,E,1,1,train,test
+1622066,post driver manual,82629,B0969CCYBT,us,E,1,1,train,test
+1622067,post driver manual,82629,B097HPXHTK,us,E,1,1,train,test
+1622068,post driver manual,82629,B097T63H78,us,E,1,1,train,test
+1622069,post driver manual,82629,B08PVQDNVJ,us,E,1,1,train,test
+1622070,post driver manual,82629,B07TTVVTK5,us,E,1,1,train,test
+1622071,post driver manual,82629,B08BYGFPKT,us,I,1,1,train,test
+1622072,post driver manual,82629,B07J4PFMSM,us,E,1,1,train,test
+1622073,post driver manual,82629,B07K468B5N,us,I,1,1,train,test
+1622074,post driver manual,82629,B000A1AB7G,us,E,1,1,train,test
+1622075,post driver manual,82629,B000R9MTSU,us,E,1,1,train,test
+1622076,post driver manual,82629,B0015SBILG,us,I,1,1,train,test
+1622077,post driver manual,82629,B003XU7MK0,us,E,1,1,train,test
+1622078,post driver manual,82629,B004RDF28Q,us,E,1,1,train,test
+1622079,post driver manual,82629,B00L3HUOJ6,us,I,1,1,train,test
+1622080,post driver manual,82629,B01FI4SGTY,us,E,1,1,train,test
+1622081,post driver manual,82629,B01FI4SV7Q,us,I,1,1,train,test
+1622082,post driver manual,82629,B00AM3UR1C,us,I,1,1,train,test
+1622083,post driver manual,82629,B01N06GYWX,us,E,1,1,train,test
+1622084,post driver manual,82629,B01ND3ZIBL,us,I,1,1,train,test
+1622085,post driver manual,82629,B06XHSS5YD,us,I,1,1,train,test
+1622086,post driver manual,82629,B0725YQ3QS,us,E,1,1,train,test
+1622087,post driver manual,82629,B073DBLL29,us,I,1,1,train,test
+1622088,post driver manual,82629,B075Y45F2W,us,I,1,1,train,test
+1622089,post driver manual,82629,B07C84D9GC,us,E,1,1,train,test
+1622090,post driver manual,82629,B01H7I9GBQ,us,E,1,1,train,test
+1622091,post driver manual,82629,B07CYPVVZZ,us,I,1,1,train,test
+1637435,printers without ink,83434,B09F9CLFQ3,us,E,1,1,train,test
+1637436,printers without ink,83434,B09CKVHWVL,us,E,1,1,train,test
+1637437,printers without ink,83434,B094QCFKTZ,us,E,1,1,train,test
+1637438,printers without ink,83434,B08XYRDKDV,us,S,1,1,train,test
+1637439,printers without ink,83434,B08WC8VD8G,us,E,1,1,train,test
+1637440,printers without ink,83434,B08P3ZKLPH,us,E,1,1,train,test
+1637441,printers without ink,83434,B08D7J1S34,us,E,1,1,train,test
+1637442,printers without ink,83434,B07XMJTWXZ,us,S,1,1,train,test
+1637443,printers without ink,83434,B07RQB5WJW,us,E,1,1,train,test
+1637444,printers without ink,83434,B07PV62DWZ,us,E,1,1,train,test
+1637445,printers without ink,83434,B07GDHFLYC,us,S,1,1,train,test
+1637446,printers without ink,83434,B0763WDSYZ,us,E,1,1,train,test
+1637447,printers without ink,83434,B01NA8VVT3,us,S,1,1,train,test
+1637448,printers without ink,83434,B01MA3EYC5,us,E,1,1,train,test
+1637449,printers without ink,83434,B01FS2W6I8,us,I,1,1,train,test
+1637450,printers without ink,83434,B07XGNLFJC,us,S,1,1,train,test
+1672574,radar gun for baseball,85242,B07Z7W9V45,us,C,1,1,train,test
+1672575,radar gun for baseball,85242,B07T44MJ7L,us,I,1,1,train,test
+1672576,radar gun for baseball,85242,B07H7SN831,us,E,1,1,train,test
+1672577,radar gun for baseball,85242,B07CMH9SVP,us,I,1,1,train,test
+1672578,radar gun for baseball,85242,B07DC48V5H,us,I,1,1,train,test
+1672579,radar gun for baseball,85242,B083XH2W1B,us,E,1,1,train,test
+1672580,radar gun for baseball,85242,B079Q131YX,us,I,1,1,train,test
+1672581,radar gun for baseball,85242,B07DCWBGBX,us,E,1,1,train,test
+1672582,radar gun for baseball,85242,B08F9SBX7X,us,C,1,1,train,test
+1672583,radar gun for baseball,85242,B08PTQZP3Y,us,E,1,1,train,test
+1672584,radar gun for baseball,85242,B08PBK2C6G,us,E,1,1,train,test
+1672585,radar gun for baseball,85242,B08PDNFP3D,us,E,1,1,train,test
+1672586,radar gun for baseball,85242,B08QM743D4,us,E,1,1,train,test
+1672587,radar gun for baseball,85242,B092M6PJQL,us,E,1,1,train,test
+1672588,radar gun for baseball,85242,B095CCFCF6,us,I,1,1,train,test
+1672589,radar gun for baseball,85242,B099NNN5P9,us,E,1,1,train,test
+1672590,radar gun for baseball,85242,B09G9XXHRF,us,S,1,1,train,test
+1672591,radar gun for baseball,85242,B06XPNJZK6,us,C,1,1,train,test
+1672592,radar gun for baseball,85242,B08JQNR4NH,us,E,1,1,train,test
+1672593,radar gun for baseball,85242,B01KD00Q5A,us,E,1,1,train,test
+1672594,radar gun for baseball,85242,B07D7G1T7L,us,E,1,1,train,test
+1672595,radar gun for baseball,85242,B00TLFGUGS,us,E,1,1,train,test
+1672596,radar gun for baseball,85242,B00WVTOTY6,us,S,1,1,train,test
+1672597,radar gun for baseball,85242,B0002X7V1Q,us,E,1,1,train,test
+1672598,radar gun for baseball,85242,B0002X8UGG,us,E,1,1,train,test
+1672599,radar gun for baseball,85242,B0007DHT8Q,us,I,1,1,train,test
+1672600,radar gun for baseball,85242,B000BX4O0I,us,S,1,1,train,test
+1672601,radar gun for baseball,85242,B000JP8OY0,us,E,1,1,train,test
+1672602,radar gun for baseball,85242,B00124P7SI,us,E,1,1,train,test
+1672603,radar gun for baseball,85242,B0018PYN1S,us,S,1,1,train,test
+1672604,radar gun for baseball,85242,B001916GRK,us,I,1,1,train,test
+1672605,radar gun for baseball,85242,B016J82VN0,us,C,1,1,train,test
+1672606,radar gun for baseball,85242,B002XT9A7K,us,S,1,1,train,test
+1672607,radar gun for baseball,85242,B002MA7Y1Y,us,I,1,1,train,test
+1672608,radar gun for baseball,85242,B00KGHXUZ4,us,S,1,1,train,test
+1672609,radar gun for baseball,85242,B00ISCXPJA,us,E,1,1,train,test
+1672610,radar gun for baseball,85242,B00PY3R6UU,us,E,1,1,train,test
+1672611,radar gun for baseball,85242,B0069A9ZS8,us,E,1,1,train,test
+1672612,radar gun for baseball,85242,B0063HE2SA,us,E,1,1,train,test
+1672613,radar gun for baseball,85242,B004EHUK5A,us,E,1,1,train,test
+1672614,radar gun for baseball,85242,B008ER9NYA,us,E,1,1,train,test
+1685053,rd smock dresses,85894,B07XJTHDSK,us,S,1,1,train,test
+1685054,rd smock dresses,85894,B07SZLZQB6,us,S,1,1,train,test
+1685055,rd smock dresses,85894,B07RL5L6YY,us,S,1,1,train,test
+1685056,rd smock dresses,85894,B07PQJ4LBN,us,S,1,1,train,test
+1685057,rd smock dresses,85894,B07PP34GMW,us,S,1,1,train,test
+1685058,rd smock dresses,85894,B07NXWJYYS,us,S,1,1,train,test
+1685059,rd smock dresses,85894,B07NM859G4,us,S,1,1,train,test
+1685060,rd smock dresses,85894,B07MZ5WDLT,us,S,1,1,train,test
+1685061,rd smock dresses,85894,B07GW8LQT2,us,S,1,1,train,test
+1685062,rd smock dresses,85894,B079HMJDP1,us,S,1,1,train,test
+1685063,rd smock dresses,85894,B075R5FV5C,us,S,1,1,train,test
+1685064,rd smock dresses,85894,B01NB8K92E,us,S,1,1,train,test
+1685065,rd smock dresses,85894,B01N5Q064A,us,S,1,1,train,test
+1685066,rd smock dresses,85894,B01D1ZERF4,us,S,1,1,train,test
+1685067,rd smock dresses,85894,B016MZP6BY,us,I,1,1,train,test
+1685068,rd smock dresses,85894,B07B8P48CC,us,E,1,1,train,test
+1696467,red sox glasses,86489,B07VYVH3GB,us,I,1,1,train,test
+1696468,red sox glasses,86489,B07QMY61R8,us,S,1,1,train,test
+1696469,red sox glasses,86489,B07K1PWNJW,us,I,1,1,train,test
+1696470,red sox glasses,86489,B07K1PSVJF,us,I,1,1,train,test
+1696471,red sox glasses,86489,B07K1NNDJS,us,I,1,1,train,test
+1696472,red sox glasses,86489,B07CVQ17T2,us,S,1,1,train,test
+1696473,red sox glasses,86489,B073ZMF8V9,us,E,1,1,train,test
+1696474,red sox glasses,86489,B01EP5NQAQ,us,I,1,1,train,test
+1696475,red sox glasses,86489,B00IKJ090E,us,I,1,1,train,test
+1696476,red sox glasses,86489,B00GEJFZP6,us,I,1,1,train,test
+1696477,red sox glasses,86489,B009UH2UR0,us,E,1,1,train,test
+1696478,red sox glasses,86489,B008NU3BAK,us,I,1,1,train,test
+1696479,red sox glasses,86489,B006A1W2O0,us,S,1,1,train,test
+1696480,red sox glasses,86489,B004T4WIXA,us,S,1,1,train,test
+1696481,red sox glasses,86489,B004OPXMH0,us,I,1,1,train,test
+1696482,red sox glasses,86489,B000SDDIKI,us,I,1,1,train,test
+1712768,retrograde hausler,87341,B0861L7NS7,us,E,1,1,train,test
+1712769,retrograde hausler,87341,B07R95PLCV,us,S,1,1,train,test
+1712770,retrograde hausler,87341,B07M8SYS2J,us,S,1,1,train,test
+1712771,retrograde hausler,87341,B079RTJGCM,us,I,1,1,train,test
+1712772,retrograde hausler,87341,B01G9GSS84,us,S,1,1,train,test
+1712773,retrograde hausler,87341,B00C32RHMC,us,S,1,1,train,test
+1712774,retrograde hausler,87341,B001HY3B3G,us,S,1,1,train,test
+1712775,retrograde hausler,87341,B01N1ZJ41Y,us,S,1,1,train,test
+1719437,rigid wet saw,87671,B078J22VN5,us,E,1,1,train,test
+1719438,rigid wet saw,87671,B078VVGLM1,us,S,1,1,train,test
+1719439,rigid wet saw,87671,B07C21VL9J,us,S,1,1,train,test
+1719440,rigid wet saw,87671,B07G2Q15VF,us,E,1,1,train,test
+1719441,rigid wet saw,87671,B07G7F7CGZ,us,I,1,1,train,test
+1719442,rigid wet saw,87671,B07HNTP5N2,us,E,1,1,train,test
+1719443,rigid wet saw,87671,B07PQ21V6T,us,E,1,1,train,test
+1719444,rigid wet saw,87671,B07S1MXRRK,us,S,1,1,train,test
+1719445,rigid wet saw,87671,B089KWG1JR,us,I,1,1,train,test
+1719446,rigid wet saw,87671,B0845ZWHDZ,us,S,1,1,train,test
+1719447,rigid wet saw,87671,B08526D2PK,us,E,1,1,train,test
+1719448,rigid wet saw,87671,B08HFHB1JQ,us,E,1,1,train,test
+1719449,rigid wet saw,87671,B08JX3P3NF,us,E,1,1,train,test
+1719450,rigid wet saw,87671,B095Y1RGYT,us,I,1,1,train,test
+1719451,rigid wet saw,87671,B08L1F9TG6,us,E,1,1,train,test
+1719452,rigid wet saw,87671,B08L6NKLJV,us,I,1,1,train,test
+1719453,rigid wet saw,87671,B01N3T6U3Z,us,S,1,1,train,test
+1719454,rigid wet saw,87671,B081D7JG1V,us,I,1,1,train,test
+1719455,rigid wet saw,87671,B01IRPRR4Q,us,E,1,1,train,test
+1719456,rigid wet saw,87671,B08KFNNJF5,us,E,1,1,train,test
+1719457,rigid wet saw,87671,B0162W9Q3Q,us,I,1,1,train,test
+1719458,rigid wet saw,87671,B01F3F7JFK,us,E,1,1,train,test
+1719459,rigid wet saw,87671,B000J0BG7W,us,E,1,1,train,test
+1719460,rigid wet saw,87671,B0013L7YTK,us,I,1,1,train,test
+1719461,rigid wet saw,87671,B001HWMS2S,us,S,1,1,train,test
+1719462,rigid wet saw,87671,B001LYMU98,us,I,1,1,train,test
+1719463,rigid wet saw,87671,B003HIWR08,us,S,1,1,train,test
+1719464,rigid wet saw,87671,B005K2UJV8,us,E,1,1,train,test
+1719465,rigid wet saw,87671,B00EFEOLZC,us,C,1,1,train,test
+1719466,rigid wet saw,87671,B00F3BH0Z4,us,C,1,1,train,test
+1719467,rigid wet saw,87671,B003IEL9O6,us,I,1,1,train,test
+1719468,rigid wet saw,87671,B00J21SL4A,us,S,1,1,train,test
+1719469,rigid wet saw,87671,B00F3BHIHY,us,C,1,1,train,test
+1719470,rigid wet saw,87671,B00QMKACU0,us,C,1,1,train,test
+1719471,rigid wet saw,87671,B00NOBHMEY,us,S,1,1,train,test
+1719472,rigid wet saw,87671,B00KB7L1X2,us,C,1,1,train,test
+1719473,rigid wet saw,87671,B00Z7VG5UG,us,E,1,1,train,test
+1719474,rigid wet saw,87671,B00J5S92NO,us,C,1,1,train,test
+1719475,rigid wet saw,87671,B00J5S8XXY,us,C,1,1,train,test
+1719476,rigid wet saw,87671,B00KB461HQ,us,S,1,1,train,test
+1814039,shitgun shells,92646,B074G41QFC,us,I,1,1,train,test
+1814040,shitgun shells,92646,B07WHN74TW,us,S,1,1,train,test
+1814041,shitgun shells,92646,B07QQQP8B6,us,E,1,1,train,test
+1814042,shitgun shells,92646,B07MTH5YSG,us,E,1,1,train,test
+1814043,shitgun shells,92646,B07F9DX15M,us,E,1,1,train,test
+1814044,shitgun shells,92646,B074MH789S,us,E,1,1,train,test
+1814045,shitgun shells,92646,B00RG6RI56,us,E,1,1,train,test
+1814046,shitgun shells,92646,B00CNMNP2S,us,S,1,1,train,test
+1814047,shitgun shells,92646,B0062CAGXQ,us,E,1,1,train,test
+1814048,shitgun shells,92646,B0048KAHOW,us,S,1,1,train,test
+1814049,shitgun shells,92646,B002D98FJY,us,E,1,1,train,test
+1814050,shitgun shells,92646,B001F0GF4E,us,E,1,1,train,test
+1814051,shitgun shells,92646,B000Q06A76,us,E,1,1,train,test
+1814052,shitgun shells,92646,B000IL8KI0,us,E,1,1,train,test
+1814053,shitgun shells,92646,B0000C53GH,us,E,1,1,train,test
+1814054,shitgun shells,92646,B00BWAFL4W,us,E,1,1,train,test
+1833354,simple neck design for suits,93655,B07ZGDGMYH,us,E,1,1,train,test
+1833355,simple neck design for suits,93655,B0814NZ338,us,E,1,1,train,test
+1833356,simple neck design for suits,93655,B086PLPW8P,us,I,1,1,train,test
+1833357,simple neck design for suits,93655,B086PP82WY,us,I,1,1,train,test
+1833358,simple neck design for suits,93655,B08HCTM5Y9,us,I,1,1,train,test
+1833359,simple neck design for suits,93655,B08K7C171C,us,I,1,1,train,test
+1833360,simple neck design for suits,93655,B08PF6G5CX,us,E,1,1,train,test
+1833361,simple neck design for suits,93655,B0928R3ZB5,us,E,1,1,train,test
+1833362,simple neck design for suits,93655,B08V5RX4VL,us,E,1,1,train,test
+1833363,simple neck design for suits,93655,B091YHJMZ8,us,E,1,1,train,test
+1833364,simple neck design for suits,93655,B07Y4VVYGX,us,C,1,1,train,test
+1833365,simple neck design for suits,93655,B095LPBRC1,us,E,1,1,train,test
+1833366,simple neck design for suits,93655,B097YGS2HN,us,I,1,1,train,test
+1833367,simple neck design for suits,93655,B09C2747MC,us,E,1,1,train,test
+1833368,simple neck design for suits,93655,B08T1RB4BB,us,S,1,1,train,test
+1833369,simple neck design for suits,93655,B07Y2QS45T,us,E,1,1,train,test
+1833370,simple neck design for suits,93655,B09FM5P52Y,us,I,1,1,train,test
+1833371,simple neck design for suits,93655,B07TB7SFDS,us,I,1,1,train,test
+1833372,simple neck design for suits,93655,B07W88469Z,us,E,1,1,train,test
+1833373,simple neck design for suits,93655,B001URKV0G,us,I,1,1,train,test
+1833374,simple neck design for suits,93655,B01N6ASWAU,us,I,1,1,train,test
+1833375,simple neck design for suits,93655,B06XT1B4BB,us,I,1,1,train,test
+1833376,simple neck design for suits,93655,B07544GVQC,us,E,1,1,train,test
+1833377,simple neck design for suits,93655,B0761T7H16,us,I,1,1,train,test
+1833378,simple neck design for suits,93655,B07BHFJ9GZ,us,I,1,1,train,test
+1833379,simple neck design for suits,93655,B06XWZ5FN5,us,I,1,1,train,test
+1833380,simple neck design for suits,93655,B07GPT4XG1,us,E,1,1,train,test
+1833381,simple neck design for suits,93655,B07GXVMG6F,us,I,1,1,train,test
+1833382,simple neck design for suits,93655,B07GZX7T9H,us,I,1,1,train,test
+1833383,simple neck design for suits,93655,B07MDJFR1S,us,I,1,1,train,test
+1833384,simple neck design for suits,93655,B07MPWS8CR,us,E,1,1,train,test
+1833385,simple neck design for suits,93655,B07T3QK43X,us,I,1,1,train,test
+1833386,simple neck design for suits,93655,B07DX43NGG,us,I,1,1,train,test
+1843779,skull plates,94210,B07VSDPG2P,us,E,1,1,train,test
+1843780,skull plates,94210,B07VCN44SH,us,E,1,1,train,test
+1843781,skull plates,94210,B07RXLST3T,us,I,1,1,train,test
+1843782,skull plates,94210,B07LGX4NVV,us,I,1,1,train,test
+1843783,skull plates,94210,B07HKP7VN9,us,E,1,1,train,test
+1843784,skull plates,94210,B07H1HMSDP,us,E,1,1,train,test
+1843785,skull plates,94210,B07CP4NHFV,us,I,1,1,train,test
+1843786,skull plates,94210,B075VD6RDP,us,E,1,1,train,test
+1843787,skull plates,94210,B071XTZPT7,us,E,1,1,train,test
+1843788,skull plates,94210,B01M7Y6N2L,us,S,1,1,train,test
+1843789,skull plates,94210,B01IT8926W,us,I,1,1,train,test
+1843790,skull plates,94210,B01I5NI0FU,us,E,1,1,train,test
+1843791,skull plates,94210,B01FOE4962,us,E,1,1,train,test
+1843792,skull plates,94210,B00QH06Q3C,us,E,1,1,train,test
+1843793,skull plates,94210,B00AWYCLE2,us,E,1,1,train,test
+1843794,skull plates,94210,B06XGYMDTC,us,I,1,1,train,test
+1875058,solar light without motion sensor,95850,B08XJXDDS9,us,E,1,1,train,test
+1875059,solar light without motion sensor,95850,B08XK47HCG,us,S,1,1,train,test
+1875060,solar light without motion sensor,95850,B08XZMWJZ2,us,S,1,1,train,test
+1875061,solar light without motion sensor,95850,B08ZCVZ7YH,us,I,1,1,train,test
+1875062,solar light without motion sensor,95850,B091XT7TWV,us,E,1,1,train,test
+1875063,solar light without motion sensor,95850,B091Y3BJ9V,us,E,1,1,train,test
+1875064,solar light without motion sensor,95850,B092ZHH6LM,us,I,1,1,train,test
+1875065,solar light without motion sensor,95850,B094CBPHGZ,us,E,1,1,train,test
+1875066,solar light without motion sensor,95850,B098NLVC3C,us,S,1,1,train,test
+1875067,solar light without motion sensor,95850,B0967TSRBM,us,E,1,1,train,test
+1875068,solar light without motion sensor,95850,B098NBXTFW,us,S,1,1,train,test
+1875069,solar light without motion sensor,95850,B0991PQDTF,us,I,1,1,train,test
+1875070,solar light without motion sensor,95850,B09BC39FKX,us,S,1,1,train,test
+1875071,solar light without motion sensor,95850,B09BN7VHZQ,us,S,1,1,train,test
+1875072,solar light without motion sensor,95850,B09CYHTBP1,us,I,1,1,train,test
+1875073,solar light without motion sensor,95850,B09GXGD1HB,us,E,1,1,train,test
+1875074,solar light without motion sensor,95850,B08QN63LFS,us,S,1,1,train,test
+1875075,solar light without motion sensor,95850,B095SXC1SZ,us,S,1,1,train,test
+1875076,solar light without motion sensor,95850,B08Q3791H5,us,E,1,1,train,test
+1875077,solar light without motion sensor,95850,B0978LK6HX,us,I,1,1,train,test
+1875078,solar light without motion sensor,95850,B08L66BT5N,us,I,1,1,train,test
+1875079,solar light without motion sensor,95850,B071HW515B,us,I,1,1,train,test
+1875080,solar light without motion sensor,95850,B07928DQ98,us,E,1,1,train,test
+1875081,solar light without motion sensor,95850,B07H429ZRT,us,S,1,1,train,test
+1875082,solar light without motion sensor,95850,B07H95PDXN,us,E,1,1,train,test
+1875083,solar light without motion sensor,95850,B07P65D4V1,us,E,1,1,train,test
+1875084,solar light without motion sensor,95850,B07S5HK3T9,us,E,1,1,train,test
+1875085,solar light without motion sensor,95850,B08LVGKFHR,us,E,1,1,train,test
+1875086,solar light without motion sensor,95850,B07TGCGQNB,us,E,1,1,train,test
+1875087,solar light without motion sensor,95850,B07TW7DZQZ,us,I,1,1,train,test
+1875088,solar light without motion sensor,95850,B07NWF5JG6,us,S,1,1,train,test
+1875089,solar light without motion sensor,95850,B07XJM9JRD,us,E,1,1,train,test
+1875090,solar light without motion sensor,95850,B082KR3QV1,us,S,1,1,train,test
+1875091,solar light without motion sensor,95850,B0868GS77L,us,S,1,1,train,test
+1875092,solar light without motion sensor,95850,B087DW3B5Q,us,I,1,1,train,test
+1875093,solar light without motion sensor,95850,B089YTNQTZ,us,E,1,1,train,test
+1875094,solar light without motion sensor,95850,B08HMXNCZZ,us,S,1,1,train,test
+1875095,solar light without motion sensor,95850,B08JHYXZ87,us,E,1,1,train,test
+1875096,solar light without motion sensor,95850,B08K4M7NDX,us,I,1,1,train,test
+1875097,solar light without motion sensor,95850,B07VPPDM63,us,I,1,1,train,test
+1892215,spider spinner spinner,96749,B0838W1PPW,us,I,1,1,train,test
+1892216,spider spinner spinner,96749,B07Y4QR6B3,us,I,1,1,train,test
+1892217,spider spinner spinner,96749,B07RRGF3VH,us,I,1,1,train,test
+1892218,spider spinner spinner,96749,B07HBL82CF,us,E,1,1,train,test
+1892219,spider spinner spinner,96749,B07FN2G4P5,us,E,1,1,train,test
+1892220,spider spinner spinner,96749,B07DFXXJV9,us,I,1,1,train,test
+1892221,spider spinner spinner,96749,B07BHGD854,us,I,1,1,train,test
+1892222,spider spinner spinner,96749,B07B12ZHVV,us,I,1,1,train,test
+1892223,spider spinner spinner,96749,B00001QECA,us,S,1,1,train,test
+1892224,spider spinner spinner,96749,B074B925VJ,us,I,1,1,train,test
+1892225,spider spinner spinner,96749,B072BWCRBH,us,I,1,1,train,test
+1892226,spider spinner spinner,96749,B01KR3HXEA,us,I,1,1,train,test
+1892227,spider spinner spinner,96749,B01HWSQIGM,us,I,1,1,train,test
+1892228,spider spinner spinner,96749,B00YPQW8A0,us,I,1,1,train,test
+1892229,spider spinner spinner,96749,B00CLC764I,us,S,1,1,train,test
+1892230,spider spinner spinner,96749,B074BCMTHZ,us,I,1,1,train,test
+1940513,super red riding hood,99341,B08CZ2GZ91,us,I,1,1,train,test
+1940514,super red riding hood,99341,B07WHJ6LG8,us,E,1,1,train,test
+1940515,super red riding hood,99341,B07VRPPNLC,us,E,1,1,train,test
+1940516,super red riding hood,99341,B07VP2PXQB,us,E,1,1,train,test
+1940517,super red riding hood,99341,B07V6F8M1M,us,E,1,1,train,test
+1940518,super red riding hood,99341,B07QLJNN38,us,I,1,1,train,test
+1940519,super red riding hood,99341,B07Q5V9BMD,us,C,1,1,train,test
+1940520,super red riding hood,99341,B0764GR69L,us,I,1,1,train,test
+1940521,super red riding hood,99341,B00JLDXRES,us,I,1,1,train,test
+1940522,super red riding hood,99341,1434296547,us,E,1,1,train,test
+1940523,super red riding hood,99341,1680524488,us,E,1,1,train,test
+1940524,super red riding hood,99341,1404870466,us,S,1,1,train,test
+1940525,super red riding hood,99341,1338160176,us,E,1,1,train,test
+1940526,super red riding hood,99341,0689821913,us,S,1,1,train,test
+1940527,super red riding hood,99341,0142500704,us,I,1,1,train,test
+1940528,super red riding hood,99341,B07FQG67NC,us,E,1,1,train,test
+1940529,super red riding hood,99341,B00CGVV5D2,us,E,1,1,train,test
+1940530,super red riding hood,99341,1577681983,us,S,1,1,train,test
+1940531,super red riding hood,99341,B00JLDWQWM,us,I,1,1,train,test
+1992443,the expanse season 1,101960,B077MNWPH7,us,I,1,1,train,test
+1992444,the expanse season 1,101960,B08B4X8C1X,us,E,1,1,train,test
+1992445,the expanse season 1,101960,B08B4WK6NL,us,S,1,1,train,test
+1992446,the expanse season 1,101960,B07L9J2QYS,us,I,1,1,train,test
+1992447,the expanse season 1,101960,B07CJYVPL6,us,I,1,1,train,test
+1992448,the expanse season 1,101960,B0797HB65P,us,I,1,1,train,test
+1992449,the expanse season 1,101960,B0787J6S7X,us,I,1,1,train,test
+1992450,the expanse season 1,101960,B074PGS7SS,us,I,1,1,train,test
+1992451,the expanse season 1,101960,B01I5SDMHG,us,I,1,1,train,test
+1992452,the expanse season 1,101960,B074HSYKX9,us,I,1,1,train,test
+1992453,the expanse season 1,101960,B01MXSSWW0,us,I,1,1,train,test
+1992454,the expanse season 1,101960,B01D9C7C2E,us,I,1,1,train,test
+1992455,the expanse season 1,101960,B00YCVC83K,us,I,1,1,train,test
+1992456,the expanse season 1,101960,B00B8QQU2M,us,I,1,1,train,test
+1992457,the expanse season 1,101960,B000U6DU92,us,I,1,1,train,test
+1992458,the expanse season 1,101960,B074K13918,us,I,1,1,train,test
+1994361,the highly sensitive child by elaine aron,102072,1683731190,us,I,1,1,train,test
+1994362,the highly sensitive child by elaine aron,102072,B08573QVVN,us,I,1,1,train,test
+1994363,the highly sensitive child by elaine aron,102072,B07H8Q7Z2F,us,E,1,1,train,test
+1994364,the highly sensitive child by elaine aron,102072,B00GT1YES8,us,E,1,1,train,test
+1994365,the highly sensitive child by elaine aron,102072,1985862522,us,I,1,1,train,test
+1994366,the highly sensitive child by elaine aron,102072,1683731220,us,I,1,1,train,test
+1994367,the highly sensitive child by elaine aron,102072,1542723019,us,E,1,1,train,test
+1994368,the highly sensitive child by elaine aron,102072,1683730755,us,I,1,1,train,test
+1994369,the highly sensitive child by elaine aron,102072,1452566925,us,I,1,1,train,test
+1994370,the highly sensitive child by elaine aron,102072,1507880022,us,E,1,1,train,test
+1994371,the highly sensitive child by elaine aron,102072,0806540583,us,E,1,1,train,test
+1994372,the highly sensitive child by elaine aron,102072,0767908724,us,E,1,1,train,test
+1994373,the highly sensitive child by elaine aron,102072,0767903374,us,E,1,1,train,test
+1994374,the highly sensitive child by elaine aron,102072,0767903366,us,E,1,1,train,test
+1994375,the highly sensitive child by elaine aron,102072,0553386697,us,I,1,1,train,test
+1994376,the highly sensitive child by elaine aron,102072,0553062182,us,E,1,1,train,test
+2040464,toy brock,104498,B00Y7R9FWQ,us,I,1,1,train,test
+2040465,toy brock,104498,B07XC3JL5D,us,E,1,1,train,test
+2040466,toy brock,104498,B0777SJHQX,us,E,1,1,train,test
+2040467,toy brock,104498,B01CH4H3GU,us,S,1,1,train,test
+2040468,toy brock,104498,B016API1M2,us,E,1,1,train,test
+2040469,toy brock,104498,B086P77ZPT,us,S,1,1,train,test
+2040470,toy brock,104498,B010TFEOCK,us,C,1,1,train,test
+2040471,toy brock,104498,B00U8O6IFO,us,I,1,1,train,test
+2040472,toy brock,104498,B0052BGJT8,us,I,1,1,train,test
+2040473,toy brock,104498,B00EUBD14C,us,S,1,1,train,test
+2040474,toy brock,104498,B009AYFPMU,us,E,1,1,train,test
+2040475,toy brock,104498,B002VCPFNC,us,S,1,1,train,test
+2040476,toy brock,104498,0760345945,us,E,1,1,train,test
+2040477,toy brock,104498,0760326363,us,E,1,1,train,test
+2040478,toy brock,104498,0451524934,us,I,1,1,train,test
+2040479,toy brock,104498,B00OMGDDX4,us,S,1,1,train,test
+2049912,travel keurig coffee maker mini with case,105006,B08F14V2K8,us,E,1,1,train,test
+2049913,travel keurig coffee maker mini with case,105006,B0892V8JT8,us,S,1,1,train,test
+2049914,travel keurig coffee maker mini with case,105006,B088WMVG9D,us,S,1,1,train,test
+2049915,travel keurig coffee maker mini with case,105006,B088TH196W,us,S,1,1,train,test
+2049916,travel keurig coffee maker mini with case,105006,B088TVQ3RX,us,E,1,1,train,test
+2049917,travel keurig coffee maker mini with case,105006,B08FQTFM71,us,S,1,1,train,test
+2049918,travel keurig coffee maker mini with case,105006,B07ZHNDYDY,us,S,1,1,train,test
+2049919,travel keurig coffee maker mini with case,105006,B088TW4FSR,us,C,1,1,train,test
+2049920,travel keurig coffee maker mini with case,105006,B08HJZBHSQ,us,S,1,1,train,test
+2049921,travel keurig coffee maker mini with case,105006,B08V8C8N42,us,S,1,1,train,test
+2049922,travel keurig coffee maker mini with case,105006,B08MSXLQVR,us,S,1,1,train,test
+2049923,travel keurig coffee maker mini with case,105006,B08QXLK6RG,us,S,1,1,train,test
+2049924,travel keurig coffee maker mini with case,105006,B0946WWM18,us,C,1,1,train,test
+2049925,travel keurig coffee maker mini with case,105006,B09517JN34,us,S,1,1,train,test
+2049926,travel keurig coffee maker mini with case,105006,B095PMHTL8,us,S,1,1,train,test
+2049927,travel keurig coffee maker mini with case,105006,B09715G57M,us,S,1,1,train,test
+2049928,travel keurig coffee maker mini with case,105006,B098BGHYN6,us,E,1,1,train,test
+2049929,travel keurig coffee maker mini with case,105006,B07XYTHGYK,us,S,1,1,train,test
+2049930,travel keurig coffee maker mini with case,105006,B08L62KZSD,us,E,1,1,train,test
+2049931,travel keurig coffee maker mini with case,105006,B0973YH74Z,us,E,1,1,train,test
+2049932,travel keurig coffee maker mini with case,105006,B07X97CTHQ,us,E,1,1,train,test
+2049933,travel keurig coffee maker mini with case,105006,B07N3GM2N2,us,S,1,1,train,test
+2049934,travel keurig coffee maker mini with case,105006,B07P5W3J29,us,S,1,1,train,test
+2049935,travel keurig coffee maker mini with case,105006,B004978NKY,us,E,1,1,train,test
+2049936,travel keurig coffee maker mini with case,105006,B00AEUF4NO,us,S,1,1,train,test
+2049937,travel keurig coffee maker mini with case,105006,B00DWKEHU4,us,E,1,1,train,test
+2049938,travel keurig coffee maker mini with case,105006,B014W1C2VM,us,I,1,1,train,test
+2049939,travel keurig coffee maker mini with case,105006,B018UQ5AMS,us,E,1,1,train,test
+2049940,travel keurig coffee maker mini with case,105006,B01E3X4OK6,us,S,1,1,train,test
+2049941,travel keurig coffee maker mini with case,105006,B01J57TN9C,us,S,1,1,train,test
+2049942,travel keurig coffee maker mini with case,105006,B016UO0GDA,us,E,1,1,train,test
+2049943,travel keurig coffee maker mini with case,105006,B071S96C3J,us,S,1,1,train,test
+2049944,travel keurig coffee maker mini with case,105006,B074WH5S44,us,S,1,1,train,test
+2049945,travel keurig coffee maker mini with case,105006,B078NN17K3,us,S,1,1,train,test
+2049946,travel keurig coffee maker mini with case,105006,B07C1XC3GF,us,S,1,1,train,test
+2049947,travel keurig coffee maker mini with case,105006,B07DRPF13J,us,E,1,1,train,test
+2049948,travel keurig coffee maker mini with case,105006,B07DRPYZ85,us,E,1,1,train,test
+2049949,travel keurig coffee maker mini with case,105006,B07GV2S1GS,us,E,1,1,train,test
+2049950,travel keurig coffee maker mini with case,105006,B06WLJBVDV,us,S,1,1,train,test
+2049951,travel keurig coffee maker mini with case,105006,B07K8TCHM8,us,E,1,1,train,test
+2065423,turquoise blue dress,105797,B07P6GLHHF,us,S,1,1,train,test
+2065424,turquoise blue dress,105797,B07QMPNSPW,us,S,1,1,train,test
+2065425,turquoise blue dress,105797,B07HRWP6TN,us,S,1,1,train,test
+2065426,turquoise blue dress,105797,B07BC7WLQD,us,S,1,1,train,test
+2065427,turquoise blue dress,105797,B07895FGVW,us,E,1,1,train,test
+2065428,turquoise blue dress,105797,B0758VLHR9,us,I,1,1,train,test
+2065429,turquoise blue dress,105797,B074N9RR1F,us,S,1,1,train,test
+2065430,turquoise blue dress,105797,B07MT67SWM,us,S,1,1,train,test
+2065431,turquoise blue dress,105797,B01N32UVGG,us,S,1,1,train,test
+2065432,turquoise blue dress,105797,B01MQT0UUJ,us,S,1,1,train,test
+2065433,turquoise blue dress,105797,B01MDUQOIF,us,S,1,1,train,test
+2065434,turquoise blue dress,105797,B01LL4XH8K,us,S,1,1,train,test
+2065435,turquoise blue dress,105797,B01BVA2Q7M,us,S,1,1,train,test
+2065436,turquoise blue dress,105797,B00WQ7I87C,us,E,1,1,train,test
+2065437,turquoise blue dress,105797,B00UEQ9722,us,E,1,1,train,test
+2065438,turquoise blue dress,105797,B072J9RCHY,us,E,1,1,train,test
+2103038,valentus slim roast weight loss coffee optimum,107751,B088HHRYKQ,us,S,1,1,train,test
+2103039,valentus slim roast weight loss coffee optimum,107751,B084T7Y1ZD,us,E,1,1,train,test
+2103040,valentus slim roast weight loss coffee optimum,107751,B082XKSGDS,us,I,1,1,train,test
+2103041,valentus slim roast weight loss coffee optimum,107751,B07SRVS631,us,I,1,1,train,test
+2103042,valentus slim roast weight loss coffee optimum,107751,B07Q5GTBWV,us,I,1,1,train,test
+2103043,valentus slim roast weight loss coffee optimum,107751,B07MQMMK1V,us,I,1,1,train,test
+2103044,valentus slim roast weight loss coffee optimum,107751,B07CLMHWWB,us,I,1,1,train,test
+2103045,valentus slim roast weight loss coffee optimum,107751,B07G1C9R5X,us,I,1,1,train,test
+2103046,valentus slim roast weight loss coffee optimum,107751,B06Y4VM31P,us,I,1,1,train,test
+2103047,valentus slim roast weight loss coffee optimum,107751,B06XSQGYJF,us,S,1,1,train,test
+2103048,valentus slim roast weight loss coffee optimum,107751,B01NAIMTG1,us,E,1,1,train,test
+2103049,valentus slim roast weight loss coffee optimum,107751,B01MSJ35SQ,us,I,1,1,train,test
+2103050,valentus slim roast weight loss coffee optimum,107751,B01JH12QO0,us,E,1,1,train,test
+2103051,valentus slim roast weight loss coffee optimum,107751,B01DYRBWKC,us,I,1,1,train,test
+2103052,valentus slim roast weight loss coffee optimum,107751,B007UEPMOS,us,I,1,1,train,test
+2103053,valentus slim roast weight loss coffee optimum,107751,B0791MS2CT,us,I,1,1,train,test
+2109949,vegas gold compression sleeve,108076,B082HW96D9,us,E,1,1,train,test
+2109950,vegas gold compression sleeve,108076,B082495JVS,us,E,1,1,train,test
+2109951,vegas gold compression sleeve,108076,B07N34V3R2,us,E,1,1,train,test
+2109952,vegas gold compression sleeve,108076,B07GK3DKB7,us,C,1,1,train,test
+2109953,vegas gold compression sleeve,108076,B07CC98DP2,us,E,1,1,train,test
+2109954,vegas gold compression sleeve,108076,B06X9FLHYF,us,E,1,1,train,test
+2109955,vegas gold compression sleeve,108076,B01NCJ3VN7,us,I,1,1,train,test
+2109956,vegas gold compression sleeve,108076,B01N3KTZYX,us,I,1,1,train,test
+2109957,vegas gold compression sleeve,108076,B01N0KFNKE,us,E,1,1,train,test
+2109958,vegas gold compression sleeve,108076,B01AOLIMA4,us,E,1,1,train,test
+2109959,vegas gold compression sleeve,108076,B00ZBC7YFG,us,E,1,1,train,test
+2109960,vegas gold compression sleeve,108076,B00W4569QI,us,E,1,1,train,test
+2109961,vegas gold compression sleeve,108076,B00E9WL0AO,us,C,1,1,train,test
+2109962,vegas gold compression sleeve,108076,B003WXYYGS,us,E,1,1,train,test
+2109963,vegas gold compression sleeve,108076,B0012934J2,us,E,1,1,train,test
+2109964,vegas gold compression sleeve,108076,B01BS5KZQO,us,I,1,1,train,test
+2168960,white linen and lace dress,111177,B07L3QMHK8,us,S,1,1,train,test
+2168961,white linen and lace dress,111177,B07S62XPX4,us,S,1,1,train,test
+2168962,white linen and lace dress,111177,B07QTJDMDH,us,E,1,1,train,test
+2168963,white linen and lace dress,111177,B07PJ5G41J,us,S,1,1,train,test
+2168964,white linen and lace dress,111177,B07M9QS6NW,us,S,1,1,train,test
+2168965,white linen and lace dress,111177,B07L48W9KC,us,S,1,1,train,test
+2168966,white linen and lace dress,111177,B07HDZM2RX,us,S,1,1,train,test
+2168967,white linen and lace dress,111177,B07R64L565,us,S,1,1,train,test
+2168968,white linen and lace dress,111177,B07BW73HWD,us,E,1,1,train,test
+2168969,white linen and lace dress,111177,B07BGX3XJD,us,S,1,1,train,test
+2168970,white linen and lace dress,111177,B07B8TCTBL,us,E,1,1,train,test
+2168971,white linen and lace dress,111177,B075NFKK2Q,us,S,1,1,train,test
+2168972,white linen and lace dress,111177,B01G6VR5UO,us,S,1,1,train,test
+2168973,white linen and lace dress,111177,B0116IG1KM,us,I,1,1,train,test
+2168974,white linen and lace dress,111177,B010P8LQ86,us,S,1,1,train,test
+2168975,white linen and lace dress,111177,B07GCJKXPJ,us,S,1,1,train,test
+2171561,white sox womens apparel,111322,B06XBK5LCY,us,S,1,1,train,test
+2171562,white sox womens apparel,111322,B07SB7L5FR,us,I,1,1,train,test
+2171563,white sox womens apparel,111322,B07S64K957,us,I,1,1,train,test
+2171564,white sox womens apparel,111322,B07KWJSRSM,us,I,1,1,train,test
+2171565,white sox womens apparel,111322,B07G996FY9,us,E,1,1,train,test
+2171566,white sox womens apparel,111322,B07DRNZ243,us,E,1,1,train,test
+2171567,white sox womens apparel,111322,B077V35Q57,us,I,1,1,train,test
+2171568,white sox womens apparel,111322,B01NAESU7V,us,E,1,1,train,test
+2171569,white sox womens apparel,111322,B01B5E0PTA,us,I,1,1,train,test
+2171570,white sox womens apparel,111322,B01MYV9V5H,us,E,1,1,train,test
+2171571,white sox womens apparel,111322,B0002TOZ1E,us,E,1,1,train,test
+2171572,white sox womens apparel,111322,B003XOO9Y8,us,I,1,1,train,test
+2171573,white sox womens apparel,111322,B009DA18ZO,us,I,1,1,train,test
+2171574,white sox womens apparel,111322,B01MYV9VBV,us,E,1,1,train,test
+2171575,white sox womens apparel,111322,B015Z02DH2,us,S,1,1,train,test
+2171576,white sox womens apparel,111322,B013CSL04Q,us,S,1,1,train,test
+2173442,who face prosthetics,111428,B00PA06QYE,us,I,1,1,train,test
+2173443,who face prosthetics,111428,B07JF9F6TK,us,I,1,1,train,test
+2173444,who face prosthetics,111428,B07H41B434,us,E,1,1,train,test
+2173445,who face prosthetics,111428,B07GKPF133,us,I,1,1,train,test
+2173446,who face prosthetics,111428,B07C2LKF6S,us,S,1,1,train,test
+2173447,who face prosthetics,111428,B0732HBMMT,us,I,1,1,train,test
+2173448,who face prosthetics,111428,B019SVHLEY,us,I,1,1,train,test
+2173449,who face prosthetics,111428,B00NIBLMVO,us,I,1,1,train,test
+2173450,who face prosthetics,111428,B002HNI6NQ,us,S,1,1,train,test
+2173451,who face prosthetics,111428,B00BLMR4YQ,us,S,1,1,train,test
+2173452,who face prosthetics,111428,B007T5HIQI,us,I,1,1,train,test
+2173453,who face prosthetics,111428,B006G1DNCE,us,S,1,1,train,test
+2173454,who face prosthetics,111428,B0042IVR5S,us,S,1,1,train,test
+2173455,who face prosthetics,111428,B001EQ8KAQ,us,S,1,1,train,test
+2173456,who face prosthetics,111428,B00009OOFK,us,I,1,1,train,test
+2173457,who face prosthetics,111428,B00BP6BH28,us,I,1,1,train,test
+2174782,wicker wall shelf,111501,B08DPQLDY6,us,E,1,1,train,test
+2174783,wicker wall shelf,111501,B08G49GPTG,us,S,1,1,train,test
+2174784,wicker wall shelf,111501,B08HP5DVF2,us,E,1,1,train,test
+2174785,wicker wall shelf,111501,B08L71KR3S,us,S,1,1,train,test
+2174786,wicker wall shelf,111501,B08L9YQJCV,us,E,1,1,train,test
+2174787,wicker wall shelf,111501,B08PYWLFP4,us,S,1,1,train,test
+2174788,wicker wall shelf,111501,B08QCCLQQX,us,E,1,1,train,test
+2174789,wicker wall shelf,111501,B08QCH7P5Z,us,S,1,1,train,test
+2174790,wicker wall shelf,111501,B08Y8N289G,us,I,1,1,train,test
+2174791,wicker wall shelf,111501,B08R9Q146R,us,E,1,1,train,test
+2174792,wicker wall shelf,111501,B08W26X1N7,us,I,1,1,train,test
+2174793,wicker wall shelf,111501,B08DCYD43K,us,S,1,1,train,test
+2174794,wicker wall shelf,111501,B08YJK244D,us,S,1,1,train,test
+2174795,wicker wall shelf,111501,B0918RTWGC,us,S,1,1,train,test
+2174796,wicker wall shelf,111501,B095HD41XT,us,E,1,1,train,test
+2174797,wicker wall shelf,111501,B096LGM5SQ,us,S,1,1,train,test
+2174798,wicker wall shelf,111501,B09B4JG2JC,us,I,1,1,train,test
+2174799,wicker wall shelf,111501,B08QV5QBLM,us,S,1,1,train,test
+2174800,wicker wall shelf,111501,B08D6VH4KN,us,E,1,1,train,test
+2174801,wicker wall shelf,111501,B08L46NSFX,us,I,1,1,train,test
+2174802,wicker wall shelf,111501,B088HCLDR5,us,S,1,1,train,test
+2174803,wicker wall shelf,111501,B08CV27VQ6,us,S,1,1,train,test
+2174804,wicker wall shelf,111501,B008YQ4OHM,us,S,1,1,train,test
+2174805,wicker wall shelf,111501,B00A2C2OAU,us,S,1,1,train,test
+2174806,wicker wall shelf,111501,B0149STQDK,us,S,1,1,train,test
+2174807,wicker wall shelf,111501,B01LXQVB9E,us,E,1,1,train,test
+2174808,wicker wall shelf,111501,B074DSNYKR,us,I,1,1,train,test
+2174809,wicker wall shelf,111501,B074RBG3VW,us,S,1,1,train,test
+2174810,wicker wall shelf,111501,B077GQ87NP,us,S,1,1,train,test
+2174811,wicker wall shelf,111501,B07FS9L5XQ,us,S,1,1,train,test
+2174812,wicker wall shelf,111501,B0040V5FUU,us,I,1,1,train,test
+2174813,wicker wall shelf,111501,B07VR28VSY,us,E,1,1,train,test
+2174814,wicker wall shelf,111501,B07TRQBWBD,us,I,1,1,train,test
+2174815,wicker wall shelf,111501,B087CK87QC,us,S,1,1,train,test
+2174816,wicker wall shelf,111501,B084LLBGCH,us,S,1,1,train,test
+2174817,wicker wall shelf,111501,B07YDHRTBZ,us,S,1,1,train,test
+2174818,wicker wall shelf,111501,B087RFGGZS,us,S,1,1,train,test
+2174819,wicker wall shelf,111501,B07YD9JNN6,us,S,1,1,train,test
+2174820,wicker wall shelf,111501,B07XG4XJ82,us,S,1,1,train,test
+2174821,wicker wall shelf,111501,B07WC5JKJ4,us,S,1,1,train,test
+2218415,work uniform pants,113836,B01BCPF9NE,us,E,1,1,train,test
+2218416,work uniform pants,113836,B01DWOZFFK,us,E,1,1,train,test
+2218417,work uniform pants,113836,B01NCYN1DI,us,E,1,1,train,test
+2218418,work uniform pants,113836,B06Y57W5GT,us,E,1,1,train,test
+2218419,work uniform pants,113836,B06Y5D38N4,us,E,1,1,train,test
+2218420,work uniform pants,113836,B073C7HQ8M,us,E,1,1,train,test
+2218421,work uniform pants,113836,B0744BXC55,us,E,1,1,train,test
+2218422,work uniform pants,113836,B077YXSC8T,us,E,1,1,train,test
+2218423,work uniform pants,113836,B07H37Y1R7,us,E,1,1,train,test
+2218424,work uniform pants,113836,B078VWQHG5,us,E,1,1,train,test
+2218425,work uniform pants,113836,B07BZ7RP1L,us,I,1,1,train,test
+2218426,work uniform pants,113836,B00X50ADU4,us,E,1,1,train,test
+2218427,work uniform pants,113836,B07H3BG7Y9,us,E,1,1,train,test
+2218428,work uniform pants,113836,B07T9BCZVL,us,E,1,1,train,test
+2218429,work uniform pants,113836,B07TXMN6LN,us,E,1,1,train,test
+2218430,work uniform pants,113836,B08V8Z7CV5,us,S,1,1,train,test
+2218431,work uniform pants,113836,B098R27H18,us,E,1,1,train,test
+2218432,work uniform pants,113836,B078VWDTC4,us,E,1,1,train,test
+2218433,work uniform pants,113836,B00II8NRA6,us,E,1,1,train,test
+2218434,work uniform pants,113836,B07FQPW9NW,us,E,1,1,train,test
+2218435,work uniform pants,113836,B00FEEMZ4G,us,E,1,1,train,test
+2218436,work uniform pants,113836,B00028B5GI,us,E,1,1,train,test
+2218437,work uniform pants,113836,B000N8X25Y,us,E,1,1,train,test
+2218438,work uniform pants,113836,B000UK0XT8,us,E,1,1,train,test
+2218439,work uniform pants,113836,B0016A1GNI,us,E,1,1,train,test
+2218440,work uniform pants,113836,B001D6AUNC,us,E,1,1,train,test
+2218441,work uniform pants,113836,B001D6CQG6,us,E,1,1,train,test
+2218442,work uniform pants,113836,B001D6CR1U,us,E,1,1,train,test
+2218443,work uniform pants,113836,B0029O00ZU,us,E,1,1,train,test
+2218444,work uniform pants,113836,B002JM15TM,us,E,1,1,train,test
+2218445,work uniform pants,113836,B00FYF08C6,us,E,1,1,train,test
+2218446,work uniform pants,113836,B003KN21J2,us,C,1,1,train,test
+2218447,work uniform pants,113836,B0030IU8O2,us,E,1,1,train,test
+2218448,work uniform pants,113836,B00EYBL12C,us,E,1,1,train,test
+2218449,work uniform pants,113836,B00EC8A7M2,us,E,1,1,train,test
+2218450,work uniform pants,113836,B00DVUBEGU,us,E,1,1,train,test
+2218451,work uniform pants,113836,B00F4N14EE,us,E,1,1,train,test
+2218452,work uniform pants,113836,B005HJ7F98,us,E,1,1,train,test
+2218453,work uniform pants,113836,B0043OCFMU,us,E,1,1,train,test
+2218454,work uniform pants,113836,B00DIA65IK,us,E,1,1,train,test
+2220690,wound care nurses book,113948,1930536836,us,E,1,1,train,test
+2220691,wound care nurses book,113948,1697866603,us,C,1,1,train,test
+2220692,wound care nurses book,113948,1683730372,us,E,1,1,train,test
+2220693,wound care nurses book,113948,1673783198,us,E,1,1,train,test
+2220694,wound care nurses book,113948,1627339647,us,I,1,1,train,test
+2220695,wound care nurses book,113948,1609136209,us,E,1,1,train,test
+2220696,wound care nurses book,113948,1572225742,us,E,1,1,train,test
+2220697,wound care nurses book,113948,1947239074,us,E,1,1,train,test
+2220698,wound care nurses book,113948,1496306317,us,E,1,1,train,test
+2220699,wound care nurses book,113948,1469889137,us,E,1,1,train,test
+2220700,wound care nurses book,113948,1451194412,us,E,1,1,train,test
+2220701,wound care nurses book,113948,1451194404,us,E,1,1,train,test
+2220702,wound care nurses book,113948,126044046X,us,S,1,1,train,test
+2220703,wound care nurses book,113948,0826107753,us,E,1,1,train,test
+2220704,wound care nurses book,113948,0323316212,us,E,1,1,train,test
+2220705,wound care nurses book,113948,1496388097,us,E,1,1,train,test

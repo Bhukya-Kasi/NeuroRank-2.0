@@ -1,0 +1,192 @@
+{
+  "phase": "11F",
+  "queries": 100,
+  "seed": 202611,
+  "bootstrap_resamples": 10000,
+  "permutation_resamples": 20000,
+  "confidence_level": 0.95,
+  "pvalue_adjustment": "Holm",
+  "primary_metric": "ndcg10",
+  "model_intervals": [
+    {
+      "metric": "ndcg10",
+      "model": "bm25",
+      "mean": 0.498099,
+      "ci95_lower": 0.442953,
+      "ci95_upper": 0.552813
+    },
+    {
+      "metric": "ndcg10",
+      "model": "semantic",
+      "mean": 0.540679,
+      "ci95_lower": 0.484351,
+      "ci95_upper": 0.597753
+    },
+    {
+      "metric": "ndcg10",
+      "model": "rrf",
+      "mean": 0.544535,
+      "ci95_lower": 0.491022,
+      "ci95_upper": 0.5982
+    },
+    {
+      "metric": "ndcg10",
+      "model": "lambdamart",
+      "mean": 0.50082,
+      "ci95_lower": 0.444506,
+      "ci95_upper": 0.557385
+    },
+    {
+      "metric": "ndcg10",
+      "model": "adaptive",
+      "mean": 0.532546,
+      "ci95_lower": 0.475296,
+      "ci95_upper": 0.588878
+    },
+    {
+      "metric": "recall10",
+      "model": "bm25",
+      "mean": 0.358926,
+      "ci95_lower": 0.313284,
+      "ci95_upper": 0.405232
+    },
+    {
+      "metric": "recall10",
+      "model": "semantic",
+      "mean": 0.396467,
+      "ci95_lower": 0.345554,
+      "ci95_upper": 0.446598
+    },
+    {
+      "metric": "recall10",
+      "model": "rrf",
+      "mean": 0.401802,
+      "ci95_lower": 0.355519,
+      "ci95_upper": 0.450236
+    },
+    {
+      "metric": "recall10",
+      "model": "lambdamart",
+      "mean": 0.369237,
+      "ci95_lower": 0.320967,
+      "ci95_upper": 0.418669
+    },
+    {
+      "metric": "recall10",
+      "model": "adaptive",
+      "mean": 0.388467,
+      "ci95_lower": 0.337893,
+      "ci95_upper": 0.439814
+    },
+    {
+      "metric": "recall100",
+      "model": "bm25",
+      "mean": 0.643151,
+      "ci95_lower": 0.582377,
+      "ci95_upper": 0.704246
+    },
+    {
+      "metric": "recall100",
+      "model": "semantic",
+      "mean": 0.753756,
+      "ci95_lower": 0.698077,
+      "ci95_upper": 0.806025
+    },
+    {
+      "metric": "recall100",
+      "model": "rrf",
+      "mean": 0.76818,
+      "ci95_lower": 0.709022,
+      "ci95_upper": 0.821476
+    },
+    {
+      "metric": "recall100",
+      "model": "lambdamart",
+      "mean": 0.753593,
+      "ci95_lower": 0.693996,
+      "ci95_upper": 0.809249
+    },
+    {
+      "metric": "recall100",
+      "model": "adaptive",
+      "mean": 0.754882,
+      "ci95_lower": 0.698676,
+      "ci95_upper": 0.806656
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "first_model": "rrf",
+      "second_model": "semantic",
+      "mean_difference": 0.003856,
+      "ci95_lower": -0.032716,
+      "ci95_upper": 0.039205,
+      "pvalue_unadjusted": 0.847758,
+      "first_wins": 50,
+      "second_wins": 41,
+      "ties": 9,
+      "pvalue_holm": 1.0,
+      "significant_holm_05": false
+    },
+    {
+      "first_model": "rrf",
+      "second_model": "bm25",
+      "mean_difference": 0.046436,
+      "ci95_lower": 0.022258,
+      "ci95_upper": 0.07245,
+      "pvalue_unadjusted": 0.0003,
+      "first_wins": 53,
+      "second_wins": 31,
+      "ties": 16,
+      "pvalue_holm": 0.0015,
+      "significant_holm_05": true
+    },
+    {
+      "first_model": "rrf",
+      "second_model": "lambdamart",
+      "mean_difference": 0.043715,
+      "ci95_lower": 0.001466,
+      "ci95_upper": 0.084276,
+      "pvalue_unadjusted": 0.040548,
+      "first_wins": 50,
+      "second_wins": 37,
+      "ties": 13,
+      "pvalue_holm": 0.121644,
+      "significant_holm_05": false
+    },
+    {
+      "first_model": "rrf",
+      "second_model": "adaptive",
+      "mean_difference": 0.011989,
+      "ci95_lower": -0.026906,
+      "ci95_upper": 0.048903,
+      "pvalue_unadjusted": 0.547173,
+      "first_wins": 51,
+      "second_wins": 41,
+      "ties": 8,
+      "pvalue_holm": 1.0,
+      "significant_holm_05": false
+    },
+    {
+      "first_model": "adaptive",
+      "second_model": "semantic",
+      "mean_difference": -0.008133,
+      "ci95_lower": -0.016454,
+      "ci95_upper": -0.001512,
+      "pvalue_unadjusted": 0.016799,
+      "first_wins": 0,
+      "second_wins": 7,
+      "ties": 93,
+      "pvalue_holm": 0.067197,
+      "significant_holm_05": false
+    }
+  ],
+  "methodology": "Query-level paired bootstrap percentile confidence intervals and two-sided paired sign-flip permutation tests.",
+  "limitations": [
+    "Unjudged products treated as zero relevance.",
+    "Queries treated as independent sampling units.",
+    "Results apply to the sampled ESCI catalog.",
+    "Statistical tests do not establish calibration.",
+    "Models are not retrained or tuned here."
+  ]
+}

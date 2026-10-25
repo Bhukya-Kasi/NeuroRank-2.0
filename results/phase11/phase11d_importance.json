@@ -1,0 +1,44 @@
+{
+  "full_model": {
+    "bm25": 348,
+    "semantic": 550,
+    "title_overlap": 171,
+    "exact_phrase": 37,
+    "bm25_rank": 249,
+    "semantic_rank": 325,
+    "title_length": 338,
+    "query_length": 82
+  },
+  "without_lexical": {
+    "semantic": 740,
+    "title_overlap": 269,
+    "exact_phrase": 56,
+    "semantic_rank": 448,
+    "title_length": 444,
+    "query_length": 143
+  },
+  "without_semantic": {
+    "bm25": 691,
+    "title_overlap": 234,
+    "exact_phrase": 67,
+    "bm25_rank": 374,
+    "title_length": 585,
+    "query_length": 147
+  },
+  "without_text_matching": {
+    "bm25": 492,
+    "semantic": 516,
+    "bm25_rank": 281,
+    "semantic_rank": 318,
+    "title_length": 387,
+    "query_length": 106
+  },
+  "without_length": {
+    "bm25": 522,
+    "semantic": 667,
+    "title_overlap": 210,
+    "exact_phrase": 46,
+    "bm25_rank": 305,
+    "semantic_rank": 350
+  }
+}

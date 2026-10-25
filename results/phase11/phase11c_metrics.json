@@ -1,0 +1,12 @@
+{
+  "evaluation": "cross_validated_query_selector_on_judged_retrieved_candidates",
+  "query_count": 97,
+  "folds": 5,
+  "lambda_better_queries": 38,
+  "semantic_ndcg_mean": 0.7795,
+  "lambdamart_ndcg_mean": 0.7708,
+  "adaptive_out_of_fold_ndcg_mean": 0.7786,
+  "selected_lambdamart_queries": 11,
+  "final_test_evaluated": false,
+  "warning": "Not end-to-end NDCG. Gate feature quality may be weak."
+}
