@@ -1,0 +1,43 @@
+{
+  "dataset": "Amazon ESCI sampled catalog",
+  "evaluation": "End-to-end, judgment-based",
+  "catalog_products": 2936,
+  "total_evaluated_queries": 30,
+  "relevance_definition": "Exact, Substitute or Complement",
+  "unjudged_policy": "Treated as zero for NDCG",
+  "recall_denominator": "Known relevant products in the sampled catalog",
+  "methods": {
+    "bm25": {
+      "queries": 30,
+      "NDCG@10": 0.6134,
+      "Oracle_NDCG@10": 0.8633,
+      "Recall@10": 0.401,
+      "Recall@50": 0.6608,
+      "Recall@100": 0.7291
+    },
+    "semantic": {
+      "queries": 30,
+      "NDCG@10": 0.6722,
+      "Oracle_NDCG@10": 0.9225,
+      "Recall@10": 0.459,
+      "Recall@50": 0.7838,
+      "Recall@100": 0.848
+    },
+    "rrf": {
+      "queries": 30,
+      "NDCG@10": 0.6717,
+      "Oracle_NDCG@10": 0.9258,
+      "Recall@10": 0.4621,
+      "Recall@50": 0.7956,
+      "Recall@100": 0.8381
+    },
+    "lambdamart": {
+      "queries": 30,
+      "NDCG@10": 0.5187,
+      "Oracle_NDCG@10": 0.9088,
+      "Recall@10": 0.3449,
+      "Recall@50": 0.6605,
+      "Recall@100": 0.8119
+    }
+  }
+}

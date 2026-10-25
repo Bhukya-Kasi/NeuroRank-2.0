@@ -1,0 +1,18 @@
+{
+  "lexical": {
+    "NDCG@10": 0.7603,
+    "queries": 30
+  },
+  "hybrid": {
+    "NDCG@10": 0.7625,
+    "queries": 30
+  },
+  "learned": {
+    "NDCG@10": 0.7468,
+    "queries": 30
+  },
+  "adaptive": {
+    "NDCG@10": 0.7521,
+    "queries": 30
+  }
+}

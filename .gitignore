@@ -1,9 +1,35 @@
+
+# Python
 .venv/
+venv/
 __pycache__/
+*.pyc
 .pytest_cache/
+
+# Local datasets
 data/raw/
 data/*.csv
+data/*.parquet
+
+# Generated model artifacts
 artifacts/
-results/
 *.joblib
+*.pkl
+*.faiss
+*.npy
+
+# Experiment outputs
+results/*.csv
+
+# Private settings
 .env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+{
+  "dataset": "Amazon ESCI subset",
+  "test_queries": 30,
+  "candidate_pairs": 672,
+  "evaluation": "Labeled-candidate reranking",
+  "BM25_NDCG@10": 0.7469,
+  "MiniLM_NDCG@10": 0.7743,
+  "LambdaMART_NDCG@10": 0.7802
+}

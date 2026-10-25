@@ -1,0 +1,13 @@
+{
+  "dataset": "Amazon ESCI subset",
+  "evaluation": "Labeled-candidate reranking",
+  "train_queries": 90,
+  "validation_queries": 30,
+  "test_queries": 30,
+  "test_pairs": 672,
+  "gate_type": "logistic",
+  "BM25_NDCG@10": 0.7469,
+  "MiniLM_NDCG@10": 0.7743,
+  "LambdaMART_NDCG@10": 0.778,
+  "Adaptive_NDCG@10": 0.7561
+}
